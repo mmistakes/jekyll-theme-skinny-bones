@@ -11,8 +11,8 @@ url:
 
 source: _source
 sass:
-    sass_dir: _sass
-    style: compressed
+  sass_dir: _sass
+  style: compressed
 permalink: /:categories/:title/
 markdown: kramdown
 highlighter: pygments
@@ -23,11 +23,13 @@ gems:
 # Site owner
 owner:
   name: Michael Rose
+  web: http://mademistakes.com
   email: michael@mademistakes.com
   twitter: mmistakes
   bio: "Just another boring, tattooed, time traveling designer."
   avatar: bio-photo.jpg
   google:
+    plus: +MichaelRoseDesign
     ad-client: ca-pub-7328585512091257
     ad-slot: 3049671934
   avatar: bio-photo.jpg # 160x160 px image for author byline

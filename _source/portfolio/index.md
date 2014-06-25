@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "Sample Portfolio Page"
 date: 2014-05-30T11:40:45-04:00
 modified:
 excerpt: "Things I've designed, developed, illustrated, whatever. test"
