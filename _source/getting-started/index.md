@@ -48,6 +48,7 @@ skinny-bones-jekyll-master
 |   |    ├── archive.html                   # archive listing of a group of posts or collection
 |   |    ├── article.html                   # articles, blog posts, text heavy material layout
 |   |    ├── default.html                   # base
+|   |    ├── home.html                      # home page
 |   |    └── media.html                     # portfolio, work, media layout
 |   ├── _posts                              # posts grouped by category for sanity
 |   ├── _sass
@@ -79,8 +80,7 @@ skinny-bones-jekyll-master
 |   ├── apple-touch-icon-precomposed.png    # 152x152 px for iOS
 |   ├── atom.xml                            # posts feed
 |   ├── favicon.ico                         # 32x32 px for browsers
-|   ├── index.md                            # homepage content
-|   └── sitemap.xml                         # sitemap for search engines
+|   └── index.md                            # homepage content
 └── _config.yml                             # Jekyll settings
 {% endhighlight %}
 
