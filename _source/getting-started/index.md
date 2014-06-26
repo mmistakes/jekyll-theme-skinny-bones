@@ -1,48 +1,45 @@
-# Skinny Bones Jekyll Starter
-
-Just a little something I'm using to jump start a site refresh. Super alpha and super incomplete, use and abuse at your own risk.
-
-Keep in mind, this is **not a theme** and will need styling and additional markup to really sing.
-
-Requires Jekyll 2+. Doesn't currently work with GitHub Pages because they only support Jekyll 1.5.0
-
-Full documentation coming eventually, in the meantime the import parts are below. I used this starter with some minor CSS changes to build my website [mademistakes.com](http://mademistakes.com), so check that out if you want to see what can be done and how I did it.
-
 ---
-
-## To Do
-
-Needs work:
-
-- [ ] Post pagination --- needs styling. Disabled for now.
-- [ ] Year filter for archive `_layout`
-
-Documentation needed:
-
-- [x] How files and folders are organized
-- [ ] Quick start checklist
-- [x] Creating new posts/pages with [Octopress gem](https://github.com/octopress/octopress)
-- [ ] Bug fixes and contributing to the project
-
-Other:
-
-- [ ] Investigate turning Skinny Bones into an [Octopress Ink](https://github.com/octopress/ink) theme
-
+layout: article
+title: "Getting Started with Skinny Bones"
+date: 2014-06-25T13:57:25-04:00
+modified:
+excerpt:
+tags: []
+image:
+  feature:
+  teaser:
+  thumb:
+ads: false
+toc: true
+share: false
 ---
 
 ## Installation
 
-1. Install Jekyll
-2. Install theme
+Skinny Bones requires [Jekyll](http://jekyllrb.com/) 2+. Make sure to run `gem update jekyll` if you aren't on the latest version or `gem install jekyll` if this is your first time installing it.
+
+If you are creating a new Jekyll site using Skinny Bones following these steps:
+
+1. [Download Skinny Bones](https://github.com/mmistakes/skinny-bones-jekyll/archive/master.zip) and unzip.
+2. Rename `skinny-bones-jekyll-master` to something meaningful ie: `new-site`
+3. Update `config.yml`, add navigation, and add posts/pages. Full details below.
+
+If you want to use Skinny Bones with an existing Jekyll site follow these steps:
+
+1. [Download Skinny Bones](https://github.com/mmistakes/skinny-bones-jekyll/archive/master.zip) and unzip.
+2. Rename `skinny-bones-jekyll-master` to something meaningful ie: `new-site`
+3. Add all of your existing posts, pages, and any other content you want to move over.
+4. Update posts and pages YAML to match names used by Skinny Bones. Full details below.
+5. Update `config.yml`, add navigation links. Full details below. 
 
 ---
 
 ## Scaffolding
 
-This is how I like to set my Jekyll sites up. All of your posts, layouts, includes, stylesheets, assets, and whatever else is grouped nicely under `_source/`. The compiled Jekyll site outputs to `_site/`.
+How Skinny Bones is organized and what the various files are. All posts, layouts, includes, stylesheets, assets, and whatever else is grouped nicely under `_source/`. The compiled Jekyll site outputs to `_site/`.
 
-``` bash
-skinny-bones-jekyll
+{% highlight bash %}
+skinny-bones-jekyll-master
 ├── _site                                   # compiled site ready to deploy
 ├── _source                                 # all source files
 |   ├── _images                             # unoptimized images
@@ -85,31 +82,60 @@ skinny-bones-jekyll
 |   ├── index.md                            # homepage content
 |   └── sitemap.xml                         # sitemap for search engines
 └── _config.yml                             # Jekyll settings
-```
+{% endhighlight %}
 
 ---
 
-## Quick Start
+## Site Setup
 
 A quick checklist of the files you'll want to edit to get up and running.
 
-### Site Wide Variables
+### Site Wide Configuration
 
-`_config.yml` is your friend. Open it up and personalize it. 
+`_config.yml` is your friend. Open it up and personalize it. Most variables are self explanatory but here's an explanation of each if needed:
 
-Describe what everything does:
+#### `title`
 
-- [ ] Site name, description
-- [ ] Site logo
-- [ ] Site teaser image
-- [ ] Setting site.url and absolute link jazz
-- [ ] Site owner
+The title of your site... shocker!
+
+Example `title: Skinny Bones`
+
+#### `description`
+
+A description of your site. Used in page meta.
+
+Example `description: "A lightweight site starter for Jekyll"`
+
+#### `logo`
+
+Site logo, used mostly as a default image that appears on Twitter Cards if a large feature image isn't present. If used place a square image around 120x120 px in `_source/images/`.
+
+Example `logo: 120x120.gif`
+
+#### `teaser`
+
+Default teaser image used for posts and pages that do not have one assigned. This image shows up in the grid archive listing module. If can have whatever dimensions you want, I've found that an image with rectangular proportions work nicely. Like the site logo, place in `_source/images/`.
+
+Example `teaser: 400x250.gif`
+
+#### `url`
+
+Used to generate absolute urls in `sitemap.xml`, `atom.xml`, and for generating canonical URLs in `<head>`. When developing locally either comment this out or use something like `http://localhost:4000` so all assets load properly.
+
+Examples:
+
+{% highlight yaml %}
+url: http://mmistakes.github.io/skinny-bones-jekyll
+url: http://localhost:4000
+url: http://mademistakes.com
+url: 
+{% endhighlight %}
 
 ### Navigation Links
 
 To set what links appear in the top navigation edit `_data/navigation.yml`. Use the following format to set the URL, title, teaser image/description (used in sliding menu) of each link:
 
-``` yaml
+{% highlight yaml %}
 - title: Portfolio
   url: /portfolio/
   excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
@@ -117,17 +143,17 @@ To set what links appear in the top navigation edit `_data/navigation.yml`. Use 
 
 - title: Made Mistakes
   url: http://mademistakes.com  
-```
+{% endhighlight %}
 
 To set what links appear in the footer edit `_data/footer.yml`. Use the following format for each link:
 
-``` yaml
+{% highlight yaml %}
 - title: Subscribe
   url: /subscribe/
 
 - title: External Page
   url: http://mademistakes.com  
-```
+{% endhighlight %}
 
 ### Posts
 
@@ -163,13 +189,13 @@ Or you can create `_source/about/index.md` and omit the YAML permalink. The choi
 
 Create an archive page for each category or section of your site that you want to list a collection of posts. On these pages you'll want to use the `archive` layout and use a variation of the following for the page's content changing `foo` to the appropriate category you want to list posts from.
 
-``` yaml
+{% highlight html %}
 <div class="tiles">
-{% for post in site.categories.foo %}
-  {% include post-grid.html %}
-{% endfor %}
+{{ "{% for post in site.categories.foo " }}%}
+  {{ "{% include post-grid.html " }}%}
+{{ "{% endfor " }}%}
 </div><!-- /.tiles -->
-```
+{% endhighlight %}
 
 If you'd prefer a less visual list of posts use `{% include post-list.html %}` instead of the `post-grid.html` _include.
 
@@ -179,40 +205,43 @@ If you'd prefer a less visual list of posts use `{% include post-list.html %}` i
 
 Install the [Octopress](https://github.com/octopress/octopress) gem if it isn't already.
 
-``` bash
+{% highlight bash %}
 $ gem install octopress --pre
-```
+{% endhighlight %}
 
 ### New Post
 
 Default command
 
-``` bash
+{% highlight bash %}
 $ octopress new post "Post Title"
-```
+{% endhighlight %}
 
 Default works great if you want all your posts in one directory, but if you're like me and want to group them into subfolders like `/articles`, `/portfolio`, etc. Then this is the command for you. By specifying the DIR it will create a new post in that folder and populate the `categories:` YAML with the same value.
 
-``` bash
-$ octopress new post "Article Post Title" --dir articles
-```
+{% highlight bash %}
+{% endhighlight %}
 
 The default `_layout` used for new posts is `articles`. If you want to use the media layout or something else specify it like so
 
-``` bash
+{% highlight bash %}
 $ octopress new post "Portfolio Post Title" --dir portfolio --template media
-```
+{% endhighlight %}
 
 ### New Page
 
 To create a new page use the following command.
 
-``` bash
+{% highlight bash %}
 $ octopress new page about/
-```
+{% endhighlight %}
 
 This will create a page at `_source/about/index.md`
 
 ---
 
 ## Contributing
+
+Found a bug or aren't quite sure how something works? By all means [submit an issue](https://github.com/mmistakes/skinny-bones-jekyll/issues) on GitHub. For straight forward bug fixes feel free to submit pull requests. 
+
+Skinny Bones was built predominately as a framework for [my own site](http://mademistakes.com). My intention was never to make it all things for all people. So please keep that in mind before submitting new features or enhancements. If you've used any of my [Jekyll themes](http://mademistakes.com/work/jekyll-themes/) I think it's pretty clear I favor the simple over the complex.

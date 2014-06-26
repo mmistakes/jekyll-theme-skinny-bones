@@ -235,6 +235,21 @@
 		}
 	}
 }
+// page lead
+.page-lead {
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	text-align: center;
+	color: $white;
+	@include media($large) {
+		background-size: cover;
+	}
+}
+.page-lead-content {
+	padding-top: 3em;
+	padding-bottom: 3em;
+}
 // page header
 .page-feature {
 	@include fill-parent;
