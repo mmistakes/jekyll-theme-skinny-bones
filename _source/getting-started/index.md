@@ -22,15 +22,17 @@ If you are creating a new Jekyll site using Skinny Bones following these steps:
 
 1. [Download Skinny Bones](https://github.com/mmistakes/skinny-bones-jekyll/archive/master.zip) and unzip.
 2. Rename `skinny-bones-jekyll-master` to something meaningful ie: `new-site`
-3. Update `config.yml`, add navigation, and add posts/pages. Full details below.
+3. Run `bundle install` to install all dependencies (Jekyll, [Jekyll-Sitemap](https://github.com/jekyll/jekyll-sitemap), [Octopress](https://github.com/octopress/octopress), [Bourbon](http://bourbon.io), etc)
+4. Update `config.yml`, add navigation, and add posts/pages. Full details below.
 
 If you want to use Skinny Bones with an existing Jekyll site follow these steps:
 
 1. [Download Skinny Bones](https://github.com/mmistakes/skinny-bones-jekyll/archive/master.zip) and unzip.
 2. Rename `skinny-bones-jekyll-master` to something meaningful ie: `new-site`
-3. Add all of your existing posts, pages, and any other content you want to move over.
-4. Update posts and pages YAML to match names used by Skinny Bones. Full details below.
-5. Update `config.yml`, add navigation links. Full details below. 
+3. Run `bundle install` to install all dependencies (Jekyll, [Jekyll-Sitemap](https://github.com/jekyll/jekyll-sitemap), [Octopress](https://github.com/octopress/octopress), [Bourbon](http://bourbon.io), etc)
+4. Add all of your existing posts, pages, and any other content you want to move over.
+5. Update posts and pages YAML to match names used by Skinny Bones. Full details below.
+6. Update `config.yml`, add navigation links. Full details below. 
 
 ---
 
