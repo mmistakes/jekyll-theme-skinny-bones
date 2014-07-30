@@ -247,8 +247,10 @@
 	}
 }
 .page-lead-content {
-	padding-top: 3em;
-	padding-bottom: 3em;
+	padding: 3em;
+	h1 {
+		@include font-size(80);
+	}
 }
 // page header
 .page-feature {
