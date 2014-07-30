@@ -38,52 +38,51 @@ If you want to use Skinny Bones with an existing Jekyll site follow these steps:
 
 ## Scaffolding
 
-How Skinny Bones is organized and what the various files are. All posts, layouts, includes, stylesheets, assets, and whatever else is grouped nicely under `_source/`. The compiled Jekyll site outputs to `_site/`.
+How Skinny Bones is organized and what the various files are. All posts, layouts, includes, stylesheets, assets, and whatever else is grouped nicely under the root folder. The compiled Jekyll site outputs to `_site/`.
 
 {% highlight bash %}
 skinny-bones-jekyll-master
-├── _site                                   # compiled site ready to deploy
-├── _source                                 # all source files
-|   ├── _images                             # unoptimized images
-|   ├── _includes                           # reusable blocks for _layouts
-|   ├── _layouts
-|   |    ├── archive.html                   # archive listing of a group of posts or collection
-|   |    ├── article.html                   # articles, blog posts, text heavy material layout
-|   |    ├── default.html                   # base
-|   |    ├── home.html                      # home page
-|   |    └── media.html                     # portfolio, work, media layout
-|   ├── _posts                              # posts grouped by category for sanity
-|   ├── _sass
-|   |   ├── vendor                          
-|   |   |   ├── bourbon                     # Bourbon mixin library   
-|   |   |   └── neat                        # Neat grid library
-|   |   ├── _animations.scss                # CSS3 animations
-|   |   ├── _badges.scss                    # small badges
-|   |   ├── _bullets.scss                   # visual bullets
-|   |   ├── _buttons.scss                   # buttons
-|   |   ├── _grid-settings.scss             # Neat settings         
-|   |   ├── _helpers.scss                   # site wide helper classes
-|   |   ├── _layout.scss                    # structure and placement, the bulk of the design
-|   |   ├── _mixins.scss                    # custom mixins
-|   |   ├── _notices.scss                   # notice blocks
-|   |   ├── _pygments.scss                  # Pygments.rb syntax highlighting
-|   |   ├── _reset.scss                     # normalize and reset elements
-|   |   ├── _sliding-menu.scss              # sliding menu overlay
-|   |   ├── _variables.scss                 # global colors and fonts
+├── _site                               # compiled site ready to deploy
+├── _images                             # unoptimized images
+├── _includes                           # reusable blocks for _layouts
+├── _layouts
+|    ├── archive.html                   # archive listing of a group of posts or collection
+|    ├── article.html                   # articles, blog posts, text heavy material layout
+|    ├── default.html                   # base
+|    ├── home.html                      # home page
+|    └── media.html                     # portfolio, work, media layout
+├── _posts                              # posts grouped by category for sanity
+├── _sass
+|   ├── vendor                          
+|   |   ├── bourbon                     # Bourbon mixin library   
+|   |   └── neat                        # Neat grid library
+|   ├── _animations.scss                # CSS3 animations
+|   ├── _badges.scss                    # small badges
+|   ├── _bullets.scss                   # visual bullets
+|   ├── _buttons.scss                   # buttons
+|   ├── _grid-settings.scss             # Neat settings         
+|   ├── _helpers.scss                   # site wide helper classes
+|   ├── _layout.scss                    # structure and placement, the bulk of the design
+|   ├── _mixins.scss                    # custom mixins
+|   ├── _notices.scss                   # notice blocks
+|   ├── _pygments.scss                  # Pygments.rb syntax highlighting
+|   ├── _reset.scss                     # normalize and reset elements
+|   ├── _sliding-menu.scss              # sliding menu overlay
+|   ├── _variables.scss                 # global colors and fonts
 |   ├── css
-|   |   └── main.scss                       # loads all Sass partials
-|   ├── fonts                               # webfonts
-|   ├── images                              # images
-|   ├── js
-|   |   ├── plugins                         # jQuery plugins
-|   |   ├── vendor                          # vendor scripts that don't get combined with the rest
-|   |   ├── _main.js                        # site scripts and plugin settings go here
-|   |   └── main.min.js                     # concatenated and minified site scripts
-|   ├── apple-touch-icon-precomposed.png    # 152x152 px for iOS
-|   ├── atom.xml                            # posts feed
-|   ├── favicon.ico                         # 32x32 px for browsers
-|   └── index.md                            # homepage content
-└── _config.yml                             # Jekyll settings
+|   └── main.scss                       # loads all Sass partials
+├── fonts                               # webfonts
+├── images                              # images
+├── js
+|   ├── plugins                         # jQuery plugins
+|   ├── vendor                          # vendor scripts that don't get combined with the rest
+|   ├── _main.js                        # site scripts and plugin settings go here
+|   └── main.min.js                     # concatenated and minified site scripts
+├── apple-touch-icon-precomposed.png    # 152x152 px for iOS
+├── atom.xml                            # posts feed
+├── favicon.ico                         # 32x32 px for browsers
+└── index.md                            # homepage content
+└── _config.yml                         # Jekyll settings
 {% endhighlight %}
 
 ---
@@ -110,13 +109,13 @@ Example `description: "A lightweight site starter for Jekyll"`
 
 #### `logo`
 
-Site logo, used mostly as a default image that appears on Twitter Cards if a large feature image isn't present. If used place a square image around 120x120 px in `_source/images/`.
+Site logo, used mostly as a default image that appears on Twitter Cards if a large feature image isn't present. If used place a square image around 120x120 px in `/images/`.
 
 Example `logo: 120x120.gif`
 
 #### `teaser`
 
-Default teaser image used for posts and pages that do not have one assigned. This image shows up in the grid archive listing module. If can have whatever dimensions you want, I've found that an image with rectangular proportions work nicely. Like the site logo, place in `_source/images/`.
+Default teaser image used for posts and pages that do not have one assigned. This image shows up in the grid archive listing module. If can have whatever dimensions you want, I've found that an image with rectangular proportions work nicely. Like the site logo, place in `/images/`.
 
 Example `teaser: 400x250.gif`
 
@@ -183,9 +182,9 @@ The only YAML required is `title` and `layout`. It's a good idea to add a custom
 
 Pages can be handled in two ways if you want to maintain pretty URLs for your site.
 
-Place `.md` files in root and add the appropriate permalink YAML. For example if you want your **About** page to live at `domain.com/about/` create a file named `_source/about.md` and add `permalink: /about/` to its YAML.
+Place `.md` files in root and add the appropriate permalink YAML. For example if you want your **About** page to live at `domain.com/about/` create a file named `/about.md` and add `permalink: /about/` to its YAML.
 
-Or you can create `_source/about/index.md` and omit the YAML permalink. The choice is yours.
+Or you can create `/about/index.md` and omit the YAML permalink. The choice is yours.
 
 ### Archives
 
@@ -238,7 +237,7 @@ To create a new page use the following command.
 $ octopress new page about/
 {% endhighlight %}
 
-This will create a page at `_source/about/index.md`
+This will create a page at `/about/index.md`
 
 ---
 
