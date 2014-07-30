@@ -9,13 +9,12 @@ url: http://mmistakes.github.io/skinny-bones-jekyll
 
 # Jekyll configuration
 
-source: _source
 sass:
   sass_dir: _sass
   style: compressed
 permalink: /:categories/:title/
 markdown: kramdown
-highlighter: rouge
+highlighter: pygments
 gems:
   - jekyll-sitemap
 
