@@ -2,33 +2,29 @@
 layout: home
 permalink: /
 image:
-  feature: 1600x800.gif
+  feature: wood-texture-1600x800.jpg
 ---
 
 <div class="tiles">
 
-<div class="tile center">
-  <img src="http://placehold.it/600x375" alt="">
-  <h2 class="post-title">Built for Jekyll 2+</h2>
-  <p class="post-excerpt">Takes advantage of native Sass support recently added to Jekyll, along with data files to make customizing your site easier.</p>
+<div class="tile">
+  <h2 class="post-title">Built for Jekyll 2</h2>
+  <p class="post-excerpt">Takes advantage of native Sass support and data files to make customizing your site easier.</p>
 </div><!-- /.tile -->
 
-<div class="tile center">
-  <img src="http://placehold.it/600x375" alt="">
+<div class="tile">
   <h2 class="post-title">Content First</h2>
-  <p class="post-excerpt">Designed to put the focus on your writing and content. Headers, navigation, sidebars, and footers have been purposely deemphasized.</p>
+  <p class="post-excerpt">Designed to put the focus on you and your writing. Headers, navigation, sidebars, and footers have been purposely deemphasized.</p>
 </div><!-- /.tile -->
 
-<div class="tile center">
-  <img src="http://placehold.it/600x375" alt="">
+<div class="tile">
   <h2 class="post-title">Customizable</h2>
-  <p class="post-excerpt">Includes several layouts and modules for Disqus comments, social sharing buttons, and table of contents that can be activated per post or page.</p>
+  <p class="post-excerpt">Packed with layouts and modules. Include Disqus comments, social sharing buttons, and table of contents on one or all pages.</p>
 </div><!-- /.tile -->
 
-<div class="tile center">
-  <img src="http://placehold.it/600x375" alt="">
+<div class="tile">
   <h2 class="post-title">Extensible</h2>
-  <p class="post-excerpt">Compatible with popular libraries like Bourbon + Neat and the new Octopress toolkit to help build and deploy your site.</p>
+  <p class="post-excerpt">Compatible with popular libraries like <a href="http://bourbon.io">Bourbon</a>, <a href="http://neat.bourbon.io/">Neat</a>, and <a href="http://github.com/octopress/octopress">Octopress</a> to help build and deploy your site with ease.</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
