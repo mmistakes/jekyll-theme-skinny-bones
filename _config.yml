@@ -26,12 +26,11 @@ owner:
   email: michael@mademistakes.com
   twitter: mmistakes
   bio: "Just another boring, tattooed, time traveling designer."
-  avatar: bio-photo.jpg
+  avatar: bio-photo.jpg # 160x160 px image for author byline
   google:
     plus: +MichaelRoseDesign
     ad-client: ca-pub-7328585512091257
     ad-slot: 3049671934
-  avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname:
 
 
