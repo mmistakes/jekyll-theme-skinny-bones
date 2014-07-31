@@ -10,9 +10,9 @@
   excerpt: "Examples of long form posts."
   image: 400x250.gif
 
-- title: Portfolio
-  url: /portfolio/
-  excerpt: "Examples of posts perfect for showcasing work, photographs, etc."
+- title: Media
+  url: /media/
+  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
   image: 400x250.gif
 
 - title: About
