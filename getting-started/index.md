@@ -197,7 +197,7 @@ Create an archive page for each category or section of your site that you want t
 </div><!-- /.tiles -->
 {% endhighlight %}
 
-If you'd prefer a less visual list of posts use `{% include post-list.html %}` instead of the `post-grid.html` _include.
+If you'd prefer a less visual list of posts use `{{ "{% include post-list.html " }}%}` instead of the `post-grid.html` _include.
 
 ---
 
