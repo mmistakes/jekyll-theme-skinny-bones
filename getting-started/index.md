@@ -90,6 +90,8 @@ skinny-bones-jekyll-master
 
 A quick checklist of the files you'll want to edit to get up and running.
 
+---
+
 ### Site Wide Configuration
 
 `_config.yml` is your friend. Open it up and personalize it. Most variables are self explanatory but here's an explanation of each if needed:
@@ -131,6 +133,8 @@ url: http://mademistakes.com
 url: 
 {% endhighlight %}
 
+---
+
 ### Navigation Links
 
 To set what links appear in the top navigation edit `_data/navigation.yml`. Use the following format to set the URL, title, teaser image/description (used in sliding menu) of each link:
@@ -155,6 +159,8 @@ To set what links appear in the footer edit `_data/footer.yml`. Use the followin
   url: http://mademistakes.com  
 {% endhighlight %}
 
+---
+
 ### Posts
 
 #### Organizing Posts
@@ -165,15 +171,112 @@ Create new .md files in `_posts`. If you aren't using categories to organize you
 
 Which when process by jekyll would have a URL of `domain.com/foo/new-post/`.
 
-#### Post YAML
+---
 
-The only YAML required is `title` and `layout`. It's a good idea to add a custom excerpt otherwise Jekyll will just take the content from the first sentence. Images are a good idea as well to add visual interest to a page.
+### YAML Front Matter
 
-1. Add `categories: ` and assign a single category name for added organization
-2. image YAML for featured images, teasers, and square thumbnails
-3. Table of Contents conditional
-4. Ads conditional (Google Responsive Ads `_includes/advertising.html`)
-5. Disqus comments conditional 
+The only YAML required for posts and pages are `title` and `layout`, everything else is optional.
+
+#### Categories
+
+Add `categories: ` and assign a single category name for added organization. The theme makes the assumption that posts will only be assigned to one category. You can certainly assign multiple categories but unexpected things may happen with the permalink structure.
+
+I like to group posts by general categories like `articles`, `portfolio`, `whatever`, and using tags to more specific classifications.
+
+#### Modified Date
+
+If you assign a modified date to a post or page it will override the published date and appear in the page footer as `Updated August 27, 2014`. It's also used as microformats data to give search engines another piece of info about your content.
+
+I like to use this [Sublime Text plugin](https://github.com/FichteFoll/sublimetext-insertdate) to insert the current date after I've updated a post. It should follow the same date format used by Jekyll when naming posts: `YYYY-MM-DD`.
+
+{% highlight YAML %}
+modified: 2014-08-27
+modified: 2014-08-27T11:57:41-04:00 # more verbose, also acceptable
+{% endhighlight %}
+
+#### Images
+
+Here you can define the various images assigned to posts and pages. 
+
+##### Featured Images
+
+A good rule of thumb is to keep feature images nice and wide so you don't push the body text too far down. An image cropped around around 1024 x 256 pixels will keep file size down with an acceptable resolution for most devices. If you want to serve these images responsively I'd suggest looking at the [Jekyll Picture Tag](https://github.com/robwierzbowski/jekyll-picture-tag) plugin[^plugins].
+
+[^plugins]: If you're using GitHub Pages to host your site be aware that plugins are disabled. You'll need to build your site locally and then manually deploy if you want to use this sweet plugin.
+
+The post and page layouts make the assumption that the feature images live in the `images/` folder. To add a feature image to a post or page just include the filename in the front matter like so.
+
+{% highlight yaml %}
+image:
+  feature: feature-image-filename.jpg
+{% endhighlight %}
+
+To add attribution to a feature image use the following YAML front matter on posts or pages. Image credits appear directly below the feature image with a link back to the original source if supplied.
+
+{% highlight yaml %}
+image:
+  feature: feature-image-filename.jpg
+  credit: Michael Rose #name of the person or site you want to credit
+  creditlink: http://mademistakes.com #url to their site or licensing
+{% endhighlight %}
+
+##### Teasers Images
+
+Teaser images appear on archive pages in the post grid and are also used in the off-canvas menu. If you don't assign a teaser image for a specific post or page, the default one will be used. The default image can be set in `_config.yml` under site wide configuration `teaser: 400x250.gif`. Teaser images should be roughly 400 x 250 pixels to scale at a comfortable size at the various screen breakpoints.
+
+<figure>
+  <img src="{{ site.url }}/images/teaser-screenshot.jpg" alt="teaser image screenshot">
+  <figcaption>Images outlined in red show how teasers typically display</figcaption>
+</figure>
+
+Similar to the feature images you don't want to go crazy and us large high resolution images. Keep in mind performance and balance accordingly.
+
+To assign a teaser image on a post use the following YAML:
+
+{% highlight yaml %}
+image:
+  teaser: 400x250.gif
+  feature: feature-image-filename.jpg
+  credit: Michael Rose #name of the person or site you want to credit
+  creditlink: http://mademistakes.com #url to their site or licensing
+{% endhighlight %}
+
+#### Table of Contents
+
+For longer posts you may find it beneficial to include a table of contents navigation. Use `toc: true` to enable it at on specific posts and pages. A table of contents menu will be built using `h2` elements on the page. This behavior along with some additional customizations can be made within the script tag found in `_layouts/default.html`.
+
+#### Google AdSense
+
+To use Google Ads on your site create a Google AdSense account and then add your `ad-client` and `ad-slot` variables to `_config.yml`. To show ads on a post/page add `ads: true` to the front matter.
+
+<figure>
+  <img src="{{ site.url }}/images/google-adsense-responsive.jpg" alt="responsive type">
+</figure>
+
+Ad type should be **responsive** which will allow the ad size to adapt and change dependent on screen size. If you'd like to use a different ad network just edit the appropriate HTML and JavaScript in `_includes/advertising.html`.
+
+#### Disqus Comments
+
+Create a [Disqus](http://disqus.com) account and change `disqus-shortname` in `_config.yml` to the Disqus *shortname* you just setup. To enable commenting on a post, add the following to its front matter:
+
+{% highlight yaml %}
+comments: true
+{% endhighlight %}
+
+#### Social Sharing Links
+
+To add Facebook, Twitter, and Google+ share links to a post add the following YAML front matter.
+
+{% highlight yaml %}
+share: true
+{% endhighlight %}
+
+<figure>
+  <img src="{{ site.url }}/images/social-sharing-links-screenshot.jpg" alt="social sharing links screenshot">
+  <figcaption>Share links appear the below author details block.</figcaption>
+</figure>
+
+---
 
 ### Pages
 
