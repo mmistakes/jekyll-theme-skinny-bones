@@ -30,7 +30,7 @@ If you want to use Skinny Bones with an existing Jekyll site follow these steps:
 2. Rename `skinny-bones-jekyll-master` to something meaningful ie: `new-site`
 3. Run `bundle install` to install all dependencies (Jekyll, [Jekyll-Sitemap](https://github.com/jekyll/jekyll-sitemap), [Octopress](https://github.com/octopress/octopress), [Bourbon](http://bourbon.io), etc)
 4. Add all of your existing posts, pages, and any other content you want to move over.
-5. Update posts and pages YAML to match names used by Skinny Bones. Full details below.
+5. Update YAML front matter blocks to match names used by Skinny Bones. Full details below.
 6. Update `config.yml`, add navigation links. Full details below. 
 
 ---
@@ -94,42 +94,47 @@ A quick checklist of the files you'll want to edit to get up and running.
 
 ### Site Wide Configuration
 
-`_config.yml` is your friend. Open it up and personalize it. Most variables are self explanatory but here's an explanation of each if needed:
+`_config.yml` is your friend. Open it up and personalize it. Most variables are self explanatory but here's an explanation of each anyways:
 
-#### `title`
+#### Site Title
 
 The title of your site... shocker!
 
 Example `title: Skinny Bones`
 
-#### `description`
+#### Site Description
 
 A description of your site. Used in page meta.
 
 Example `description: "A lightweight site starter for Jekyll"`
 
-#### `logo`
+#### Site Logo
 
-Site logo, used mostly as a default image that appears on Twitter Cards if a large feature image isn't present. If used place a square image around 120x120 px in `/images/`.
+Site logo, used mostly as a default image that appears on Twitter Cards if a large feature image isn't present. If used place a square image around 120 x 120 pixels in `/images/`.
 
 Example `logo: 120x120.gif`
 
-#### `teaser`
+<figure>
+  <img src="{{ site.url }}/images/twitter-card-screenshot.jpg" alt="sample Twitter Card screenshot">
+  <figcaption>Site logo is used for Twitter Cards when a feature image is not defined for the page.</figcaption>
+</figure>
 
-Default teaser image used for posts and pages that do not have one assigned. This image shows up in the grid archive listing module. If can have whatever dimensions you want, I've found that an image with rectangular proportions work nicely. Like the site logo, place in `/images/`.
+#### Site Teaser Image
+
+Default teaser image used for posts and pages that do not have one assigned. This image shows up in the archive grid module. If can have whatever dimensions you want, I've found that an image with rectangular proportions work nicely. Like the site logo, place in `/images/`.
 
 Example `teaser: 400x250.gif`
 
-#### `url`
+#### Site URL
 
-Used to generate absolute urls in `sitemap.xml`, `atom.xml`, and for generating canonical URLs in `<head>`. When developing locally either comment this out or use something like `http://localhost:4000` so all assets load properly.
+Used to generate absolute URLs in `sitemap.xml`, `atom.xml`, and for generating canonical URLs in `<head>`. When developing locally either comment this out or use something like `http://localhost:4000` so all assets load properly.
 
 Examples:
 
 {% highlight yaml %}
 url: http://mmistakes.github.io/skinny-bones-jekyll
 url: http://localhost:4000
-url: http://mademistakes.com
+url: //cooldude.github.io
 url: 
 {% endhighlight %}
 
@@ -137,7 +142,7 @@ url:
 
 ### Navigation Links
 
-To set what links appear in the top navigation edit `_data/navigation.yml`. Use the following format to set the URL, title, teaser image/description (used in sliding menu) of each link:
+To set what links appear in the top navigation edit `_data/navigation.yml`. Use the following format to set the URL, title, teaser image/description (used in off-canvas menu) of each link:
 
 {% highlight yaml %}
 - title: Portfolio
@@ -165,7 +170,7 @@ To set what links appear in the footer edit `_data/footer.yml`. Use the followin
 
 #### Organizing Posts
 
-Create new .md files in `_posts`. If you aren't using categories to organize your posts then don't worry about this next bit. I like to organize all my posts by a single category and file them under sub-directories beneath `_posts`. For example if I have post named `2014-06-01-new-post.md` and it has a category of `foo` it will have the following path:
+Create new MarkDown (.md) files in `_posts`. If you aren't using categories to organize your posts then don't worry about this next bit. I like to organize all my posts by a single category and file them under sub-directories beneath `_posts`. For example if I have post named `2014-06-01-new-post.md` and it has a category of `foo` it will have the following path:
 
 `_posts/foo/2014-06-01-new-post.md`
 
@@ -175,19 +180,19 @@ Which when process by jekyll would have a URL of `domain.com/foo/new-post/`.
 
 ### YAML Front Matter
 
-The only YAML required for posts and pages are `title` and `layout`, everything else is optional.
+The only YAML Front Matter required for posts and pages are `title` and `layout`, everything else is optional.
 
 #### Categories
 
-Add `categories: ` and assign a single category name for added organization. The theme makes the assumption that posts will only be assigned to one category. You can certainly assign multiple categories but unexpected things may happen with the permalink structure.
+Add `categories: ` and assign a single category name for added organization. The theme makes the assumption that posts will only be assigned to one category at a time. You can certainly assign multiple categories but unexpected things may happen with the permalink structure.
 
 I like to group posts by general categories like `articles`, `portfolio`, `whatever`, and using tags to more specific classifications.
 
 #### Modified Date
 
-If you assign a modified date to a post or page it will override the published date and appear in the page footer as `Updated August 27, 2014`. It's also used as microformats data to give search engines another piece of info about your content.
+If you assign a modified date to a post or page it will override the published date and appear in the page footer with the following format `Updated August 27, 2014`. It's also used as metadata to give search engines another piece of info about your content.
 
-I like to use this [Sublime Text plugin](https://github.com/FichteFoll/sublimetext-insertdate) to insert the current date after I've updated a post. It should follow the same date format used by Jekyll when naming posts: `YYYY-MM-DD`.
+I like to use this [Sublime Text plugin](https://github.com/FichteFoll/sublimetext-insertdate) to insert the current date after I've updated a post, but you can do it manually to. It should follow the same date format used by Jekyll when naming posts: `YYYY-MM-DD`.
 
 {% highlight YAML %}
 modified: 2014-08-27
@@ -200,7 +205,7 @@ Here you can define the various images assigned to posts and pages.
 
 ##### Featured Images
 
-A good rule of thumb is to keep feature images nice and wide so you don't push the body text too far down. An image cropped around around 1024 x 256 pixels will keep file size down with an acceptable resolution for most devices. If you want to serve these images responsively I'd suggest looking at the [Jekyll Picture Tag](https://github.com/robwierzbowski/jekyll-picture-tag) plugin[^plugins].
+A good rule of thumb is to keep feature images nice and wide so you don't push the body text too far down. An image cropped around around 1024 x 256 pixels will keep file size down with an acceptable resolution for most devices without bloating your site. If you want to level-up your site I'd suggest looking at the [Jekyll Picture Tag](https://github.com/robwierzbowski/jekyll-picture-tag) plugin[^plugins] to make them responsive.
 
 [^plugins]: If you're using GitHub Pages to host your site be aware that plugins are disabled. You'll need to build your site locally and then manually deploy if you want to use this sweet plugin.
 
@@ -211,7 +216,7 @@ image:
   feature: feature-image-filename.jpg
 {% endhighlight %}
 
-To add attribution to a feature image use the following YAML front matter on posts or pages. Image credits appear directly below the feature image with a link back to the original source if supplied.
+To add attribution to a feature image use the following YAML front matter on posts or pages. Image credits appear directly below the feature image with a link back to the original source (if supplied).
 
 {% highlight yaml %}
 image:
@@ -222,14 +227,14 @@ image:
 
 ##### Teasers Images
 
-Teaser images appear on archive pages in the post grid and are also used in the off-canvas menu. If you don't assign a teaser image for a specific post or page, the default one will be used. The default image can be set in `_config.yml` under site wide configuration `teaser: 400x250.gif`. Teaser images should be roughly 400 x 250 pixels to scale at a comfortable size at the various screen breakpoints.
+Teaser images appear on archive pages in the post grid and are also used in the off-canvas menu. If you don't assign a teaser image for a specific post or page, the default one will be used. The default image can be set in `_config.yml` under site wide configuration `teaser: 400x250.gif`. Teaser images should be roughly 400 x 250 pixels to scale comfortably across screen sizes.
 
 <figure>
   <img src="{{ site.url }}/images/teaser-screenshot.jpg" alt="teaser image screenshot">
   <figcaption>Images outlined in red show how teasers typically display</figcaption>
 </figure>
 
-Similar to the feature images you don't want to go crazy and us large high resolution images. Keep in mind performance and balance accordingly.
+Similar to feature images you don't want to go crazy and use large high resolution assets for your teasers. Keep in mind performance and balance accordingly.
 
 To assign a teaser image on a post use the following YAML:
 
@@ -243,21 +248,21 @@ image:
 
 #### Table of Contents
 
-For longer posts you may find it beneficial to include a table of contents navigation. Use `toc: true` to enable it at on specific posts and pages. A table of contents menu will be built using `h2` elements on the page. This behavior along with some additional customizations can be made within the script tag found in `_layouts/default.html`.
+For longer posts you may find it beneficial to include a table of contents menu. Use `toc: true` to enable it at on specific posts and pages. A table of contents block will be built using `h2` elements from page's contents. This behavior along with some additional customizations can be made within the script tag found in `_layouts/default.html`.
 
 #### Google AdSense
 
-To use Google Ads on your site create a Google AdSense account and then add your `ad-client` and `ad-slot` variables to `_config.yml`. To show ads on a post/page add `ads: true` to the front matter.
+To use Google Ads on your site create a [Google AdSense account](https://www.google.com/adsense/) and then add your `ad-client` and `ad-slot` variables to `_config.yml`. To show ads on a post/page add `ads: true` to the YAML Front Matter.
 
 <figure>
   <img src="{{ site.url }}/images/google-adsense-responsive.jpg" alt="responsive type">
 </figure>
 
-Ad type should be **responsive** which will allow the ad size to adapt and change dependent on screen size. If you'd like to use a different ad network just edit the appropriate HTML and JavaScript in `_includes/advertising.html`.
+Select **responsive** for ad type, allowing it to display at various sizes. If you'd like to use a different ad network just edit the appropriate HTML and JavaScript found in `_includes/advertising.html`.
 
 #### Disqus Comments
 
-Create a [Disqus](http://disqus.com) account and change `disqus-shortname` in `_config.yml` to the Disqus *shortname* you just setup. To enable commenting on a post, add the following to its front matter:
+Create a [Disqus](http://disqus.com) account and change `disqus-shortname` in `_config.yml` to the Disqus *shortname* you just setup. To enable commenting on a post, add the following to its YAML Front Matter:
 
 {% highlight yaml %}
 comments: true
@@ -265,7 +270,7 @@ comments: true
 
 #### Social Sharing Links
 
-To add Facebook, Twitter, and Google+ share links to a post add the following YAML front matter.
+To add Twitter, Facebook, and Google+ share links to a post add the following YAML front matter. If you'd like to use different social networks modify `_includes/share-this.html` to your liking. Icons are set using [Font Awesome](http://fontawesome.io/).
 
 {% highlight yaml %}
 share: true
@@ -282,11 +287,11 @@ share: true
 
 #### Organizing Pages
 
-Pages can be handled in two ways if you want to maintain pretty URLs for your site.
+Maintaining pretty URLs for your site can be handled in two ways when creating new pages.
 
-Place `.md` files in root and add the appropriate permalink YAML. For example if you want your **About** page to live at `domain.com/about/` create a file named `/about.md` and add `permalink: /about/` to its YAML.
+Place a `.md` file at the root level and add the appropriate permalink to the YAML Front Matter. For example if you want your **About** page to live at `domain.com/about/` create a file named `/about.md` and add `permalink: /about/` to its YAML Front Matter.
 
-Or you can create `/about/index.md` and omit the YAML permalink. The choice is yours.
+Or you can create `/about/index.md` and omit the YAML permalink. Up to you how you'd like to organize your pages.
 
 ### Archives
 
@@ -320,7 +325,7 @@ Default command
 $ octopress new post "Post Title"
 {% endhighlight %}
 
-Default works great if you want all your posts in one directory, but if you're like me and want to group them into subfolders like `/articles`, `/portfolio`, etc. Then this is the command for you. By specifying the DIR it will create a new post in that folder and populate the `categories:` YAML with the same value.
+Default works great if you want all your posts in one directory, but if you're like me and want to group them into sub-folders like `/articles`, `/portfolio`, etc. Then this is the command for you. By specifying the DIR it will create a new post in that folder and populate `categories:` with the same value.
 
 {% highlight bash %}
 {% endhighlight %}
@@ -347,4 +352,10 @@ This will create a page at `/about/index.md`
 
 Found a bug or aren't quite sure how something works? By all means [submit an issue](https://github.com/mmistakes/skinny-bones-jekyll/issues) on GitHub. For straight forward bug fixes feel free to submit pull requests. 
 
-Skinny Bones was built predominately as a framework for [my own site](http://mademistakes.com). My intention was never to make it all things for all people. So please keep that in mind before submitting new features or enhancements. If you've used any of my [Jekyll themes](http://mademistakes.com/work/jekyll-themes/) I think it's pretty clear I favor the simple over the complex.
+**Skinny Bones** was built predominately as a framework for [my own site](http://mademistakes.com). My intention was never to make it all things for all people. So please keep that in mind before submitting new features or enhancements. If you've used any of my [Jekyll themes](http://mademistakes.com/work/jekyll-themes/) I think it's pretty clear what I like and what I try to avoid. When in doubt ask before wasting your time on a feature that won't get merged in.
+
+---
+
+## License
+
+This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer. 
