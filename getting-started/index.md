@@ -270,11 +270,7 @@ comments: true
 
 #### Social Sharing Links
 
-To add Twitter, Facebook, and Google+ share links to a post add the following YAML front matter. If you'd like to use different social networks modify `_includes/share-this.html` to your liking. Icons are set using [Font Awesome](http://fontawesome.io/).
-
-{% highlight yaml %}
-share: true
-{% endhighlight %}
+Social sharing links for Twitter, Facebook, and Google+ are included on posts/pages using the `article` and `media` layouts by default. To hide them on specific posts or pages add `share: false` to the YAML Front Matter. If you'd like to use different social networks modify `_includes/share-this.html` to your liking. Icons are set using [Font Awesome](http://fontawesome.io/).
 
 <figure>
   <img src="{{ site.url }}/images/social-sharing-links-screenshot.jpg" alt="social sharing links screenshot">
