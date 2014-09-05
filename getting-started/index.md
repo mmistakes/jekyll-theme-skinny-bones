@@ -309,6 +309,10 @@ If you'd prefer a less visual list of posts use `{{ "{% include post-list.html "
 
 While completely optional, I've included Octopress and some starter templates to automate the creation of new posts and pages. To take advantage of it start by installing the [Octopress](https://github.com/octopress/octopress) gem if it isn't already.
 
+{% highlight bash %}
+$ gem install octopress --pre
+{% endhighlight %}
+
 ### New Post
 
 Default command
