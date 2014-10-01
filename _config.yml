@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title:
+title: Hapkido Vancouver
 description:
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale:
-url:
+url: http://172.16.124.217:4000
 
 # Jekyll configuration
 
