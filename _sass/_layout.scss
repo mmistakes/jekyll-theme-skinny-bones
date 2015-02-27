@@ -175,8 +175,8 @@
 			}
 			// cleaner underlines for links
 			a { text-decoration: none; }
-			p > a,
-			li > a {
+			p a,
+			li a {
 				border-bottom: 1px dotted lighten($link-color, 50);
 				&:hover {
 					border-bottom-style: solid;
@@ -282,7 +282,7 @@
 	}
 }
 // make image flush with edges on small screens
-.page-image {	
+.page-image {
 	position: relative;
 	margin-left: -1 * $gutter;
 	margin-right: -1 * $gutter;
@@ -306,7 +306,7 @@
 	}
 }
 // breadcrumbs
-.breadcrumbs { 
+.breadcrumbs {
 	@include row;
 	margin-top: $gutter;
 	@include font-size(10,no);
