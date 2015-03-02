@@ -12,6 +12,8 @@ Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Aus
 
 [^footnote]: Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney's.
 
+{% include toc.html %}
+
 Vero laborum commodo occupy. [*Semiotics voluptate mumblecore*](http://hipsum.co/) pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
 
 ---

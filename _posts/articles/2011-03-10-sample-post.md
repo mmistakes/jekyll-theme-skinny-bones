@@ -4,14 +4,13 @@ title: "Sample Post Style Guide"
 categories: articles
 modified: 2014-08-27T11:57:41-04:00
 tags: [sample]
-toc: true
 comments: true
 ads: true
 ---
 
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
 
-# Heading 1: Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
+{% include toc.html %}
 
 ## Heading 2: Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
 

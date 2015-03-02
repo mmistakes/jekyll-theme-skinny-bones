@@ -9,9 +9,12 @@ image:
   feature:
   teaser:
   thumb:
-toc: true
 share: false
 ---
+
+The basics for getting Skinny Bones setup.
+
+{% include toc.html %}
 
 ## Installation
 
@@ -266,7 +269,9 @@ image:
 
 #### Table of Contents
 
-For longer posts you may find it beneficial to include a table of contents menu. Use `toc: true` to enable it at on specific posts and pages. A table of contents block will be built using `h2` elements from page's contents. This behavior along with some additional customizations can be made within the script tag found in `_layouts/default.html`.
+For longer posts you may find it beneficial to include a table of contents menu. Add `{% raw %}{% include toc.html %}{% endraw %}` where you'd like the TOC to appear and Kramdown will take care of the rest by converting all headlines to list of links.
+
+If you need to alter the *Overview* headline text that appears at the top of the list, you can modify it in `main.js`.
 
 #### Google AdSense
 
