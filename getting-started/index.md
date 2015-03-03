@@ -24,14 +24,14 @@ If you are creating a new Jekyll site using Skinny Bones following these steps:
 
 1. [Download Skinny Bones](https://github.com/mmistakes/skinny-bones-jekyll/archive/master.zip) and unzip.
 2. Rename `skinny-bones-jekyll-master` to something meaningful ie: `new-site`
-3. Run `bundle install` to install all dependencies (Jekyll, [Jekyll-Sitemap](https://github.com/jekyll/jekyll-sitemap), [Octopress](https://github.com/octopress/octopress), [Bourbon](http://bourbon.io), etc)
+3. Run `bundle install` to install all dependencies (Jekyll, [Jekyll-Sitemap](https://github.com/jekyll/jekyll-sitemap), [Octopress](https://github.com/octopress/octopress), etc)
 4. Update `_config.yml`, add navigation, and add posts/pages. Full details below.
 
 If you want to use Skinny Bones with an existing Jekyll site follow these steps:
 
 1. [Download Skinny Bones](https://github.com/mmistakes/skinny-bones-jekyll/archive/master.zip) and unzip.
 2. Rename `skinny-bones-jekyll-master` to something meaningful ie: `new-site`
-3. Run `bundle install` to install all dependencies (Jekyll, [Jekyll-Sitemap](https://github.com/jekyll/jekyll-sitemap), [Octopress](https://github.com/octopress/octopress), [Bourbon](http://bourbon.io), etc)
+3. Run `bundle install` to install all dependencies (Jekyll, [Jekyll-Sitemap](https://github.com/jekyll/jekyll-sitemap), [Octopress](https://github.com/octopress/octopress), etc)
 4. Add all of your existing posts, pages, and any other content you want to move over.
 5. Update YAML front matter blocks to match names used by Skinny Bones. Full details below.
 6. Update `config.yml`, add navigation links. Full details below. 
@@ -330,7 +330,7 @@ If you'd prefer a less visual list of posts use `{{ "{% include post-list.html "
 
 ## Adding New Content with Octopress
 
-While completely optional, I've included Octopress and some starter templates to automate the creation of new posts and pages. To take advantage of it start by installing the [Octopress](https://github.com/octopress/octopress) gem if it isn't already.
+While completely optional, I've included Octopress and some starter templates to automate the creation of new posts and pages. To take advantage of it start by installing the [Octopress](https://github.com/octopress/octopress) gem if it isn't already. It is safe to remove Octopress from your Gemfile if you have no need for it.
 
 {% highlight bash %}
 $ gem install octopress --pre
