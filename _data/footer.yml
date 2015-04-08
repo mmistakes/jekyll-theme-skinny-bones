@@ -1,4 +1,10 @@
 # Footer navigation links
 
-- title:
-  url:
+- title: NASA
+  url: http://www.nasa.gov/
+
+- title: BOEM
+  url: http://www.boem.gov/
+
+- title: NOAA
+  url: http://www.noaa.gov/
