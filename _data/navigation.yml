@@ -1,6 +1,26 @@
 # Site navigation links
 
-- title:
+- title: About
+  url:
+  excerpt:
+  image:
+
+- title: Map
+  url:
+  excerpt:
+  image:
+
+- title: Image Analysis
+  url:
+  excerpt:
+  image:
+  
+  - title: Gallery
+  url:
+  excerpt:
+  image:
+
+- title: Contributers
   url:
   excerpt:
   image:
