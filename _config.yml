@@ -1,9 +1,9 @@
-# Site wide configuration
+# site overlay
 
-title:
-description:
+title: Marine Biodiversity Observation Network
+description: With 13 scientific investigators and 10 partner institutions, the marine biodiversity observation network (MBON) centered on the Santa Barbara Channel is the epitome of collaboration. 
 logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+teaser: MBay_logo.jpg # 400x250 px default teaser image used in image archive grid
 locale:
 url:
 
@@ -29,7 +29,7 @@ owner:
     ad-client: 
     ad-slot: 
   bio: 
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+  avatar: MBay_logo.jpg # 160x160 px image for author byline
 disqus-shortname:
 
 

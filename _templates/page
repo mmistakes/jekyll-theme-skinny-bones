@@ -1,11 +1,11 @@
 ---
 layout: {{ layout }}
-title: {{ title }}
+title: {{ Marine Biodiversity Observation Network.. }}
 date: {{ date }}
 modified:
 excerpt:
-image:
-  feature:
+image: 
+  feature: kelp.JPG
   teaser:
   thumb:
 ads: false  

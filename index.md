@@ -2,6 +2,8 @@
 layout: archive
 permalink: /
 title: "Latest Posts"
+image: 
+  feature: kelp.JPG
 ---
 
 <div class="tiles">
