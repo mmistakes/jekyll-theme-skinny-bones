@@ -3,7 +3,7 @@ layout: archive
 permalink: /
 title: "Latest Posts"
 image: 
-  feature: feature-image-kelp.JPG
+  feature: kelp.JPG
 ---
 
 <div class="tiles">
