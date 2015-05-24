@@ -19,6 +19,16 @@ highlighter: pygments
 gems:
   - jekyll-sitemap
 
+# GitHub Fork Ribbon
+
+ghfr:
+    display: false # false to disable, null for visit, else blob/edit/custom
+    organization: # github organization
+    project: # github project
+    branch: # branch this website is hosted on (master/gh-pages)
+    text: Visit on GitHub
+    blob: Source on GitHub
+    edit: Edit on GitHub
 
 # Site owner
 owner:
