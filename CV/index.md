@@ -25,13 +25,19 @@ share: false
 
 ---
 
-## Running Jekyll
+## ACADEMIC POSITIONS
+### Appointments
+* 2013, Sept. – 2016, Sept.	International Post-Doc, Department of Sociology, University of Gothenburg, Gothenburg, Sweden.  
+* 2011, May – 2013, Aug.	Lecturer/Researcher, Department of Sociology, University of Gothenburg, Gothenburg, Sweden.
+* 2006, Mar. – 2011, Apr.	Doctoral student, Department of Sociology, University of Gothenburg, Gothenburg, Sweden.  
 
-If `jekyll build` and `jekyll serve` throw errors you may have to run Jekyll with `bundled exec` instead.
+### Visiting positions
+* 2015, Sept. – 2016, Apr. 	Fielding School of Public Health, University of California, Los Angeles, the United States. 
+* 2015, Feb. – 2015, Sept.	Department of Economics, The New School for Social Research, New York, the United States. 
+* 2013, Sept. – 2015, Jan.	The Max Planck Institute for the Studies of Societies, Cologne, Germany. 
+*2 012, Mar. – 2012, Apr.	Townsend Center for International Poverty Research, University of Bristol, the UK. 
+* 2010, Feb. – 2010, Apr	Faculty of Economics, University of Cambridge, the UK. 
 
-> In some cases, running executables without bundle exec may work, if the executable happens to be installed in your system and does not pull in any gems that conflict with your bundle.
->
->However, this is unreliable and is the source of considerable pain. Even if it looks like it works, it may not work in the future or on another machine.
 
 {% highlight text %}
 bundle exec jekyll build
