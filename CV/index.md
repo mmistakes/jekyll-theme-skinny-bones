@@ -17,15 +17,16 @@ share: false
 
 ## EDUCATION
 
-> * 2013-2014	Further training (selected): Social Network Analysis, Max Planck Institute for the Studies of Societies, Germany; Multilevel analysis at the Centre for Multilevel Modelling, University of Bristol, the UK; and R-programming at Karolinska Institute, Stockholm, Sweden. 
-> * 2011-2012	Pedagogical Training for Teaching in Higher Education, (various certificates), University of Gothenburg
-> * 2011	PhD. in Sociology, Department of Sociology, University of Gothenburg, Gothenburg, Sweden.
-> * 2006	M.A. in Sociology. Minor in: Political Science, Economics, and Mathematics. University of Gothenburg, & University of Jönköping, Sweden.  
+* 2013-2014	Further training (selected): Social Network Analysis, Max Planck Institute for the Studies of Societies, Germany; Multilevel analysis at the Centre for Multilevel Modelling, University of Bristol, the UK; and R-programming at Karolinska Institute, Stockholm, Sweden. 
+* 2011-2012	Pedagogical Training for Teaching in Higher Education, (various certificates), University of Gothenburg
+* 2011	PhD. in Sociology, Department of Sociology, University of Gothenburg, Gothenburg, Sweden.
+* 2006	M.A. in Sociology. Minor in: Political Science, Economics, and Mathematics. University of Gothenburg, & University of Jönköping, Sweden.  
 
 
 ---
 
 ## ACADEMIC POSITIONS
+
 ### Appointments
 * 2013, Sept. – 2016, Sept.	International Post-Doc, Department of Sociology, University of Gothenburg, Gothenburg, Sweden.  
 * 2011, May – 2013, Aug.	Lecturer/Researcher, Department of Sociology, University of Gothenburg, Gothenburg, Sweden.
@@ -35,7 +36,7 @@ share: false
 * 2015, Sept. – 2016, Apr. 	Fielding School of Public Health, University of California, Los Angeles, the United States. 
 * 2015, Feb. – 2015, Sept.	Department of Economics, The New School for Social Research, New York, the United States. 
 * 2013, Sept. – 2015, Jan.	The Max Planck Institute for the Studies of Societies, Cologne, Germany. 
-*2 012, Mar. – 2012, Apr.	Townsend Center for International Poverty Research, University of Bristol, the UK. 
+* 2012, Mar. – 2012, Apr.	Townsend Center for International Poverty Research, University of Bristol, the UK. 
 * 2010, Feb. – 2010, Apr	Faculty of Economics, University of Cambridge, the UK. 
 
 ---
@@ -133,11 +134,11 @@ A description of your site. Used in page meta.
 ## OTHER
 
 * Languages	
-** Arabic (mother tongue: fluent in speech, basic in writing)
-** Swedish (fluent)
-** English (fluent)
-**German (basic)
-* Nationality	Swedish
+  * Arabic (mother tongue: fluent in speech, basic in writing)
+  * Swedish (fluent)
+  * English (fluent)
+  *German (basic)
+* Nationality:	*Swedish*
 
 ---
 
