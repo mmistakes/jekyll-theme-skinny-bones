@@ -38,207 +38,107 @@ share: false
 *2 012, Mar. – 2012, Apr.	Townsend Center for International Poverty Research, University of Bristol, the UK. 
 * 2010, Feb. – 2010, Apr	Faculty of Economics, University of Cambridge, the UK. 
 
+---
 
-{% highlight text %}
-bundle exec jekyll build
+## PUBLICATIONS
+### Articles in Peer-Reviewed Journals
 
-bundle exec jekyll serve
-{% endhighlight %}
+* 2015	Daoud, Adel, (forthcoming), “Quality of Governance, Corruption, and Absolute Child Poverty in India” Journal of South Asian Development
+* 2013	Bjorn Halleröd; Bo Rothstein; Adel Daoud; Shailen Nandy , (2013) “Bad Governance and Poor Children: A Comparative analysis of government efficiency and severe child deprivation in 68 low- and middle-income countries”, World Development, vol 48 (August), pp.19-31
+* 2012	Söderberg, J and Daoud, A (2012) “Atoms want to be free too! – expanding the critique of intellectual property to physical goods”, in Critical Theory and Political Economy of the Internet @ Nordmedia 2011” Christian Fuchs and Göran Bolin (eds). Online at Cognition, Communication, Co-operation. Vol 10 No 1
+* 2011	Daoud A. and Puaca G. (2011), “An organic view of want formation: pragmatic rationality, habitus and reflexivity”, British Journal of Sociology of Education, 32 (4), July.
+* 2011	Daoud A. and Larsson B. (2011) “Economic Sociology – Old and New”, International Journal of Pluralism and Economics Education. 2 (3), pp. 255-269.
+* 2011	Puaca, G and Daoud, A (2011) “Vilja och framtid i frågor kring utbildningsval”, Pedagogisk Forskning. 16(2), 100–117.
+* 2011	Daoud, A (2011) “The Modus Vivendi of Material Simplicity: Counteracting Scarcity via the Deflation of Wants”, Review of Social Economy, 69(3), pp. 275-305. (won the Association of Social Economics’ Helen Potter Award for best article 2011)
+* 2010	Daoud, A (2010), ‘Robbins and Malthus on Scarcity, Abundance, and Sufficiency:  The Missing Sociocultural Element’ American Journal of Economics and Sociology, 69(4), pp. 1206-1229.
+* 2007	Daoud, A. (2007) “(Quasi)Scarcity and Global Hunger: A Sociological Critique of the Scarcity Postulate with an Effort to Synthesis”, Journal of Critical Realism 6 (2), pp. 199-225
+
+### Books
+* 2014	[Edited book] Daoud, Adel, editor, (with Reza Azarian and Bengt Larsson), Ekonomisk sociologi– en introduktion. Liber. Stockholm.
+* 2008	[Edited book] Daoud Adel.(with Bengtsson Mattias., and Seldén, Daniel.) (2008) En realistisk sociologi i praktiken. Nio texter om samhället, Department of Sociology Research rapport nr 141. University of Gothenburg: Intellecta Infolog AB, Gothenburg
+* 2011	[PhD thesis] Daoud, A (2011) Scarcity, Abundance, and Sufficiency: Contributions to Social and Economic Theory, Göteborg Studies in Sociology No 46, Gothenburg.
+
+### Book chapters, Reports, and Other publications.
+* 2015	Daoud, Adel, Halleröd, Björn, and Guha-Sapir, Debarati. Quality of Government and the Relationship between Natural Disasters and Child Poverty: A Comparative Analysis. MPIfG Discussion Paper 15/5
+* 2015 	Daoud, Adel. (forthcoming) (with Fazil Moradi, Roukaya Ibrahim, Shailen Nandy), “Iraq”, The SAGE Encyclopedia of World Poverty, Second Edition, edited by Joanne Steinberg.
+* 2015	Daoud, Adel. (2015), “Scarcity and artificial scarcity”, The Wiley-Blackwell Encyclopedia of Consumption and Consumer Studies, edited by Michael Ryan and Dan Cook. [by invitation] ISBN: 978-0-470-67284-6
+* 2014	Daoud, Adel and Larsson, Bengt, (2014) “Den nya ekonomiska sociologin” in Ekonomi och Samhälle – en introduktion Liber. Stockholm
+* 2014	Daoud, Adel (with Reza Azarian and Bengt Larsson), (2014) “Introduktion” in Ekonomi och Samhälle – en introduktion Liber. Stockholm
+* 2012	Daoud, Adel. 2012, Book review “Remaking Scarcity: From Capitalist Inefficiency to Economic Democracy” By Costas Panayotakis, London, U.K.: Pluto Press, 2011, ISBN: 978-0-7453-3099-0; 224 pages. Reviewed for the Heterodox Economics Newsletter, Issue 134.
+* 2012	Daoud, Adel and Elam, Mark (2012)“Country report – Sweden”, Deliverable report for the project for International Socio-Technical Challenges for implementing geological disposal, funded by by the European Commission under the Seventh Euratom Framework Programme for Nuclear Research &Training Activities.
+* 2008	Daoud Adel (with Puaca Goran), (2008) “Om att vilja sin framtid” in Bengtsson Mattias., Daoud Adel., and Seldén, Daniel. En realistisk sociologi i praktiken. Nio texter om samhället, Department of Sociology Research rapport nr 141. University of Gothenburg: Intellecta Infolog AB, Gothenburg.
 
 ---
 
-## Scaffolding
+## INVITED TALKS (selected)
 
-How Skinny Bones is organized and what the various files are. All posts, layouts, includes, stylesheets, assets, and whatever else is grouped nicely under the root folder. The compiled Jekyll site outputs to `_site/`.
-
-{% highlight bash %}
-skinny-bones-jekyll-master
-├── _site                               # compiled site ready to deploy
-├── _images                             # unoptimized images
-├── _includes                           # reusable blocks for _layouts
-├── _layouts
-|    ├── archive.html                   # archive listing of a group of posts or collection
-|    ├── article.html                   # articles, blog posts, text heavy material layout
-|    ├── default.html                   # base
-|    ├── home.html                      # home page
-|    └── media.html                     # portfolio, work, media layout
-├── _posts                              # posts grouped by category for sanity
-├── _sass
-|   ├── vendor                          
-|   |   ├── bourbon                     # Bourbon mixin library   
-|   |   └── neat                        # Neat grid library
-|   ├── _animations.scss                # CSS3 animations
-|   ├── _badges.scss                    # small badges
-|   ├── _bullets.scss                   # visual bullets
-|   ├── _buttons.scss                   # buttons
-|   ├── _grid-settings.scss             # Neat settings         
-|   ├── _helpers.scss                   # site wide helper classes
-|   ├── _layout.scss                    # structure and placement, the bulk of the design
-|   ├── _mixins.scss                    # custom mixins
-|   ├── _notices.scss                   # notice blocks
-|   ├── _pygments.scss                  # Pygments.rb syntax highlighting
-|   ├── _reset.scss                     # normalize and reset elements
-|   ├── _sliding-menu.scss              # sliding menu overlay
-|   ├── _variables.scss                 # global colors and fonts
-|   ├── css
-|   └── main.scss                       # loads all Sass partials
-├── fonts                               # webfonts
-├── images                              # images
-├── js
-|   ├── plugins                         # jQuery plugins
-|   ├── vendor                          # vendor scripts that don't get combined with the rest
-|   ├── _main.js                        # site scripts and plugin settings go here
-|   └── main.min.js                     # concatenated and minified site scripts
-├── apple-touch-icon-precomposed.png    # 152x152 px for iOS
-├── atom.xml                            # posts feed
-├── favicon.ico                         # 32x32 px for browsers
-└── index.md                            # homepage content
-└── _config.yml                         # Jekyll settings
-{% endhighlight %}
+* 2015, May	Lecturer, Impact of the Financial Crisis on Children, Children, Rights, Poverty, Equality in Development, May 5th, 6pm – 8 pm, The New School for Social Research, Graduate Program in International Affairs, New York, USA. 
+* 2015, Mar.	Discussant to Prof. Sanjay Reddy, The Global Consumption and Income Project, at INET Seminar Series at Columbia University, chaired by Joseph Stiglitz, March 27, 5-7pm, at Columbia Uris Hall - Calder Lounge Room
+* 2014, Dec.	Seminar on (with Barbara Fulda), Using R-programming for Social Scientific Inquiry, at Max Planck Studies for Societies, Cologne, Germany.
+* 2014, June	Seminar on The Economic Sociology of Scarcity, Jens Beckert´s sociology of markets research seminar. 18 June, the Max Planck Institute for Studies of Societies
+* 2013, Sep.	Discussant to Patrik Aspers, Identity, Relation, and Existence: the Market Case, at Economic Sociology and New Theoretical Directions, Noors Slott, 1-15 September, 2013. 
+* 2013, Oct.	Seminar on Reflections about writing your PhD, at Max Planck´s IMPRS-SPCE Graduate Retreat, Oct 25, in Wuppertal, Germany 
+* 2011, Oct.	Public talk, Vad kan ekonomisk sociologi bidra till vår kunskap om ekonomin? - Fokus på resursknapphet, Social Science day (Samhällsvetenskapens dag), 8 oktober, 2011
+* 2010, May	Lecture on Atlas.ti training session, Monday 17 May, Department of Sociology, University of Cambridge 
+* 2010, May	Seminar on What is Scarcity? At Tony Lawson´s Cambridge Realist Workshop. 8 – 10 pm, 8 may, Clare College, Trinity Lane, University of Cambridge, United Kingdom.
+* 2010, May	Seminar on Educational choices, habitus and reflexivity, 12 – 1 pm Institute of Education, University of London, 25 May, the United Kingdom.
+* 2010, Apr.	Seminar on Scarcity, Abundance, and Sufficiency: some implications for Sustainability, 5 – 6.30 pm, Coslett 124, 28 April, 2010, Anglia Ruskin University, Cambridge
 
 ---
 
-## Site Setup
+## GRANTS, HONOURS AND AWARDS
+### Grants & Funding
+* 2012	Ranked first for a two year postdoc position at Department of Sociology, University of Lund. Kindly rejected.
+* 2012	The Impact of the 2008 Financial Crisis on Child Poverty in Developing Countries. Swedish Research Council. 3,3 million SEK.
+* 2011	[with David Gordon , Bristol University, UK: Bo Rothstein, University of Gothenburg, Sweden: Björn Halleröd, University of Gothenburg, Sweden] (Project leader Halleröd) Child poverty, policies and quality of government. Swedish Research Council, 6,5 million SEK.
+* 2010	Travel grant, The Swedish Foundation for International Cooperation in Research and Higher Education, 100 000 SEK. 
+* 2007-2010	Various grants: Adlerbertska forskningsstiftelse (35 000 SEK); Stiftelsen Lars Hieretas Minne (35 000 SEK); Knut och Alice Wallenbergs stiftelse (16 000 SEK). 
 
-A quick checklist of the files you'll want to edit to get up and running.
+### Academic & Pedagogic Recognitions
+
+* 2013	Supervised the bachelor thesis ”Demokratimåttets betydelse för forskningsresultat om barnfattigdomsreducering i utvecklingsländer” written by Inga-Lisa Adler and Elisabeth Lindh, which was awarded an academic prize by Stiftelsen Torgny Segerstedts Minne.
+* 2012	Nominated for Götas pedagogiska pris vid Samhällsvetenskapliga fakulteten. Theme – communicating knowledge. Pedagogical prize.
+* 2011	Association of Social Economics' Helen Potter Award presented each year to a promising scholar of social economics for authoring the best article in the Review of Social Economy. Academic prize
 
 ---
 
-### Site Wide Configuration
-
-`_config.yml` is your friend. Open it up and personalize it. Most variables are self explanatory but here's an explanation of each anyways:
-
-#### Site Title
-
-The title of your site... shocker!
-
-Example `title: Skinny Bones`
-
-#### Site Description
-
+## ADMITISTRATIVE ACTIVITIES
+### Peer-review service
 A description of your site. Used in page meta.
+* 2007 -	American Journal of Economics and Sociology, Cambridge Journal of Economics, Journal of Economic Psychology, Journal of Critical Realism, Journal of International Migration and Integration, International Journal of Pluralism and Economics Education, Journal of Institutional Economics, Review of Political Economy, Organization studies, Socio-Economic Review, PLOSONE, Max Planck Institute working paper series, Economia Politica.
 
-Example `description: "A lightweight site starter for Jekyll"`
+### Administrative position
+* 2016, Jan. - 	Nominated for the post Trustee Executive Council for the Association for Social Economics. www.socialeconomics.org 
+* 2008, Jan. - 2009	Trustee and Secretary at the Doctoral Students Council for University of Gothenburg (central), Sweden. 
+* 2007, Aug. - 2009	Trustee at the Doctoral Students Council for the Faculty of Social Science (social science branch), University of Gothenburg, Sweden
+* 2007 – 2010	Chairman for the Gothenburg Critical realism Workshop, University of Gothenburg, Sweden 
+* 2007, July – 2013	Member of the Editorial Board, International Journal of Green Economics, July 2007-2013 
 
-#### Site Logo
 
-Site logo, used mostly as a default image that appears on Twitter Cards if a large feature image isn't present. If used place a square image around 120 x 120 pixels in `/images/`.
+### Conference and seminar organizing
 
-Example `logo: 120x120.gif`
+* 2013	Organizer (with Reza Azarian, Bengt Larsson, och Patrik Aspers) for the authors of the book Ekonomi och Samhälle – en introduktion. Liber. Stockholm., 24-25 September, University of Uppsala, Sweden.
+* 2012, May.	Chairman and Conference moderator for Nordic Network for Critical Realism, Social Structure and Human Agency – Breaking New Ground , May 29-30 2012, University of Gothenburg, Sweden
+* 2011 - 2012	Member of the local organizer committee for hosting a conference for Nordic Network for Critical Realism: contact person: Freddy Winston Castro or professor Berth Danermark, Örebro University.
+* 2009 - 2010	Member of the local organizer committee and organizer of the volunteers, XVII World Congress of sociology, 11-17 July, 2010. Contact person: professor Ulla Björnberg, Department of sociology, University of Gothenburg.
+* 2009	Organizer for the workshop Qualitative Comparative Analysis (QCA) and the Case-Study Method held by Wendy Olsen, Wednesday 4th November, Department of Sociology, University of Gothenburg, Sweden
 
-<figure>
-  <img src="{{ site.url }}/images/twitter-card-screenshot.jpg" alt="sample Twitter Card screenshot">
-  <figcaption>Site logo is used for Twitter Cards when a feature image is not defined for the page.</figcaption>
-</figure>
+### Academic Membership
+* 2015-	The Assosiaction for Social Economics.
+* 2015-	The Max Planck Society Alumni Fellows
+* Past 	International Sociological Assosiation; Swedish Sociological Assosiation; Cambridge Social Ontology Group; Assosication for Heterodox Economics. 
 
-#### Site Teaser Image
-
-Default teaser image used for posts and pages that do not have one assigned. This image shows up in the archive grid module. If can have whatever dimensions you want, I've found that an image with rectangular proportions work nicely. Like the site logo, place in `/images/`.
-
-Example `teaser: 400x250.gif`
-
-#### Site URL
-
-Used to generate absolute URLs in `sitemap.xml`, `atom.xml`, and for generating canonical URLs in `<head>`. When developing locally either comment this out or use something like `http://localhost:4000` so all assets load properly. *Don't include a trailing `/`*. [Protocol-relative URLs](http://www.paulirish.com/2010/the-protocol-relative-url/) are a nice option but there are a few caveats[^protocol].
-
-Examples:
-
-{% highlight yaml %}
-url: http://mmistakes.github.io/skinny-bones-jekyll
-url: http://localhost:4000
-url: //cooldude.github.io
-url: 
-{% endhighlight %}
-
-[^protocol]: If you decide to use a protocol-relative URL know that it will most likely break sitemap.xml that the Jekyll-Sitemap gem creates. If a valid sitemap matters to you I'd suggest [creating your own sitemap.xml](http://davidensinger.com/2013/03/generating-a-sitemap-in-jekyll-without-a-plugin/) and apply some Liquid logic to prepend links to posts/pages with `https:`.
 
 ---
+## OTHER
 
-### Navigation Links
-
-To set what links appear in the top navigation edit `_data/navigation.yml`. Use the following format to set the URL, title, teaser image/description (used in off-canvas menu) of each link:
-
-{% highlight yaml %}
-- title: Portfolio
-  url: /portfolio/
-  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
-  image: 300x200.gif
-
-- title: Made Mistakes
-  url: http://mademistakes.com  
-{% endhighlight %}
-
-To set what links appear in the footer edit `_data/footer.yml`. Use the following format for each link:
-
-{% highlight yaml %}
-- title: Subscribe
-  url: /subscribe/
-
-- title: External Page
-  url: http://mademistakes.com  
-{% endhighlight %}
+* Languages	
+** Arabic (mother tongue: fluent in speech, basic in writing)
+** Swedish (fluent)
+** English (fluent)
+**German (basic)
+* Nationality	Swedish
 
 ---
-
-### Posts
-
-#### Organizing Posts
-
-Create new MarkDown (.md) files in `_posts`. If you aren't using categories to organize your posts then don't worry about this next bit. I like to organize all my posts by a single category and file them under sub-directories beneath `_posts`. For example if I have post named `2014-06-01-new-post.md` and it has a category of `foo` it will have the following path:
-
-`_posts/foo/2014-06-01-new-post.md`
-
-Which when process by jekyll would have a URL of `domain.com/foo/new-post/`.
-
----
-
-### YAML Front Matter
-
-The only YAML Front Matter required for posts and pages are `title` and `layout`, everything else is optional.
-
-#### Categories
-
-Add `categories: ` and assign a single category name for added organization. The theme makes the assumption that posts will only be assigned to one category at a time. You can certainly assign multiple categories but unexpected things may happen with the permalink structure.
-
-I like to group posts by general categories like `articles`, `portfolio`, `whatever`, and using tags to more specific classifications.
-
-#### Modified Date
-
-If you assign a modified date to a post or page it will override the published date and appear in the page footer with the following format `Updated August 27, 2014`. It's also used as metadata to give search engines another piece of info about your content.
-
-I like to use this [Sublime Text plugin](https://github.com/FichteFoll/sublimetext-insertdate) to insert the current date after I've updated a post, but you can do it manually to. It should follow the same date format used by Jekyll when naming posts: `YYYY-MM-DD`.
-
-{% highlight YAML %}
-modified: 2014-08-27
-modified: 2014-08-27T11:57:41-04:00 # more verbose, also acceptable
-{% endhighlight %}
-
-#### Images
-
-Here you can define the various images assigned to posts and pages. 
-
-##### Featured Images
-
-A good rule of thumb is to keep feature images nice and wide so you don't push the body text too far down. An image cropped around around 1024 x 256 pixels will keep file size down with an acceptable resolution for most devices without bloating your site. If you want to level-up your site I'd suggest looking at the [Jekyll Picture Tag](https://github.com/robwierzbowski/jekyll-picture-tag) plugin[^plugins] to make them responsive.
-
-[^plugins]: If you're using GitHub Pages to host your site be aware that plugins are disabled. You'll need to build your site locally and then manually deploy if you want to use this sweet plugin.
-
-The post and page layouts make the assumption that the feature images live in the `images/` folder. To add a feature image to a post or page just include the filename in the front matter like so.
-
-{% highlight yaml %}
-image:
-  feature: feature-image-filename.jpg
-{% endhighlight %}
-
-To add attribution to a feature image use the following YAML front matter on posts or pages. Image credits appear directly below the feature image with a link back to the original source (if supplied).
-
-{% highlight yaml %}
-image:
-  feature: feature-image-filename.jpg
-  credit: Michael Rose #name of the person or site you want to credit
-  creditlink: http://mademistakes.com #url to their site or licensing
-{% endhighlight %}
-
-##### Teasers Images
 
 
