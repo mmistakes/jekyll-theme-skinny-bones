@@ -44,7 +44,7 @@ share: false
 ## PUBLICATIONS
 ### Articles in Peer-Reviewed Journals
 
-* 2015	Daoud, Adel, (forthcoming), “Quality of Governance, Corruption, and Absolute Child Poverty in India” Journal of South Asian Development
+* 2015	Daoud, Adel, “Quality of Governance, Corruption, and Absolute Child Poverty in India” Journal of South Asian Development, August 10:119-147. 
 * 2013	Bjorn Halleröd; Bo Rothstein; Adel Daoud; Shailen Nandy , (2013) “Bad Governance and Poor Children: A Comparative analysis of government efficiency and severe child deprivation in 68 low- and middle-income countries”, World Development, vol 48 (August), pp.19-31
 * 2012	Söderberg, J and Daoud, A (2012) “Atoms want to be free too! – expanding the critique of intellectual property to physical goods”, in Critical Theory and Political Economy of the Internet @ Nordmedia 2011” Christian Fuchs and Göran Bolin (eds). Online at Cognition, Communication, Co-operation. Vol 10 No 1
 * 2011	Daoud A. and Puaca G. (2011), “An organic view of want formation: pragmatic rationality, habitus and reflexivity”, British Journal of Sociology of Education, 32 (4), July.
@@ -89,6 +89,7 @@ share: false
 
 ## GRANTS, HONOURS AND AWARDS
 ### Grants & Funding
+
 * 2012	Ranked first for a two year postdoc position at Department of Sociology, University of Lund. Kindly rejected.
 * 2012	The Impact of the 2008 Financial Crisis on Child Poverty in Developing Countries. Swedish Research Council. 3,3 million SEK.
 * 2011	[with David Gordon , Bristol University, UK: Bo Rothstein, University of Gothenburg, Sweden: Björn Halleröd, University of Gothenburg, Sweden] (Project leader Halleröd) Child poverty, policies and quality of government. Swedish Research Council, 6,5 million SEK.
@@ -105,7 +106,7 @@ share: false
 
 ## ADMITISTRATIVE ACTIVITIES
 ### Peer-review service
-A description of your site. Used in page meta.
+
 * 2007 -	American Journal of Economics and Sociology, Cambridge Journal of Economics, Journal of Economic Psychology, Journal of Critical Realism, Journal of International Migration and Integration, International Journal of Pluralism and Economics Education, Journal of Institutional Economics, Review of Political Economy, Organization studies, Socio-Economic Review, PLOSONE, Max Planck Institute working paper series, Economia Politica.
 
 ### Administrative position
@@ -132,12 +133,11 @@ A description of your site. Used in page meta.
 
 ---
 ## OTHER
-
 * Languages	
   * Arabic (mother tongue: fluent in speech, basic in writing)
   * Swedish (fluent)
   * English (fluent)
-  *German (basic)
+  * German (basic)
 * Nationality:	*Swedish*
 
 ---
