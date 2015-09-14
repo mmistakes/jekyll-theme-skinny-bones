@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "Hi I´m Adel"
 ---
 
 ## Hi I´m Adel
