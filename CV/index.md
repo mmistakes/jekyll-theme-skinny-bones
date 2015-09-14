@@ -16,25 +16,13 @@ The basics for getting Skinny Bones setup.
 
 {% include toc.html %}
 
-## Installation
+## EDUCATION
 
-Skinny Bones requires [Jekyll](http://jekyllrb.com/) 2+. Make sure to run `gem update jekyll` if you aren't on the latest version or `gem install jekyll` if this is your first time installing it.
+* 2013-2014	Further training (selected): Social Network Analysis, Max Planck Institute for the Studies of Societies, Germany; Multilevel analysis at the Centre for Multilevel Modelling, University of Bristol, the UK; and R-programming at Karolinska Institute, Stockholm, Sweden. 
+* 2011-2012	Pedagogical Training for Teaching in Higher Education, (various certificates), University of Gothenburg
+* 2011	PhD. in Sociology, Department of Sociology, University of Gothenburg, Gothenburg, Sweden.
+* 2006	M.A. in Sociology. Minor in: Political Science, Economics, and Mathematics. University of Gothenburg, & University of Jönköping, Sweden.  
 
-If you are creating a new Jekyll site using Skinny Bones following these steps:
-
-1. [Download Skinny Bones](https://github.com/mmistakes/skinny-bones-jekyll/archive/master.zip) and unzip.
-2. Rename `skinny-bones-jekyll-master` to something meaningful ie: `new-site`
-3. Run `bundle install` to install all dependencies (Jekyll, [Jekyll-Sitemap](https://github.com/jekyll/jekyll-sitemap), [Octopress](https://github.com/octopress/octopress), etc)
-4. Update `_config.yml`, add navigation, and add posts/pages. Full details below.
-
-If you want to use Skinny Bones with an existing Jekyll site follow these steps:
-
-1. [Download Skinny Bones](https://github.com/mmistakes/skinny-bones-jekyll/archive/master.zip) and unzip.
-2. Rename `skinny-bones-jekyll-master` to something meaningful ie: `new-site`
-3. Run `bundle install` to install all dependencies (Jekyll, [Jekyll-Sitemap](https://github.com/jekyll/jekyll-sitemap), [Octopress](https://github.com/octopress/octopress), etc)
-4. Add all of your existing posts, pages, and any other content you want to move over.
-5. Update YAML front matter blocks to match names used by Skinny Bones. Full details below.
-6. Update `config.yml`, add navigation links. Full details below. 
 
 ---
 
@@ -248,133 +236,4 @@ image:
 
 ##### Teasers Images
 
-Teaser images appear on archive pages in the post grid and are also used in the off-canvas menu. If you don't assign a teaser image for a specific post or page, the default one will be used. The default image can be set in `_config.yml` under site wide configuration `teaser: 400x250.gif`. Teaser images should be roughly 400 x 250 pixels to scale comfortably across screen sizes.
 
-<figure>
-  <img src="{{ site.url }}/images/teaser-screenshot.jpg" alt="teaser image screenshot">
-  <figcaption>Images outlined in red show how teasers typically display</figcaption>
-</figure>
-
-Similar to feature images you don't want to go crazy and use large high resolution assets for your teasers. Keep in mind performance and balance accordingly.
-
-To assign a teaser image on a post use the following YAML:
-
-{% highlight yaml %}
-image:
-  teaser: 400x250.gif
-  feature: feature-image-filename.jpg
-  credit: Michael Rose #name of the person or site you want to credit
-  creditlink: http://mademistakes.com #url to their site or licensing
-{% endhighlight %}
-
-#### Table of Contents
-
-For longer posts you may find it beneficial to include a table of contents menu. Add `{% raw %}{% include toc.html %}{% endraw %}` where you'd like the TOC to appear and Kramdown will take care of the rest by converting all headlines to list of links.
-
-If you need to alter the *Overview* headline text that appears at the top of the list, you can modify it in `main.js`.
-
-#### Google AdSense
-
-To use Google Ads on your site create a [Google AdSense account](https://www.google.com/adsense/) and then add your `ad-client` and `ad-slot` variables to `_config.yml`. To show ads on a post/page add `ads: true` to the YAML Front Matter.
-
-<figure>
-  <img src="{{ site.url }}/images/google-adsense-responsive.jpg" alt="responsive type">
-</figure>
-
-Select **responsive** for ad type, allowing it to display at various sizes. If you'd like to use a different ad network just edit the appropriate HTML and JavaScript found in `_includes/advertising.html`.
-
-#### Disqus Comments
-
-Create a [Disqus](http://disqus.com) account and change `disqus-shortname` in `_config.yml` to the Disqus *shortname* you just setup. To enable commenting on a post, add the following to its YAML Front Matter:
-
-{% highlight yaml %}
-comments: true
-{% endhighlight %}
-
-#### Social Sharing Links
-
-Social sharing links for Twitter, Facebook, and Google+ are included on posts/pages using the `article` and `media` layouts by default. To hide them on specific posts or pages add `share: false` to the YAML Front Matter. If you'd like to use different social networks modify `_includes/share-this.html` to your liking. Icons are set using [Font Awesome](http://fontawesome.io/).
-
-<figure>
-  <img src="{{ site.url }}/images/social-sharing-links-screenshot.jpg" alt="social sharing links screenshot">
-  <figcaption>Share links appear the below author details block.</figcaption>
-</figure>
-
----
-
-### Pages
-
-#### Organizing Pages
-
-Maintaining pretty URLs for your site can be handled in two ways when creating new pages.
-
-Place a `.md` file at the root level and add the appropriate permalink to the YAML Front Matter. For example if you want your **About** page to live at `domain.com/about/` create a file named `/about.md` and add `permalink: /about/` to its YAML Front Matter.
-
-Or you can create `/about/index.md` and omit the YAML permalink. Up to you how you'd like to organize your pages.
-
-### Archives
-
-Create an archive page for each category or section of your site that you want to list a collection of posts. On these pages you'll want to use the `archive` layout and use a variation of the following for the page's content changing `foo` to the appropriate category you want to list posts from.
-
-{% highlight html %}
-<div class="tiles">
-{{ "{% for post in site.categories.foo " }}%}
-  {{ "{% include post-grid.html " }}%}
-{{ "{% endfor " }}%}
-</div><!-- /.tiles -->
-{% endhighlight %}
-
-If you'd prefer a less visual list of posts use `{{ "{% include post-list.html " }}%}` instead of the `post-grid.html` _include.
-
----
-
-## Adding New Content with Octopress
-
-While completely optional, I've included Octopress and some starter templates to automate the creation of new posts and pages. To take advantage of it start by installing the [Octopress](https://github.com/octopress/octopress) gem if it isn't already. It is safe to remove Octopress from your Gemfile if you have no need for it.
-
-{% highlight bash %}
-$ gem install octopress --pre
-{% endhighlight %}
-
-### New Post
-
-Default command
-
-{% highlight bash %}
-$ octopress new post "Post Title"
-{% endhighlight %}
-
-Default works great if you want all your posts in one directory, but if you're like me and want to group them into sub-folders like `/articles`, `/portfolio`, etc. Then this is the command for you. By specifying the DIR it will create a new post in that folder and populate `categories:` with the same value.
-
-{% highlight bash %}
-{% endhighlight %}
-
-The default `_layout` used for new posts is `articles`. If you want to use the media layout or something else specify it like so
-
-{% highlight bash %}
-$ octopress new post "Portfolio Post Title" --dir portfolio --template media
-{% endhighlight %}
-
-### New Page
-
-To create a new page use the following command.
-
-{% highlight bash %}
-$ octopress new page about/
-{% endhighlight %}
-
-This will create a page at `/about/index.md`
-
----
-
-## Contributing
-
-Found a bug or aren't quite sure how something works? By all means [submit an issue](https://github.com/mmistakes/skinny-bones-jekyll/issues) on GitHub. For straight forward bug fixes feel free to submit pull requests. 
-
-**Skinny Bones** was built predominately as a framework for [my own site](http://mademistakes.com). My intention was never to make it all things for all people. So please keep that in mind before submitting new features or enhancements. If you've used any of my [Jekyll themes](http://mademistakes.com/work/jekyll-themes/) I think it's pretty clear what I like and what I try to avoid. When in doubt ask before wasting your time on a feature that won't get merged in.
-
----
-
-## License
-
-This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer. 
