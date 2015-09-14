@@ -42,6 +42,7 @@ share: false
 ---
 
 ## PUBLICATIONS
+
 ### Articles in Peer-Reviewed Journals
 
 * 2015	Daoud, Adel, “Quality of Governance, Corruption, and Absolute Child Poverty in India” Journal of South Asian Development, August 10:119-147. 
@@ -88,11 +89,12 @@ share: false
 ---
 
 ## GRANTS, HONOURS AND AWARDS
+
 ### Grants & Funding
 
 * 2012	Ranked first for a two year postdoc position at Department of Sociology, University of Lund. Kindly rejected.
 * 2012	The Impact of the 2008 Financial Crisis on Child Poverty in Developing Countries. Swedish Research Council. 3,3 million SEK.
-* 2011	[with David Gordon , Bristol University, UK: Bo Rothstein, University of Gothenburg, Sweden: Björn Halleröd, University of Gothenburg, Sweden] (Project leader Halleröd) Child poverty, policies and quality of government. Swedish Research Council, 6,5 million SEK.
+* 2011	(with David Gordon , Bristol University, UK: Bo Rothstein, University of Gothenburg, Sweden: Björn Halleröd, University of Gothenburg, Sweden) (Project leader: Björn Halleröd) Child poverty, policies and quality of government. Swedish Research Council, 6,5 million SEK.
 * 2010	Travel grant, The Swedish Foundation for International Cooperation in Research and Higher Education, 100 000 SEK. 
 * 2007-2010	Various grants: Adlerbertska forskningsstiftelse (35 000 SEK); Stiftelsen Lars Hieretas Minne (35 000 SEK); Knut och Alice Wallenbergs stiftelse (16 000 SEK). 
 
@@ -132,7 +134,8 @@ share: false
 
 
 ---
-## OTHER
+
+## OTHER INFORMATION
 * Languages	
   * Arabic (mother tongue: fluent in speech, basic in writing)
   * Swedish (fluent)
