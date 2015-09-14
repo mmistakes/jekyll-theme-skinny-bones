@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Getting Started with Skinny Bones"
+title: "My Academic Merits"
 date: 2014-06-25T13:57:25-04:00
 modified:
 excerpt:
@@ -12,16 +12,15 @@ image:
 share: false
 ---
 
-The basics for getting Skinny Bones setup.
 
 {% include toc.html %}
 
 ## EDUCATION
 
-* 2013-2014	Further training (selected): Social Network Analysis, Max Planck Institute for the Studies of Societies, Germany; Multilevel analysis at the Centre for Multilevel Modelling, University of Bristol, the UK; and R-programming at Karolinska Institute, Stockholm, Sweden. 
-* 2011-2012	Pedagogical Training for Teaching in Higher Education, (various certificates), University of Gothenburg
-* 2011	PhD. in Sociology, Department of Sociology, University of Gothenburg, Gothenburg, Sweden.
-* 2006	M.A. in Sociology. Minor in: Political Science, Economics, and Mathematics. University of Gothenburg, & University of Jönköping, Sweden.  
+> * 2013-2014	Further training (selected): Social Network Analysis, Max Planck Institute for the Studies of Societies, Germany; Multilevel analysis at the Centre for Multilevel Modelling, University of Bristol, the UK; and R-programming at Karolinska Institute, Stockholm, Sweden. 
+> * 2011-2012	Pedagogical Training for Teaching in Higher Education, (various certificates), University of Gothenburg
+> * 2011	PhD. in Sociology, Department of Sociology, University of Gothenburg, Gothenburg, Sweden.
+> * 2006	M.A. in Sociology. Minor in: Political Science, Economics, and Mathematics. University of Gothenburg, & University of Jönköping, Sweden.  
 
 
 ---
