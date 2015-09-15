@@ -84,7 +84,7 @@ The basics for getting Skinny Bones setup.
 
 ---
 
-## TEACHING – shortlist
+## TEACHING (shortlist)
 
 * 2012-2013	Advanced Qualitative Method (PhD level); Sociological Analyses and Horizons (political economy and economic sociology block)
 * 2011-2013	Applied Sociology (Quantitiative); Supervision of numerious sociology Master and Backelor theses.
@@ -94,8 +94,11 @@ The basics for getting Skinny Bones setup.
 ## PEDAGOGICAL HONOURS AND AWARDS
 
 ### Academic & Pedagogic Recognitions
+
 * 2013	Supervised the bachelor thesis ”Demokratimåttets betydelse för forskningsresultat om barnfattigdomsreducering i utvecklingsländer” written by Inga-Lisa Adler and Elisabeth Lindh, which was awarded an academic prize by Stiftelsen Torgny Segerstedts Minne.
+
 * 2012	Nominated for Götas pedagogiska pris vid Samhällsvetenskapliga fakulteten. Theme – communicating knowledge. Pedagogical prize.
+
 ---
 
 ## OTHER
