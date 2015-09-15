@@ -115,7 +115,7 @@ tel: +46 031-786 0000
 Address: Box 720, 405 30 Göteborg
 Sweden
 
-* Assosiate Professor Oskar Engdahl 
+* Associate Professor Oskar Engdahl 
 Head of Teaching
 Department of sociology and works science, University of Gothenburg
 Email. Oskar.Engdahl@sociology.gu.se 
