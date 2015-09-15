@@ -16,25 +16,15 @@ The basics for getting Skinny Bones setup.
 
 {% include toc.html %}
 
-## Installation
+## TEACHING HIGHLIGHTS
 
-Skinny Bones requires [Jekyll](http://jekyllrb.com/) 2+. Make sure to run `gem update jekyll` if you aren't on the latest version or `gem install jekyll` if this is your first time installing it.
+> *	Teaching specialization: quantitative method, computer assisted qualitative data analysis, economic sociology, policy and child poverty. 
+> *	Extensive teaching experience: Have extensive lecturing experience: in international environment (outside of Sweden) about 200 units; graduate level about 400 units; undergraduate level 740 units. This equals a total amount of 1340 units. (A two hour lecture equals 8 units; supervision of a bachelor thesis equals 12 units). 
+> *	Course leadership and development: Developed new courses from idea to finished product (mainly in economic sociology and political economy: University of Gothenburg). Experienced in having course leadership (mainly in economic sociology and political economy, University of Gothenburg).
+> *	Thesis supervision: Supervised numerous student theses at various levels (undergraduate, bachelor, master, and techer´s programme) 
+*	Pedagogical Training: Have studied and taken several higher education pedagogical courses to ensure and develop my pedagogical skills. 
+> *	Writing: Have written and edited several textbook materials (published in Liber). 
 
-If you are creating a new Jekyll site using Skinny Bones following these steps:
-
-1. [Download Skinny Bones](https://github.com/mmistakes/skinny-bones-jekyll/archive/master.zip) and unzip.
-2. Rename `skinny-bones-jekyll-master` to something meaningful ie: `new-site`
-3. Run `bundle install` to install all dependencies (Jekyll, [Jekyll-Sitemap](https://github.com/jekyll/jekyll-sitemap), [Octopress](https://github.com/octopress/octopress), etc)
-4. Update `_config.yml`, add navigation, and add posts/pages. Full details below.
-
-If you want to use Skinny Bones with an existing Jekyll site follow these steps:
-
-1. [Download Skinny Bones](https://github.com/mmistakes/skinny-bones-jekyll/archive/master.zip) and unzip.
-2. Rename `skinny-bones-jekyll-master` to something meaningful ie: `new-site`
-3. Run `bundle install` to install all dependencies (Jekyll, [Jekyll-Sitemap](https://github.com/jekyll/jekyll-sitemap), [Octopress](https://github.com/octopress/octopress), etc)
-4. Add all of your existing posts, pages, and any other content you want to move over.
-5. Update YAML front matter blocks to match names used by Skinny Bones. Full details below.
-6. Update `config.yml`, add navigation links. Full details below. 
 
 ---
 
