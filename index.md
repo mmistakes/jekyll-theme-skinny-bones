@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Hi I´m Adel"
+title: "About me"
 ---
 
 ## A Social Scientist Interested in Global Issues and New Ways of Portraying the World
