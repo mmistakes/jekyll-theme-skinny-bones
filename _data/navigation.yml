@@ -3,4 +3,9 @@
 - title: CV
   url: /CV/
   excerpt: "My achivments, merits, publications"
+  image: cv.png
+
+- title: TEACHING
+  url: /TEACHING/
+  excerpt: "My Teaching"
   image: bio-photo.jpg
