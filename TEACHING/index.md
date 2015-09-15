@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "My teaching merits"
+title: "My Teaching Merits"
 date: 2014-06-25T13:57:25-04:00
 modified:
 excerpt:
@@ -12,7 +12,7 @@ image:
 share: false
 ---
 
-The basics for getting Skinny Bones setup.
+
 
 {% include toc.html %}
 
