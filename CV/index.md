@@ -107,6 +107,7 @@ share: false
 ---
 
 ## ADMITISTRATIVE ACTIVITIES
+
 ### Peer-review service
 
 * 2007 -	American Journal of Economics and Sociology, Cambridge Journal of Economics, Journal of Economic Psychology, Journal of Critical Realism, Journal of International Migration and Integration, International Journal of Pluralism and Economics Education, Journal of Institutional Economics, Review of Political Economy, Organization studies, Socio-Economic Review, PLOSONE, Max Planck Institute working paper series, Economia Politica.
@@ -119,7 +120,7 @@ share: false
 * 2007, July – 2013	Member of the Editorial Board, International Journal of Green Economics, July 2007-2013 
 
 
-### Conference and seminar organizing
+### Conference and Seminar organizing
 
 * 2013	Organizer (with Reza Azarian, Bengt Larsson, och Patrik Aspers) for the authors of the book Ekonomi och Samhälle – en introduktion. Liber. Stockholm., 24-25 September, University of Uppsala, Sweden.
 * 2012, May.	Chairman and Conference moderator for Nordic Network for Critical Realism, Social Structure and Human Agency – Breaking New Ground , May 29-30 2012, University of Gothenburg, Sweden
