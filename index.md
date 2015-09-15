@@ -4,7 +4,7 @@ permalink: /
 title: "Hi I´m Adel"
 ---
 
-## Hi I´m Adel
+## A Social Scientist Interested in Global Issues and New Ways of Portraying the World
 I happend to be trained in sociology, but have a much wider interest in the social sciences: economics, political science, and development. 
 
 <div class="tiles">
