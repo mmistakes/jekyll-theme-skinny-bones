@@ -14,7 +14,7 @@ share: false
 
 <figure class="half">
 	<img src="//adeldaoud.github.io/blob/master/images/adel.jpg">
-	<figcaption>Caption describing these three images.</figcaption>
+	<figcaption>Photo by Astrid Duenkelmann.</figcaption>
 </figure>
 
 
