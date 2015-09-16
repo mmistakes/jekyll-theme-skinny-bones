@@ -12,10 +12,7 @@ image:
 share: false
 ---
 
-<figure class="half">
-	<img src="//adeldaoud.github.io/blob/master/images/adel.jpg">
-	<figcaption>Photo by Astrid Duenkelmann.</figcaption>
-</figure>
+![Image of Yaktocat](https://github.com/adeldaoud/adeldaoud.github.io/blob/master/images/adel.jpg)
 
 
 I am currently appointed as a postdoctoral researcher at the Department of Sociology and Work Science, at University of Gothenburg, Sweden, and as a visiting scholar at the Fielding School of Public Health, University of California, Los Angeles, the US. 
