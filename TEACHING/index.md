@@ -91,10 +91,10 @@ share: false
 * 2009-2012	Economic Sociology – Money, Markets, Power (course leader); Advanced Qualitative Method (PhD level)
 
 ---
+
 ## PEDAGOGICAL HONOURS AND AWARDS
 
 ### Academic & Pedagogic Recognitions
-
 * 2013	Supervised the bachelor thesis ”Demokratimåttets betydelse för forskningsresultat om barnfattigdomsreducering i utvecklingsländer” written by Inga-Lisa Adler and Elisabeth Lindh, which was awarded an academic prize by Stiftelsen Torgny Segerstedts Minne.
 
 * 2012	Nominated for Götas pedagogiska pris vid Samhällsvetenskapliga fakulteten. Theme – communicating knowledge. Pedagogical prize.
@@ -102,10 +102,12 @@ share: false
 ---
 
 ## OTHER
+
 ### Languages I can teach in
+
 * Swedish (fluent)
 * English (fluent)
-
+---
 
 ## PEDAGOGICAL REFERENCES 
 
