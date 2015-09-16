@@ -6,9 +6,9 @@ modified: 2015-08-27T11:57:41-04:00
 tags: [sample]
 comments: false
 ads: false
-teaser: nssr1.jpg
 image:
   feature: nssr.jpg
+  teaser: nssr.jpg
 ---
 
 # Visiting the Department of Economics, the New School For Social Research, New York, the US.
