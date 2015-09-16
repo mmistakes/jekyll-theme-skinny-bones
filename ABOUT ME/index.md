@@ -12,7 +12,7 @@ image:
 share: false
 ---
 
-<img src="https://adeldaoud.se/images/adel.jpg" width="400">
+<img src="adeldaoud.github.io/images/adel.jpg" width="400">
 
 I am currently appointed as a postdoctoral researcher at the Department of Sociology and Work Science, at University of Gothenburg, Sweden, and as a visiting scholar at the Fielding School of Public Health, University of California, Los Angeles, the US. 
 
