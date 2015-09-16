@@ -12,6 +12,12 @@ image:
 share: false
 ---
 
+<figure class="half">
+	<img src="//adeldaoud.github.io/blob/master/images/adel.jpg">
+	<figcaption>Caption describing these three images.</figcaption>
+</figure>
+
+
 I am currently appointed as a postdoctoral researcher at the Department of Sociology and Work Science, at University of Gothenburg, Sweden, and as a visiting scholar at the Fielding School of Public Health, University of California, Los Angeles, the US. 
 
 My research is currently being funded by the [Swedish Research Council](http://www.vr.se/) within its International Postdoc Programme. I am entitled to be abroad for two of the three years of what the funding covers. My project is about the *Impact of the 2008 Financial Crisis on Child Poverty in Developing Countries*.
