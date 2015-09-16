@@ -6,7 +6,7 @@ modified:
 excerpt:
 tags: []
 image:
-  feature: adel.jpg
+  feature: # adel.jpg
   teaser:
   thumb:
 share: false
