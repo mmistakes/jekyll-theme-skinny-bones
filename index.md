@@ -2,6 +2,8 @@
 layout: archive
 permalink: /
 title: "About me"
+image:
+  feature: daoud.jpg
 ---
 
 ## A Social Scientist Interested in Global Issues and New Ways of Portraying the World
