@@ -30,7 +30,7 @@ owner:
     ad-slot: 
   bio: 
   avatar: bio-photo.jpg # 160x160 px image for author byline
-disqus-shortname:
+  disqus-shortname:
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
