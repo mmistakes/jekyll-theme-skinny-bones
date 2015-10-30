@@ -10,14 +10,15 @@ url:
 # Jekyll configuration
 
 sass:
-    sass_dir: _sass
-    style: compressed
+  sass_dir: _sass
+  style: compressed
 permalink: /:categories/:title/
 kramdown:
   toc_levels: 1..2
-highlighter: pygments
+highlighter: rouge
 gems:
   - jekyll-sitemap
+  - jekyll-gist
 
 
 # Octopress configuration
