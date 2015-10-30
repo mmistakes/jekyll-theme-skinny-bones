@@ -18,7 +18,7 @@ The basics for getting Skinny Bones setup.
 
 ## Installation
 
-Skinny Bones requires [Jekyll](http://jekyllrb.com/) 2+. Make sure to run `gem update jekyll` if you aren't on the latest version or `gem install jekyll` if this is your first time installing it.
+Skinny Bones requires [Jekyll](http://jekyllrb.com/) 3.0. Make sure to run `bundle update` if you aren't on the latest version or `bundle install` if this is your first time installing it.
 
 If you are creating a new Jekyll site using Skinny Bones following these steps:
 
@@ -40,7 +40,7 @@ If you want to use Skinny Bones with an existing Jekyll site follow these steps:
 
 ## Running Jekyll
 
-If `jekyll build` and `jekyll serve` throw errors you may have to run Jekyll with `bundle exec` instead.
+The preferred method for running Jekyll is with `bundle exec`, but if you're willing to deal gem conflicts feel free to go cowboy with a `jekyll build` or `jekyll serve`.
 
 > In some cases, running executables without bundle exec may work, if the executable happens to be installed in your system and does not pull in any gems that conflict with your bundle.
 >
@@ -83,7 +83,7 @@ skinny-bones-jekyll-master
 |   ├── _layout.scss                    # structure and placement, the bulk of the design
 |   ├── _mixins.scss                    # custom mixins
 |   ├── _notices.scss                   # notice blocks
-|   ├── _pygments.scss                  # Pygments.rb syntax highlighting
+|   ├── _syntax.scss                    # Pygments.rb syntax highlighting
 |   ├── _reset.scss                     # normalize and reset elements
 |   ├── _sliding-menu.scss              # sliding menu overlay
 |   ├── _variables.scss                 # global colors and fonts

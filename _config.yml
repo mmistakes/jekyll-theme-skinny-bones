@@ -15,9 +15,10 @@ sass:
 permalink: /:categories/:title/
 kramdown:
   toc_levels: 1..2
-highlighter: pygments
+highlighter: rouge
 gems:
   - jekyll-sitemap
+  - jekyll-gist
 
 
 # Octopress configuration
