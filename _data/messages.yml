@@ -1,0 +1,14 @@
+# Messages for localization
+# see description here: https://tuananh.org/2014/08/13/localization-with-jekyll/
+
+locales:
+  en:
+    overview: "Overview"
+    toc: "Table of Contents"
+    written_by: "Written by"
+    updated: "Updated"
+  de:
+    overview: "&Uuml;bersicht"
+    toc: "Inhalt"
+    written_by: "Verfasst von"
+    updated: "Zuletzt aktualisiert:"
