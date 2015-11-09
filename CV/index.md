@@ -57,10 +57,12 @@ share: false
 
 ### Books
 * 2014	[Edited book] Daoud, Adel, editor, (with Reza Azarian and Bengt Larsson), Ekonomisk sociologi– en introduktion. Liber. Stockholm.
-* 2008	[Edited book] Daoud Adel.(with Bengtsson Mattias., and Seldén, Daniel.) (2008) En realistisk sociologi i praktiken. Nio texter om samhället, Department of Sociology Research rapport nr 141. University of Gothenburg: Intellecta Infolog AB, Gothenburg
 * 2011	[PhD thesis] Daoud, A (2011) Scarcity, Abundance, and Sufficiency: Contributions to Social and Economic Theory, Göteborg Studies in Sociology No 46, Gothenburg.
+* 2008	[Edited book] Daoud Adel.(with Bengtsson Mattias., and Seldén, Daniel.) (2008) En realistisk sociologi i praktiken. Nio texter om samhället, Department of Sociology Research rapport nr 141. University of Gothenburg: Intellecta Infolog AB, Gothenburg
+
 
 ### Book chapters, Reports, and Other publications.
+* 2015 Daoud, Adel and Kohl, Sebastian, Is there a New Economic Sociology Effect? A Topic Model on the Economic Orientation of Sociology, 1890 to 2014. Working Paper 20/2015, Department of Economics, The New School For Social Research. 
 * 2015	Daoud, Adel, Halleröd, Björn, and Guha-Sapir, Debarati. Quality of Government and the Relationship between Natural Disasters and Child Poverty: A Comparative Analysis. MPIfG Discussion Paper 15/5
 * 2015 	Daoud, Adel. (forthcoming) (with Fazil Moradi, Roukaya Ibrahim, Shailen Nandy), “Iraq”, The SAGE Encyclopedia of World Poverty, Second Edition, edited by Joanne Steinberg.
 * 2015	Daoud, Adel. (2015), “Scarcity and artificial scarcity”, The Wiley-Blackwell Encyclopedia of Consumption and Consumer Studies, edited by Michael Ryan and Dan Cook. [by invitation] ISBN: 978-0-470-67284-6
@@ -110,7 +112,7 @@ share: false
 
 ### Peer-review service
 
-* 2007 -	American Journal of Economics and Sociology, Cambridge Journal of Economics, Journal of Economic Psychology, Journal of Critical Realism, Journal of International Migration and Integration, International Journal of Pluralism and Economics Education, Journal of Institutional Economics, Review of Political Economy, Organization studies, Socio-Economic Review, PLOSONE, Max Planck Institute working paper series, Economia Politica.
+* 2007 -	American Journal of Economics and Sociology, Cambridge Journal of Economics, Journal of Economic Psychology, Journal of Critical Realism, Journal of International Migration and Integration, International Journal of Pluralism and Economics Education, Journal of Institutional Economics, Review of Political Economy, Organization studies, Socio-Economic Review, PLOSONE, Max Planck Institute working paper series, Economia Politica, Social Indiactors Research. 
 
 ### Administrative position
 * 2016, Jan. - 	Nominated for the post Trustee Executive Council for the Association for Social Economics. www.socialeconomics.org 
