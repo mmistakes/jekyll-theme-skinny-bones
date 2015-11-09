@@ -1,5 +1,5 @@
 <nav role="navigation" id="js-menu" class="sliding-menu-content">
-  <h5>{{ site.title }} <span>Table of Contents</span></h5>
+  <h5>{{ site.title }} <span>{{ site.data.messages.locales[site.locale].toc }}</span></h5>
   <ul class="menu-item">
     {% for link in site.data.navigation %}<li>
       <a href="{{ site.url }}{{ link.url }}">
