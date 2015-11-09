@@ -45,7 +45,7 @@ share: false
 
 ### Articles in Peer-Reviewed Journals
 
-* 2015	Daoud, Adel, “Quality of Governance, Corruption, and Absolute Child Poverty in India” Journal of South Asian Development, August 10:119-147. 
+* 2015	Daoud, Adel, “Quality of Governance, Corruption, and Absolute Child Poverty in India” Journal of South Asian Development, August 10:119-147. [doi: 10.1177/0973174115588844](http://sad.sagepub.com/content/10/2/148.abstract)
 * 2013	Bjorn Halleröd; Bo Rothstein; Adel Daoud; Shailen Nandy , (2013) “Bad Governance and Poor Children: A Comparative analysis of government efficiency and severe child deprivation in 68 low- and middle-income countries”, World Development, vol 48 (August), pp.19-31
 * 2012	Söderberg, J and Daoud, A (2012) “Atoms want to be free too! – expanding the critique of intellectual property to physical goods”, in Critical Theory and Political Economy of the Internet @ Nordmedia 2011” Christian Fuchs and Göran Bolin (eds). Online at Cognition, Communication, Co-operation. Vol 10 No 1
 * 2011	Daoud A. and Puaca G. (2011), “An organic view of want formation: pragmatic rationality, habitus and reflexivity”, British Journal of Sociology of Education, 32 (4), July.
