@@ -46,19 +46,19 @@ share: false
 ### Articles in Peer-Reviewed Journals
 
 * 2015	Daoud, Adel, “Quality of Governance, Corruption, and Absolute Child Poverty in India” Journal of South Asian Development, August 10:119-147. [doi: 10.1177/0973174115588844](http://sad.sagepub.com/content/10/2/148.abstract)
-* 2013	Bjorn Halleröd; Bo Rothstein; Adel Daoud; Shailen Nandy , (2013) “Bad Governance and Poor Children: A Comparative analysis of government efficiency and severe child deprivation in 68 low- and middle-income countries”, World Development, vol 48 (August), pp.19-31
-* 2012	Söderberg, J and Daoud, A (2012) “Atoms want to be free too! – expanding the critique of intellectual property to physical goods”, in Critical Theory and Political Economy of the Internet @ Nordmedia 2011” Christian Fuchs and Göran Bolin (eds). Online at Cognition, Communication, Co-operation. Vol 10 No 1
-* 2011	Daoud A. and Puaca G. (2011), “An organic view of want formation: pragmatic rationality, habitus and reflexivity”, British Journal of Sociology of Education, 32 (4), July.
-* 2011	Daoud A. and Larsson B. (2011) “Economic Sociology – Old and New”, International Journal of Pluralism and Economics Education. 2 (3), pp. 255-269.
-* 2011	Puaca, G and Daoud, A (2011) “Vilja och framtid i frågor kring utbildningsval”, Pedagogisk Forskning. 16(2), 100–117.
-* 2011	Daoud, A (2011) “The Modus Vivendi of Material Simplicity: Counteracting Scarcity via the Deflation of Wants”, Review of Social Economy, 69(3), pp. 275-305. (won the Association of Social Economics’ Helen Potter Award for best article 2011)
-* 2010	Daoud, A (2010), ‘Robbins and Malthus on Scarcity, Abundance, and Sufficiency:  The Missing Sociocultural Element’ American Journal of Economics and Sociology, 69(4), pp. 1206-1229.
-* 2007	Daoud, A. (2007) “(Quasi)Scarcity and Global Hunger: A Sociological Critique of the Scarcity Postulate with an Effort to Synthesis”, Journal of Critical Realism 6 (2), pp. 199-225
+* 2013	Bjorn Halleröd; Bo Rothstein; Adel Daoud; Shailen Nandy , (2013) “Bad Governance and Poor Children: A Comparative analysis of government efficiency and severe child deprivation in 68 low- and middle-income countries”, World Development, vol 48 (August), pp.19-31. [doi:10.1016/j.worlddev.2013.03.007](http://www.sciencedirect.com/science/article/pii/S0305750X13000831)
+* 2012	Söderberg, J and Daoud, A (2012) “Atoms want to be free too! – expanding the critique of intellectual property to physical goods”, in Critical Theory and Political Economy of the Internet @ Nordmedia 2011” Christian Fuchs and Göran Bolin (eds). Online at Cognition, Communication, Co-operation. Vol 10 No 1. [Link](http://triple-c.at/index.php/tripleC/article/viewArticle/288)
+* 2011	Daoud A. and Puaca G. (2011), “An organic view of want formation: pragmatic rationality, habitus and reflexivity”, British Journal of Sociology of Education, 32 (4), July. [DOI:10.1080/01425692.2011.578440](http://www.tandfonline.com/doi/abs/10.1080/01425692.2011.578440)
+* 2011	Daoud A. and Larsson B. (2011) “Economic Sociology – Old and New”, International Journal of Pluralism and Economics Education. 2 (3), pp. 255-269. [DOI: 10.1504/IJPEE.2011.044270](http://www.inderscienceonline.com/doi/abs/10.1504/IJPEE.2011.044270)
+* 2011	Puaca, G and Daoud, A (2011) “Vilja och framtid i frågor kring utbildningsval”, Pedagogisk Forskning. 16(2), 100–117. [E-ISSN 2001-3345](http://journals.lub.lu.se/index.php/pfs/article/view/7986)
+* 2011	Daoud, A (2011) “The Modus Vivendi of Material Simplicity: Counteracting Scarcity via the Deflation of Wants”, Review of Social Economy, 69(3), pp. 275-305. (won the Association of Social Economics’ Helen Potter Award for best article 2011). [DOI:10.1080/00346764.2010.502832](http://www.tandfonline.com/doi/abs/10.1080/00346764.2010.502832)
+* 2010	Daoud, A (2010), ‘Robbins and Malthus on Scarcity, Abundance, and Sufficiency:  The Missing Sociocultural Element’ American Journal of Economics and Sociology, 69(4), pp. 1206-1229. [doi](http://onlinelibrary.wiley.com/doi/10.1111/j.1536-7150.2010.00741.x/full)
+* 2007	Daoud, A. (2007) “(Quasi)Scarcity and Global Hunger: A Sociological Critique of the Scarcity Postulate with an Effort to Synthesis”, Journal of Critical Realism 6 (2), pp. 199-225.[DOI: http://dx.doi.org/10.1558/jocr.v6i2.199](http://www.maneyonline.com/doi/abs/10.1558/jocr.v6i2.199)
 
 ### Books
-* 2014	[Edited book] Daoud, Adel, editor, (with Reza Azarian and Bengt Larsson), Ekonomisk sociologi– en introduktion. Liber. Stockholm.
-* 2011	[PhD thesis] Daoud, A (2011) Scarcity, Abundance, and Sufficiency: Contributions to Social and Economic Theory, Göteborg Studies in Sociology No 46, Gothenburg.
-* 2008	[Edited book] Daoud Adel.(with Bengtsson Mattias., and Seldén, Daniel.) (2008) En realistisk sociologi i praktiken. Nio texter om samhället, Department of Sociology Research rapport nr 141. University of Gothenburg: Intellecta Infolog AB, Gothenburg
+* 2014	[Edited book] Daoud, Adel, editor, (with Reza Azarian and Bengt Larsson), Ekonomisk sociologi– en introduktion. Liber. Stockholm. [978-91-47-11137-4](https://www.liber.se/Hogskola/Ekonomi/Ovrigt/Ekonomisk-historia/Ekonomisk-sociologi/)
+* 2011	[PhD thesis] Daoud, A (2011) Scarcity, Abundance, and Sufficiency: Contributions to Social and Economic Theory, Göteborg Studies in Sociology No 46, Gothenburg. [978-91-979397-1-3](https://gupea.ub.gu.se/handle/2077/24686?locale=sv)
+* 2008	[Edited book] Daoud Adel.(with Bengtsson Mattias., and Seldén, Daniel.) (2008) En realistisk sociologi i praktiken. Nio texter om samhället, Department of Sociology Research rapport nr 141. University of Gothenburg: Intellecta Infolog AB, Gothenburg. [ISBN 0072-5099](http://gup.ub.gu.se/publication/99511-en-realistisk-sociologi-i-praktiken-nio-texter-om-samhallet)
 
 
 ### Book chapters, Reports, and Other publications.
