@@ -64,7 +64,7 @@ share: false
 ### Book chapters, Reports, and Other publications.
 * 2015 Daoud, Adel and Kohl, Sebastian, Is there a New Economic Sociology Effect? A Topic Model on the Economic Orientation of Sociology, 1890 to 2014. Working Paper 20/2015, Department of Economics, The New School For Social Research. 
 * 2015	Daoud, Adel, Halleröd, Björn, and Guha-Sapir, Debarati. Quality of Government and the Relationship between Natural Disasters and Child Poverty: A Comparative Analysis. MPIfG Discussion Paper 15/5
-* 2015 	Daoud, Adel. (forthcoming) (with Fazil Moradi, Roukaya Ibrahim, Shailen Nandy), “Iraq”, The SAGE Encyclopedia of World Poverty, Second Edition, edited by Joanne Steinberg.
+* 2015 	Daoud, Adel. (with Fazil Moradi, Roukaya Ibrahim, Shailen Nandy), “Iraq”, The SAGE Encyclopedia of World Poverty, Second Edition, edited by Joanne Steinberg.
 * 2015	Daoud, Adel. (2015), “Scarcity and artificial scarcity”, The Wiley-Blackwell Encyclopedia of Consumption and Consumer Studies, edited by Michael Ryan and Dan Cook. [by invitation] ISBN: 978-0-470-67284-6
 * 2014	Daoud, Adel and Larsson, Bengt, (2014) “Den nya ekonomiska sociologin” in Ekonomi och Samhälle – en introduktion Liber. Stockholm
 * 2014	Daoud, Adel (with Reza Azarian and Bengt Larsson), (2014) “Introduktion” in Ekonomi och Samhälle – en introduktion Liber. Stockholm
