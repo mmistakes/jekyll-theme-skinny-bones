@@ -18,7 +18,7 @@ module.exports = function(grunt) {
         files: [
           '<%= jshint.all %>'
         ],
-        tasks: ['jshint', 'uglify'],
+        tasks: ['jshint', 'uglify', 'surround'],
         options: {
           livereload: true
         }
@@ -39,6 +39,13 @@ module.exports = function(grunt) {
           ]
         }
       }
+    },
+    surround: {
+      src: 'js/main.js',
+      options: {
+        overwrite: true,
+        prepend: '---\n---',
+      },
     },
     imagemin: {
       dist: {
@@ -88,6 +95,7 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-imagemin');
   grunt.loadNpmTasks('grunt-svgmin');
   grunt.loadNpmTasks('grunt-imgcompress');
+  grunt.loadNpmTasks('grunt-surround');
 
   // Register tasks
   grunt.registerTask('scripts', ['watch', 'uglify']);
