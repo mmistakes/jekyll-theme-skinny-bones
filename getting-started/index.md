@@ -159,6 +159,25 @@ url:
 
 [^protocol]: If you decide to use a protocol-relative URL know that it will most likely break sitemap.xml that the Jekyll-Sitemap gem creates. If a valid sitemap matters to you I'd suggest [creating your own sitemap.xml](http://davidensinger.com/2013/03/generating-a-sitemap-in-jekyll-without-a-plugin/) and apply some Liquid logic to prepend links to posts/pages with `https:`.
 
+#### Site Locale
+
+The default is `en` for English. `site.locale` is used to apply localized text for a few key strings.
+
+---
+
+### Localization
+
+The theme supports localized text through a data file for the following text strings:
+
+* Table of contents headline --- "Overview"
+* Slide-out menu title --- "Table of Contents"
+* Author byline --- "Written by"
+* Post/page date --- "Updated"
+
+To update or add other translations edit `_data/messages.yml` and then set the appropriate `locale` in `_config.yml`. For example to switch from English to German replace `locale: en` with `locale: de` or `locale: de_DE`.
+
+Feel free to submit a pull request for additional languages and any other parts of the theme that could be localized.
+
 ---
 
 ### Navigation Links
@@ -271,7 +290,7 @@ image:
 
 For longer posts you may find it beneficial to include a table of contents menu. Add `{% raw %}{% include toc.html %}{% endraw %}` where you'd like the TOC to appear and Kramdown will take care of the rest by converting all headlines to list of links.
 
-If you need to alter the *Overview* headline text that appears at the top of the list, you can modify it in `main.js`.
+If you need to alter the *Overview* headline text that appears at the top of the list, you can do so by editing `_data/messages.yml`.
 
 #### Google AdSense
 
