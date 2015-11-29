@@ -15,6 +15,8 @@ share: false
 
 {% include toc.html %}
 
+Last updated: November 2015
+
 ## EDUCATION
 
 * 2013-2014	Further training (selected): Social Network Analysis, Max Planck Institute for the Studies of Societies, Germany; Multilevel analysis at the Centre for Multilevel Modelling, University of Bristol, the UK; and R-programming at Karolinska Institute, Stockholm, Sweden. 
