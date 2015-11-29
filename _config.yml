@@ -1,10 +1,10 @@
 # Site wide configuration
 
-title: Adel Daoud 
-description: Researching Poverty, Inequality, and Global Health
-logo: adel.jpg # 120x120 px default image used for Twitter summary card
-teaser:  apple-touch-icon-precomposed.png # 400x250 px default teaser image used in image archive grid
-locale:
+title:
+description:
+logo: # 120x120 px default image used for Twitter summary card
+teaser: # 400x250 px default teaser image used in image archive grid
+locale: en
 url:
 
 # Jekyll configuration
@@ -21,16 +21,16 @@ gems:
 
 
 # Site owner
-owner: 
-  name: Adel Daoud
-  email: adel.daoud@sociology.gu.se
+owner:
+  name:
+  email:
   twitter:
   google:
-    ad-client: 
-    ad-slot: 
-  bio: 
-  avatar: adel.jpg # 160x160 px image for author byline
-disqus-shortname:
+    ad-client:
+    ad-slot:
+  bio:
+  avatar: bio-photo.jpg # 160x160 px image for author byline
+  disqus-shortname:
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
