@@ -44,6 +44,6 @@ I am passionate about exploring different avenues about how social scientist can
 I am interested to bring the field of machine learning to poverty research and development studies. Machine learning is a subfield of computer science that studies algorithms that can cluster, organize, and predict insights from data. Once deployed, the machine can produce insights (semi)automatically – from recommender systems to self-driving cars. One of the main differences between traditional statistical approaches and machine learning is that the former relies largely on deductive-hypothesis testing with well-defined static data; the latter is a dynamic system where the machine relies on a stream of new data. This means that we can, for example, create early warning systems that could track changes in food prices dynamically (e.g. on a monthly basis) and hence take policy actions earlier to protect the vulnerable, while the adverse event is still ongoing; similarly, by tracking a stream of textual media data, we could detect the onset of conflicts and thus take action earlier, before eruption. With these types of ideas in mind, the United Nation established recently an innovation initiative called [UN Global Pulse](www.unglobalpulse.org) exploring the power of big data and machine learning.
 
 
----
+
 
 
