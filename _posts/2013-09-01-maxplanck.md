@@ -1,0 +1,16 @@
+---
+layout: article
+title: "At UCLA"
+categories: articles
+modified: 2015-08-27T11:57:41-04:00
+tags: [sample]
+comments: false
+ads: false
+image:
+  feature: ucla.jpg
+  teaser: ucla.jpg
+---
+
+# Visiting the Fielding School of Public Health, UCLA
+
+Since 1st September, I am with the [WORLD Policy Analysis Center](http://worldpolicycenter.org/). The purpose of my stay is to get to know what the Center is working on, learn about how they produce their data, and use some of their variables on [poverty reduction](http://worldpolicycenter.org/topics/poverty/policies). I am looking forward to integrate some of their work with mine.
