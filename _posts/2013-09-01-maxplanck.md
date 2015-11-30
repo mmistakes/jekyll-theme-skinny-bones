@@ -1,16 +1,18 @@
 ---
 layout: article
-title: "At UCLA"
+title: "At the Max Planck Institute"
 categories: articles
-modified: 2015-08-27T11:57:41-04:00
+modified: 2013-09-27T11:57:41-04:00
 tags: [sample]
 comments: false
 ads: false
 image:
-  feature: ucla.jpg
-  teaser: ucla.jpg
+  feature: maxplanck.jpg
+  teaser: maxplanck.jpg
 ---
 
 # Visiting the Fielding School of Public Health, UCLA
 
-Since 1st September, I am with the [WORLD Policy Analysis Center](http://worldpolicycenter.org/). The purpose of my stay is to get to know what the Center is working on, learn about how they produce their data, and use some of their variables on [poverty reduction](http://worldpolicycenter.org/topics/poverty/policies). I am looking forward to integrate some of their work with mine.
+Between  1st of September, 2013, and 31st of January, 2015, I was a visiting scholar at the [Max Planck Institute for the Study of Societies](http://www.mpifg.de/index_en.asp). During my stay I was part of the sociology of markets research group, led by Prof. Jens Beckert. 
+
+
