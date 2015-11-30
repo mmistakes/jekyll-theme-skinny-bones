@@ -10,6 +10,11 @@
   excerpt: "My Teaching"
   image: blackboard.jpg
 
+- title: RESEARCH
+  url: /RESEARCH/
+  excerpt: "My Research"
+  image: BOOKS.jpg
+  
 - title: ABOUT ME
   url: /ABOUT ME/
   excerpt: "My Position"
