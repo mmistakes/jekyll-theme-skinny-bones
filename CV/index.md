@@ -97,8 +97,7 @@ Last updated: November 2015
 
 ### Grants & Funding
 
-* 2012	Ranked first for a two year postdoc position at Department of Sociology, University of Lund. Kindly rejected.
-* 2012	The Impact of the 2008 Financial Crisis on Child Poverty in Developing Countries. Swedish Research Council. 3,3 million SEK.
+* 2013	The Impact of the 2008 Financial Crisis on Child Poverty in Developing Countries. Swedish Research Council. 3,3 million SEK.
 * 2011	(with David Gordon , Bristol University, UK: Bo Rothstein, University of Gothenburg, Sweden: Björn Halleröd, University of Gothenburg, Sweden) (Project leader: Björn Halleröd) Child poverty, policies and quality of government. Swedish Research Council, 6,5 million SEK.
 * 2010	Travel grant, The Swedish Foundation for International Cooperation in Research and Higher Education, 100 000 SEK. 
 * 2007-2010	Various grants: Adlerbertska forskningsstiftelse (35 000 SEK); Stiftelsen Lars Hieretas Minne (35 000 SEK); Knut och Alice Wallenbergs stiftelse (16 000 SEK). 
