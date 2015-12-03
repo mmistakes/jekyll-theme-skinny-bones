@@ -35,7 +35,7 @@ Last updated: November 2015
 * 2006, Mar. – 2011, Apr.	Doctoral student, Department of Sociology, University of Gothenburg, Gothenburg, Sweden.  
 
 ### Visiting positions
-* 2015, Sept. – 2016, Apr. 	Fielding School of Public Health, University of California, Los Angeles, the United States. 
+* 2015, Sept. – 2015, Dec. 	Fielding School of Public Health, University of California, Los Angeles, the United States. 
 * 2015, Feb. – 2015, Sept.	Department of Economics, The New School for Social Research, New York, the United States. 
 * 2013, Sept. – 2015, Jan.	The Max Planck Institute for the Studies of Societies, Cologne, Germany. 
 * 2012, Mar. – 2012, Apr.	Townsend Center for International Poverty Research, University of Bristol, the UK. 
