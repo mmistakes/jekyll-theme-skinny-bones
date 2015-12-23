@@ -30,7 +30,7 @@ locales:
   # French translation (TODO)
   # -------------------
   fr: &DEFAULT_FR
-      <<: *DEFAULT_EN     # load English values as default
+    <<: *DEFAULT_EN     # load English values as default
     overview: "Aperçu"
     toc: "Table des matières"
     written_by: "Écrit par"
