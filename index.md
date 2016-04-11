@@ -24,7 +24,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Hobbies</h2>
-  <p class="post-excerpt">Love taking photos <a href="http://bourbon.io">Bourbon</a>.</p>
+  <p class="post-excerpt">Love taking  <a href="https://youpic.com/photographer/Cromanpa/">photos</a>.</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->

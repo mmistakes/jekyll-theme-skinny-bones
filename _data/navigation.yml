@@ -1,7 +1,7 @@
 # Site navigation links
 
-- title: Cristian Román-P
-  url: /getting-started/
+- title: CV
+  url: /CV/
   excerpt: "Everything you need to know to get started with Skinny Bones and Jekyll."
   image: 400x250.gif
 
