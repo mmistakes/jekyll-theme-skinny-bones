@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Elaphopsocoides"
+title: "Elaphopsocoides, a new genus of Psocidae (Psocodea: ´Psocoptera´) from Valle del Cauca, Colombia"
 date: 2014-10-30T11:51:25-04:00
 modified:
 categories: articles
