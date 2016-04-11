@@ -1,7 +1,7 @@
 ---
 layout: article
-title: "Author Override"
-date: 2014-06-23T16:19:16-04:00
+title: "Brevispini"
+date: 2014-10-23T16:19:16-04:00
 author: billy_rick
 modified:
 categories: articles
