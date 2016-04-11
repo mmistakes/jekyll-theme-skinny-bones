@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Sample Post Style Guide"
+title: "Elaphopsocus"
 categories: articles
 modified: 2014-08-27T11:57:41-04:00
 tags: [sample]
