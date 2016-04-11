@@ -2,20 +2,20 @@
 
 - title: CV
   url: /CV/
-  excerpt: "Everything you need to know to get started with Skinny Bones and Jekyll."
+  excerpt: "Brief summary of my academic background."
   image: 400x250.gif
 
 - title: Publications
   url: /articles/
-  excerpt: "Examples of long form posts."
+  excerpt: "Including datasets, SI, Scripts."
   image: 400x250.gif
 
 - title: Tutorials
   url: /media/
-  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
+  excerpt: "DIY Ecology and Phylogenetics."
   image: 400x250.gif
 
 - title: Contact
   url: /about/
-  excerpt: "All about Skinny Bones for Jekyll."
+  excerpt: "Feel free to email me."
   image: 400x250.gif
