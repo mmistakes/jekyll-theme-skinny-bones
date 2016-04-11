@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Elaphopsocoides"
+title: "Cristianchocoides"
 date: 2014-05-30T11:51:25-04:00
 modified:
 categories: articles
