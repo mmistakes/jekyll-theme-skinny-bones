@@ -13,3 +13,9 @@ image:
 ---
 
 Six new species of Elaphopsocus Roesler from Brazil and Colombia are described and illustrated. Revised generic diagnoses are provided for Elaphopsocoides and Elaphopsocus; based on the structure of the male hypandrium and phallosome three species groups are recognized in Elaphopsocus.
+
+<figure class="third">
+	<a href="http://placehold.it/1200x600.gif"><img src="http://placehold.it/900x450.gif"></a>
+	<a href="http://placehold.it/1200x600.gif"><img src="http://placehold.it/900x450.gif"></a>
+	<a href="http://placehold.it/1200x600.gif"><img src="http://placehold.it/900x450.gif"></a>
+</figure>
