@@ -6,6 +6,9 @@ excerpt: "The genus Halobates includes the only five insect species that have be
 date: 2015-07-31T23:14:02-04:00
 tags: [sample, readability]
 modified: 2013-06-30
+image:
+  feature:
+  teaser:
 ads: false  
 ---
 
