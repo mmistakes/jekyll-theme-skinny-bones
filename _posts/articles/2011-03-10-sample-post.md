@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Elaphopsocus"
+title: "The genus Elaphopsocus Roesler (Psocodea: "Psocoptera": Psocidae) with six new species from Brazil and Colombia"
 categories: articles
 modified: 2014-08-27T11:57:41-04:00
 tags: [sample]
@@ -8,7 +8,7 @@ comments: true
 ads: true
 ---
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+Six new species of Elaphopsocus Roesler from Brazil and Colombia are described and illustrated. Revised generic diagnoses are provided for Elaphopsocoides and Elaphopsocus; based on the structure of the male hypandrium and phallosome three species groups are recognized in Elaphopsocus.
 
 {% include toc.html %}
 
