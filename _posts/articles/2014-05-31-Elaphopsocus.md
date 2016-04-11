@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "The genus Elaphopsocus Roesler (Psocodea: "Psocoptera": Psocidae ) with six new species from Brazil and Colombia"
+title: "The genus Elaphopsocus Roesler (Psocodea: 'Psocoptera': Psocidae ) with six new species from Brazil and Colombia"
 date: 2014-05-31T23:14:02-04:00
 modified:
 categories: articles
