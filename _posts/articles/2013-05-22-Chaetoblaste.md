@@ -4,7 +4,8 @@ title: "A new Neotropical genus of Blastini (Psocodea: 'Psocoptera': Psocidae: A
 categories: articles
 excerpt: "A monotypic genus of Psocidae (Amphigerontiinae: Blastini) from Santiago de Cali, Colombia, is here described and illustrated. It differs from Chaetopsocidus Badonnel, from the Páramo de Monserrate, near Bogotá, in having setae on the forewing veins."
 tags: [sample, images, test]
-ads: true
+date: 2015-08-31T23:14:02-04:00
+ads: false
 ---
 
 A monotypic genus of Psocidae (Amphigerontiinae: Blastini) from Santiago de Cali, Colombia, is here described and illustrated. It differs from Chaetopsocidus Badonnel, from the Páramo de Monserrate, near Bogotá, in having setae on the forewing veins.
