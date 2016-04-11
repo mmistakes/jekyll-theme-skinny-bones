@@ -8,13 +8,13 @@ image:
 <div class="tiles">
 
 <div class="tile">
-  <h2 class="post-title">Built for Jekyll 3</h2>
-  <p class="post-excerpt">Takes advantage of native Sass support and data files to make customizing your site easier.</p>
+  <h2 class="post-title">Research interests</h2>
+  <p class="post-excerpt">I'm a biologist interested in understanding natural patterns and processes at a high scale approach.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Content First</h2>
-  <p class="post-excerpt">Designed to put the focus on you and your writing. Headers, navigation, sidebars, and footers have been purposely deemphasized.</p>
+  <h2 class="post-title">Bio</h2>
+  <p class="post-excerpt"> I was born in Armenia, Quindio. A nice place in Colombian andes surrounded by stunning landscapes!. My family has been always the foundations in my academic and personal interestes. I'm a friendly person who's always interested in listening and discussing on interest aspects</p>
 </div><!-- /.tile -->
 
 <div class="tile">

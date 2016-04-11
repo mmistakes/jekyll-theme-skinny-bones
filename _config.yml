@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title: Skinny Bones
-description: "A lightweight site starter for Jekyll"
+title: Cristian Román-P
+description: "My personal Website"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
@@ -37,9 +37,9 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Michael Rose
+  name: Cristian Román-Palacios
   web: http://mademistakes.com
-  email: michael@mademistakes.com
+  email: cromanpa94@gmail.com
   twitter: mmistakes
   bio: "Just another boring, tattooed, time traveling designer."
   avatar: bio-photo.jpg # 160x160 px image for author byline
