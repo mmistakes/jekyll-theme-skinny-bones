@@ -9,13 +9,10 @@ ads: false
 ---
 
 A monotypic genus of Psocidae (Amphigerontiinae: Blastini) from Santiago de Cali, Colombia, is here described and illustrated. It differs from Chaetopsocidus Badonnel, from the Páramo de Monserrate, near Bogotá, in having setae on the forewing veins.
-{% include toc.html %}
 
-## Markdown images
 
 <figure class="third">
 	<a href="http://placehold.it/1200x600.gif"><img src="http://placehold.it/900x450.gif"></a>
 	<a href="http://placehold.it/1200x600.gif"><img src="http://placehold.it/900x450.gif"></a>
 	<a href="http://placehold.it/1200x600.gif"><img src="http://placehold.it/900x450.gif"></a>
-	<figcaption>Three linked images.</figcaption>
 </figure>
