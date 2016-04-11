@@ -18,13 +18,13 @@ image:
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Customizable</h2>
-  <p class="post-excerpt">Packed with layouts and modules. Include Disqus comments, social sharing buttons, and table of contents on one or all pages.</p>
+  <h2 class="post-title">Affiliations</h2>
+  <p class="post-excerpt">I'm a Ph.D. Student at Wiens lab. I'm associated to three research groups in Colombia: "GIE" at Universidad del Valle,  "Biodiversidad animal" from the Universidad del Quindío and "Ceiba" from  Universidad del Valle.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Extensible</h2>
-  <p class="post-excerpt">Compatible with popular libraries like <a href="http://bourbon.io">Bourbon</a>, <a href="http://neat.bourbon.io/">Neat</a>, and <a href="http://github.com/octopress/octopress">Octopress</a> to help build and deploy your site with ease.</p>
+  <h2 class="post-title">Hobbies</h2>
+  <p class="post-excerpt">Love taking photos <a href="http://bourbon.io">Bourbon</a>.</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
