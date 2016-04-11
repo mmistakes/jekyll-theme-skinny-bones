@@ -1,14 +1,13 @@
 ---
 layout: article
-title: "A Post with Images"
+title: "A new Neotropical genus of Blastini (Psocodea: 'Psocoptera': Psocidae: Amphigerontiinae)"
 categories: articles
-excerpt: "Examples and code for displaying images in posts."
+excerpt: "A monotypic genus of Psocidae (Amphigerontiinae: Blastini) from Santiago de Cali, Colombia, is here described and illustrated. It differs from Chaetopsocidus Badonnel, from the Páramo de Monserrate, near Bogotá, in having setae on the forewing veins."
 tags: [sample, images, test]
 ads: true
 ---
 
-Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use `figure` with the appropriate `class`. Each instance of `figure` is auto-numbered and displayed in the caption.
-
+A monotypic genus of Psocidae (Amphigerontiinae: Blastini) from Santiago de Cali, Colombia, is here described and illustrated. It differs from Chaetopsocidus Badonnel, from the Páramo de Monserrate, near Bogotá, in having setae on the forewing veins.
 {% include toc.html %}
 
 ## Markdown images
