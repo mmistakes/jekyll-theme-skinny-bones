@@ -38,15 +38,11 @@ titlecase: true
 # Site owner
 owner:
   name: Cristian Román-Palacios
-  web: http://mademistakes.com
   email: cromanpa94@gmail.com
-  twitter: mmistakes
   bio: "Ph.D. student at Wiens Lab (UofArizona). Main interestes in Macroevolution and trait evolution"
   avatar: bio-photo.jpg # 160x160 px image for author byline
   google:
-    plus: +MichaelRoseDesign
-    ad-client: ca-pub-7328585512091257
-    ad-slot: 3049671934
+    plus: +CristianRomanPalaciosn
   disqus-shortname:
 
 
