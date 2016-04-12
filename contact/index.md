@@ -1,9 +1,8 @@
 ---
 layout: article
-title: "About"
+title: "Contact"
 date: 2014-06-02T09:44:20-04:00
 modified: 2014-08-27T14:56:44-04:00
-excerpt: "This is the Skinny Bones about page."
 image:
   feature:
   teaser:
@@ -12,9 +11,7 @@ share: false
 ads: false
 ---
 
-This is a work in progress.
-
-Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
+I'm always available through email: cromanpa94@gmail.com or cromanpa94@email.arizona.edu. If required, my skype ID is live:crp-50_1
 
 
 <div id="wufoo-z1nmflk00kkq58w">
