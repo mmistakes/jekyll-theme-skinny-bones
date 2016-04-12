@@ -7,7 +7,7 @@ tags: [sample, images, test]
 date: 2015-08-31T23:14:02-04:00
 ads: false
 image:
-  feature: Chaetoblaste.jpg
+  feature: Chaetoblaste_2.jpg
   teaser: Chaetoblaste.jpg
   credit: Zootaxa
   creditlink: http://www.mapress.com/j/zt/
