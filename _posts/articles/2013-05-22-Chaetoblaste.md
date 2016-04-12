@@ -7,9 +7,10 @@ tags: [sample, images, test]
 date: 2015-08-31T23:14:02-04:00
 ads: false
 image:
-  feature: lock-1600x800.jpg
-  teaser: lock-400x250.jpg
-
+  feature: Chaetoblaste.jpg
+  teaser: Chaetoblaste.jpg
+  credit: Zootaxa
+  creditlink: http://www.mapress.com/j/zt/
 ---
 
 A monotypic genus of Psocidae (Amphigerontiinae: Blastini) from Santiago de Cali, Colombia, is here described and illustrated. It differs from Chaetopsocidus Badonnel, from the Páramo de Monserrate, near Bogotá, in having setae on the forewing veins.
