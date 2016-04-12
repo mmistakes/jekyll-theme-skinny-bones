@@ -17,13 +17,9 @@ This is a work in progress.
 Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
 
 
-<form action="https://getsimpleform.com/messages?form_api_token=<form_api_token>" method="post">
-
-  <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='<the complete return url e.g. http://fooey.com/thank-you.html>' />
-
-  <!-- all your input fields here.... -->
-  <input type='text' name='test' />
-
-  <input type='submit' value='Test form' />
+<form action="https://formspree.io/cromanpa94@gmail.com"
+      method="POST">
+    <input type="text" name="name">
+    <input type="email" name="_replyto">
+    <input type="submit" value="Send">
 </form>
