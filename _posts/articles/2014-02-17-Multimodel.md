@@ -8,7 +8,7 @@ modified: 2015-06-19
 share: true
 ads: false
 image:
-  feature: Multimodel.jpg
+  feature: Multimodel_2.jpg
   teaser: Multimodel.jpg
   credit: Comunicaciones en Estadistica
   creditlink: http://revistas.usantotomas.edu.co/index.php/estadistica
