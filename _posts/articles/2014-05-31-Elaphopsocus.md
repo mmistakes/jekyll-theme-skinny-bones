@@ -9,8 +9,10 @@ tags: []
 ads: false
 share: true
 image:
-  feature:
-  teaser:
+  feature: Elaphopsocus_2.jpg
+  teaser: Elaphopsocus.jpg
+  credit: Zootaxa
+  creditlink: http://www.mapress.com/j/zt/
 ---
 
 Six new species of Elaphopsocus Roesler from Brazil and Colombia are described and illustrated. Revised generic diagnoses are provided for Elaphopsocoides and Elaphopsocus; based on the structure of the male hypandrium and phallosome three species groups are recognized in Elaphopsocus.
