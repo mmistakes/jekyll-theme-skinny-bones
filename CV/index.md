@@ -34,6 +34,7 @@ Last updated: April 2016
 * 2006, Mar. – 2011, Apr.	Doctoral student, Department of Sociology, University of Gothenburg, Gothenburg, Sweden.  
 
 ### Visiting positions
+* 2016, Jan - 2016, Jun. Department of Sociology, University of Cambridge, the United Kingdom. 
 * 2015, Sept. – 2015, Dec. 	Fielding School of Public Health, University of California, Los Angeles, the United States. 
 * 2015, Feb. – 2015, Sept.	Department of Economics, The New School for Social Research, New York, the United States. 
 * 2013, Sept. – 2015, Jan.	The Max Planck Institute for the Studies of Societies, Cologne, Germany. 
@@ -59,21 +60,22 @@ Last updated: April 2016
 * 2007	**Daoud, A.** (2007) “(Quasi)Scarcity and Global Hunger: A Sociological Critique of the Scarcity Postulate with an Effort to Synthesis”, *Journal of Critical Realism*, 6 (2), pp. 199-225.[doi: http://dx.doi.org/10.1558/jocr.v6i2.199](http://www.maneyonline.com/doi/abs/10.1558/jocr.v6i2.199)
 
 ### Books
-* 2014	[Edited book] Daoud, Adel, editor, (with Reza Azarian and Bengt Larsson), Ekonomisk sociologi– en introduktion. Liber. Stockholm. [978-91-47-11137-4](https://www.liber.se/Hogskola/Ekonomi/Ovrigt/Ekonomisk-historia/Ekonomisk-sociologi/)
-* 2011	[PhD thesis] Daoud, A (2011) Scarcity, Abundance, and Sufficiency: Contributions to Social and Economic Theory, Göteborg Studies in Sociology No 46, Gothenburg. [978-91-979397-1-3](https://gupea.ub.gu.se/handle/2077/24686?locale=sv)
-* 2008	[Edited book] Daoud Adel.(with Bengtsson Mattias., and Seldén, Daniel.) (2008) En realistisk sociologi i praktiken. Nio texter om samhället, Department of Sociology Research rapport nr 141. University of Gothenburg: Intellecta Infolog AB, Gothenburg. [ISBN 0072-5099](http://gup.ub.gu.se/publication/99511-en-realistisk-sociologi-i-praktiken-nio-texter-om-samhallet)
+* 2014	[Edited book] **Daoud, Adel**, editor, (with Reza Azarian and Bengt Larsson), Ekonomisk sociologi– en introduktion. Liber. Stockholm. [978-91-47-11137-4](https://www.liber.se/Hogskola/Ekonomi/Ovrigt/Ekonomisk-historia/Ekonomisk-sociologi/)
+* 2011	[PhD thesis] **Daoud, A** (2011) Scarcity, Abundance, and Sufficiency: Contributions to Social and Economic Theory, Göteborg Studies in Sociology No 46, Gothenburg. [978-91-979397-1-3](https://gupea.ub.gu.se/handle/2077/24686?locale=sv)
+* 2008	[Edited book] **Daoud Adel**.(with Bengtsson Mattias., and Seldén, Daniel.) (2008) En realistisk sociologi i praktiken. Nio texter om samhället, Department of Sociology Research rapport nr 141. University of Gothenburg: Intellecta Infolog AB, Gothenburg. [ISBN 0072-5099](http://gup.ub.gu.se/publication/99511-en-realistisk-sociologi-i-praktiken-nio-texter-om-samhallet)
 
 
 ### Book chapters, Reports, and Other publications.
-* 2015 Daoud, Adel and Kohl, Sebastian, Is there a New Economic Sociology Effect? A Topic Model on the Economic Orientation of Sociology, 1890 to 2014. Working Paper 20/2015, Department of Economics, The New School For Social Research. [Link](http://www.economicpolicyresearch.org/econ/2015/NSSR_WP_202015.pdf)
-* 2015	Daoud, Adel, Halleröd, Björn, and Guha-Sapir, Debarati. Quality of Government and the Relationship between Natural Disasters and Child Poverty: A Comparative Analysis. MPIfG Discussion Paper 15/5. [Link](http://www.mpifg.de/pu/mpifg_dp/dp15-5.pdf)
-* 2015 	Daoud, Adel. (with Fazil Moradi, Roukaya Ibrahim, Shailen Nandy), “Iraq”, The SAGE Encyclopedia of World Poverty, Second Edition, edited by Joanne Steinberg. [Link](https://us.sagepub.com/en-us/nam/the-sage-encyclopedia-of-world-poverty/book242656)
-* 2015	Daoud, Adel. (2015), “Scarcity and artificial scarcity”, The Wiley-Blackwell Encyclopedia of Consumption and Consumer Studies, edited by Michael Ryan and Dan Cook. [by invitation] ISBN: 978-0-470-67284-6. [DOI: 10.1002/9781118989463.wbeccs202](http://onlinelibrary.wiley.com/doi/10.1002/9781118989463.wbeccs202/abstract)
-* 2014	Daoud, Adel and Larsson, Bengt, (2014) “Den nya ekonomiska sociologin” in Ekonomi och Samhälle – en introduktion Liber. Stockholm. [978-91-47-11137-4](https://www.liber.se/Hogskola/Ekonomi/Ovrigt/Ekonomisk-historia/Ekonomisk-sociologi/)
-* 2014	Daoud, Adel (with Reza Azarian and Bengt Larsson), (2014) “Introduktion” in Ekonomi och Samhälle – en introduktion Liber. Stockholm. [978-91-47-11137-4](https://www.liber.se/Hogskola/Ekonomi/Ovrigt/Ekonomisk-historia/Ekonomisk-sociologi/)
-* 2012	Daoud, Adel. 2012, Book review “Remaking Scarcity: From Capitalist Inefficiency to Economic Democracy” By Costas Panayotakis, London, U.K.: Pluto Press, 2011, ISBN: 978-0-7453-3099-0; 224 pages. Reviewed for the Heterodox Economics Newsletter, Issue 134. [Link](http://heterodoxnews.com/htnf/htn134/Daoud-Panayotakis-Aug-2012.pdf)
-* 2012	Daoud, Adel and Elam, Mark (2012)“Country report – Sweden”, Deliverable report for the project for International Socio-Technical Challenges for implementing geological disposal, funded by by the European Commission under the Seventh Euratom Framework Programme for Nuclear Research &Training Activities. [Link](https://curie.ornl.gov/index.php?q=system/files/documents/SEA/WP1_MS11_CR_Sweden_Final.pdf)
-* 2008	Daoud Adel (with Puaca Goran), (2008) “Om att vilja sin framtid” in Bengtsson Mattias., Daoud Adel., and Seldén, Daniel. En realistisk sociologi i praktiken. Nio texter om samhället, Department of Sociology Research rapport nr 141. University of Gothenburg: Intellecta Infolog AB, Gothenburg. [ISBN 0072-5099](http://gup.ub.gu.se/publication/99511-en-realistisk-sociologi-i-praktiken-nio-texter-om-samhallet)
+* 2016 **Daoud, Adel** and Kohl, Sebastian, How Much Do Sociologists Write About Economic Topics? Using Big-Data to Test Some Conventional Views in Economic Sociology, 1890 to 2014. MPIfG Discussion Paper [peer-reviewed]
+* 2015 **Daoud, Adel** and Kohl, Sebastian, Is there a New Economic Sociology Effect? A Topic Model on the Economic Orientation of Sociology, 1890 to 2014. Working Paper 20/2015, Department of Economics, The New School For Social Research. [Link](http://www.economicpolicyresearch.org/econ/2015/NSSR_WP_202015.pdf)
+* 2015	**Daoud, Adel**, Halleröd, Björn, and Guha-Sapir, Debarati. Quality of Government and the Relationship between Natural Disasters and Child Poverty: A Comparative Analysis. MPIfG Discussion Paper 15/5. [Link](http://www.mpifg.de/pu/mpifg_dp/dp15-5.pdf)
+* 2015 	**Daoud, Adel**. (with Fazil Moradi, Roukaya Ibrahim, Shailen Nandy), “Iraq”, The SAGE Encyclopedia of World Poverty, Second Edition, edited by Joanne Steinberg. [Link](https://us.sagepub.com/en-us/nam/the-sage-encyclopedia-of-world-poverty/book242656)
+* 2015	**Daoud, Adel**. (2015), “Scarcity and artificial scarcity”, The Wiley-Blackwell Encyclopedia of Consumption and Consumer Studies, edited by Michael Ryan and Dan Cook. [by invitation] ISBN: 978-0-470-67284-6. [DOI: 10.1002/9781118989463.wbeccs202](http://onlinelibrary.wiley.com/doi/10.1002/9781118989463.wbeccs202/abstract)
+* 2014	**Daoud, Adel** and Larsson, Bengt, (2014) “Den nya ekonomiska sociologin” in Ekonomi och Samhälle – en introduktion Liber. Stockholm. [978-91-47-11137-4](https://www.liber.se/Hogskola/Ekonomi/Ovrigt/Ekonomisk-historia/Ekonomisk-sociologi/)
+* 2014	**Daoud, Adel** (with Reza Azarian and Bengt Larsson), (2014) “Introduktion” in Ekonomi och Samhälle – en introduktion Liber. Stockholm. [978-91-47-11137-4](https://www.liber.se/Hogskola/Ekonomi/Ovrigt/Ekonomisk-historia/Ekonomisk-sociologi/)
+* 2012	**Daoud, Adel.** 2012, Book review “Remaking Scarcity: From Capitalist Inefficiency to Economic Democracy” By Costas Panayotakis, London, U.K.: Pluto Press, 2011, ISBN: 978-0-7453-3099-0; 224 pages. Reviewed for the Heterodox Economics Newsletter, Issue 134. [Link](http://heterodoxnews.com/htnf/htn134/Daoud-Panayotakis-Aug-2012.pdf)
+* 2012	**Daoud, Adel** and Elam, Mark (2012)“Country report – Sweden”, Deliverable report for the project for International Socio-Technical Challenges for implementing geological disposal, funded by by the European Commission under the Seventh Euratom Framework Programme for Nuclear Research &Training Activities. [Link](https://curie.ornl.gov/index.php?q=system/files/documents/SEA/WP1_MS11_CR_Sweden_Final.pdf)
+* 2008	**Daoud Adel** (with Puaca Goran), (2008) “Om att vilja sin framtid” in Bengtsson Mattias., Daoud Adel., and Seldén, Daniel. En realistisk sociologi i praktiken. Nio texter om samhället, Department of Sociology Research rapport nr 141. University of Gothenburg: Intellecta Infolog AB, Gothenburg. [ISBN 0072-5099](http://gup.ub.gu.se/publication/99511-en-realistisk-sociologi-i-praktiken-nio-texter-om-samhallet)
 
 ---
 
@@ -98,11 +100,11 @@ Last updated: April 2016
 ## GRANTS, HONOURS AND AWARDS
 
 ### Grants & Funding
-* 2016 **519 000 SEK**. The Swedish Foundation for International Cooperation in Research and Higher Education, *Postdoctoral Transition Grants for Internationalisation programme*.
-* 2013	**3,3 million SEK**, The Impact of the 2008 Financial Crisis on Child Poverty in Developing Countries. Swedish Research Council. 
-* 2011	**6,5 million SEK**, (with David Gordon , Bristol University, UK: Bo Rothstein, University of Gothenburg, Sweden: Björn Halleröd, University of Gothenburg, Sweden) (Project leader: Björn Halleröd) Child poverty, policies and quality of government. Swedish Research Council.
-* 2010	**100 000 SEK**, Travel grant, The Swedish Foundation for International Cooperation in Research and Higher Education. 
-* 2007-2010	Various grants: Adlerbertska forskningsstiftelse (35 000 SEK); Stiftelsen Lars Hieretas Minne (**35 000 SEK**); Knut och Alice Wallenbergs stiftelse (**16 000 SEK**). 
+* 2016: **519 000 SEK**. The Swedish Foundation for International Cooperation in Research and Higher Education, *Postdoctoral Transition Grants for Internationalisation programme*.
+* 2013:	**3,3 million SEK**, The Impact of the 2008 Financial Crisis on Child Poverty in Developing Countries. Swedish Research Council. 
+* 2011:	**6,5 million SEK**, (with David Gordon , Bristol University, UK: Bo Rothstein, University of Gothenburg, Sweden: Björn Halleröd, University of Gothenburg, Sweden) (Project leader: Björn Halleröd) Child poverty, policies and quality of government. Swedish Research Council.
+* 2010:	**100 000 SEK**, Travel grant, The Swedish Foundation for International Cooperation in Research and Higher Education. 
+* 2007-2010:	Various grants: Adlerbertska forskningsstiftelse (35 000 SEK); Stiftelsen Lars Hieretas Minne (**35 000 SEK**); Knut och Alice Wallenbergs stiftelse (**16 000 SEK**). 
 
 ### Academic & Pedagogic Recognitions
 
