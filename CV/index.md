@@ -34,9 +34,9 @@ Last updated: April 2016
 * 2006, Mar. – 2011, Apr.	Doctoral student, Department of Sociology, University of Gothenburg, Gothenburg, Sweden.  
 
 ### Visiting positions
-* 2016, Jan - 2016, Jun. Department of Sociology, University of Cambridge, the United Kingdom. 
-* 2015, Sept. – 2015, Dec. 	Fielding School of Public Health, University of California, Los Angeles, the United States. 
-* 2015, Feb. – 2015, Sept.	Department of Economics, The New School for Social Research, New York, the United States. 
+* 2016, Jan - 2016, Jun. Department of Sociology, University of Cambridge, the UK. 
+* 2015, Sept. – 2015, Dec. 	Fielding School of Public Health, University of California, Los Angeles, the U.S. 
+* 2015, Feb. – 2015, Sept.	Department of Economics, The New School for Social Research, New York, the U.S. 
 * 2013, Sept. – 2015, Jan.	The Max Planck Institute for the Studies of Societies, Cologne, Germany. 
 * 2012, Mar. – 2012, Apr.	Townsend Center for International Poverty Research, University of Bristol, the UK. 
 * 2010, Feb. – 2010, Apr	Faculty of Economics, University of Cambridge, the UK. 
@@ -104,7 +104,7 @@ Last updated: April 2016
 * 2013:	**3,3 million SEK**, The Impact of the 2008 Financial Crisis on Child Poverty in Developing Countries. Swedish Research Council. 
 * 2011:	**6,5 million SEK**, (with David Gordon , Bristol University, UK: Bo Rothstein, University of Gothenburg, Sweden: Björn Halleröd, University of Gothenburg, Sweden) (Project leader: Björn Halleröd) Child poverty, policies and quality of government. Swedish Research Council.
 * 2010:	**100 000 SEK**, Travel grant, The Swedish Foundation for International Cooperation in Research and Higher Education. 
-* 2007-2010:	Various grants: Adlerbertska forskningsstiftelse (35 000 SEK); Stiftelsen Lars Hieretas Minne (**35 000 SEK**); Knut och Alice Wallenbergs stiftelse (**16 000 SEK**). 
+* 2007-2010:	Various grants: Adlerbertska forskningsstiftelse (**35 000 SEK**); Stiftelsen Lars Hieretas Minne (**35 000 SEK**); Knut och Alice Wallenbergs stiftelse (**16 000 SEK**). 
 
 ### Academic & Pedagogic Recognitions
 
