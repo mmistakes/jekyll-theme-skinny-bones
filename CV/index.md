@@ -15,13 +15,12 @@ share: false
 
 {% include toc.html %}
 
-Last updated: November 2015
+Last updated: April 2016
 
 ## EDUCATION
-
-* 2013-2014	Further training (selected): Social Network Analysis, Max Planck Institute for the Studies of Societies, Germany; Multilevel analysis at the Centre for Multilevel Modelling, University of Bristol, the UK; and R-programming at Karolinska Institute, Stockholm, Sweden. 
+* 2016 B.A in Political Science, University of Gothenburg
 * 2011-2012	Pedagogical Training for Teaching in Higher Education, (various certificates), University of Gothenburg
-* 2011	PhD. in Sociology, Department of Sociology, University of Gothenburg, Gothenburg, Sweden.
+* 2011	**PhD. in Sociology**, Department of Sociology, University of Gothenburg, Gothenburg, Sweden.
 * 2006	M.A. in Sociology. Minor in: Political Science, Economics, and Mathematics. University of Gothenburg, & University of Jönköping, Sweden.  
 
 
@@ -47,8 +46,8 @@ Last updated: November 2015
 
 ### Articles in Peer-Reviewed Journals
 
-4.. 2016, **Daoud, Adel**, Björn Halleröd, and Deberati Guha Sapir , “What is the association between absolute child poverty, poor governance, and natural disasters? A global comparison of some of the realities of climate change” *PLoS ONE*, Vol 11, issue 4 [http://dx.doi.org/10.1371/journal.pone.0153296](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153296)
-3.. 2016, Nandy, S, **A. Daoud**, D Gordon, “Examining the changing profile of undernutrition in the context of food price rises and greater inequality”, *Social Science & Medicine*. [doi:10.1016/j.socscimed.2015.11.036](http://www.sciencedirect.com/science/article/pii/S0277953615302446)
+* 2016, **Daoud, Adel**, Björn Halleröd, and Deberati Guha Sapir , “What is the association between absolute child poverty, poor governance, and natural disasters? A global comparison of some of the realities of climate change” *PLoS ONE*, Vol 11, issue 4 [http://dx.doi.org/10.1371/journal.pone.0153296](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153296)
+* 2016, Nandy, S, **A. Daoud**, D Gordon, “Examining the changing profile of undernutrition in the context of food price rises and greater inequality”, *Social Science & Medicine*. [doi:10.1016/j.socscimed.2015.11.036](http://www.sciencedirect.com/science/article/pii/S0277953615302446)
 * 2015	**Daoud, Adel**, “Quality of Governance, Corruption, and Absolute Child Poverty in India” *Journal of South Asian Development*, August 10:119-147. [doi: 10.1177/0973174115588844](http://sad.sagepub.com/content/10/2/148.abstract)
 * 2013	Bjorn Halleröd, Bo Rothstein, **Adel Daoud**, Shailen Nandy , (2013) “Bad Governance and Poor Children: A Comparative analysis of government efficiency and severe child deprivation in 68 low- and middle-income countries”, *World Development*, vol 48 (August), pp.19-31. [doi:10.1016/j.worlddev.2013.03.007](http://www.sciencedirect.com/science/article/pii/S0305750X13000831)
 * 2012	Söderberg, J and **A. Daoud** (2012) “Atoms want to be free too! – expanding the critique of intellectual property to physical goods”, in Critical Theory and Political Economy of the Internet @ Nordmedia 2011” Christian Fuchs and Göran Bolin (eds). Online at *Cognition, Communication, Co-operation*. Vol 10 No 1. [Link](http://triple-c.at/index.php/tripleC/article/viewArticle/288)
@@ -79,29 +78,31 @@ Last updated: November 2015
 ---
 
 ## INVITED TALKS (selected)
-
-* 2015, May	Lecturer, Impact of the Financial Crisis on Children, Children, Rights, Poverty, Equality in Development, May 5th, 6pm – 8 pm, The New School for Social Research, Graduate Program in International Affairs, New York, USA. 
-* 2015, Mar.	Discussant to Prof. Sanjay Reddy, The Global Consumption and Income Project, at INET Seminar Series at Columbia University, chaired by Joseph Stiglitz, March 27, 5-7pm, at Columbia Uris Hall - Calder Lounge Room
-* 2014, Dec.	Seminar on (with Barbara Fulda), Using R-programming for Social Scientific Inquiry, at Max Planck Studies for Societies, Cologne, Germany.
-* 2014, June	Seminar on The Economic Sociology of Scarcity, Jens Beckert´s sociology of markets research seminar. 18 June, the Max Planck Institute for Studies of Societies
-* 2013, Sep.	Discussant to Patrik Aspers, Identity, Relation, and Existence: the Market Case, at Economic Sociology and New Theoretical Directions, Noors Slott, 1-15 September, 2013. 
-* 2013, Oct.	Seminar on Reflections about writing your PhD, at Max Planck´s IMPRS-SPCE Graduate Retreat, Oct 25, in Wuppertal, Germany 
-* 2011, Oct.	Public talk, Vad kan ekonomisk sociologi bidra till vår kunskap om ekonomin? - Fokus på resursknapphet, Social Science day (Samhällsvetenskapens dag), 8 oktober, 2011
-* 2010, May	Lecture on Atlas.ti training session, Monday 17 May, Department of Sociology, University of Cambridge 
-* 2010, May	Seminar on What is Scarcity? At Tony Lawson´s Cambridge Realist Workshop. 8 – 10 pm, 8 may, Clare College, Trinity Lane, University of Cambridge, United Kingdom.
-* 2010, May	Seminar on Educational choices, habitus and reflexivity, 12 – 1 pm Institute of Education, University of London, 25 May, the United Kingdom.
-* 2010, Apr.	Seminar on Scarcity, Abundance, and Sufficiency: some implications for Sustainability, 5 – 6.30 pm, Coslett 124, 28 April, 2010, Anglia Ruskin University, Cambridge
+* 2016, Apr. Seminar, *The International Monetary Fund´s Structural Adjustments, Spiking Food Prices, and Child Undernutrition in Low and Middle-income Countries: Some Preliminary Findings.* The Centre for Diet and Activity Research, Institute for Public Health, University of Cambridge, the United Kingdom.
+* 2016, Feb. Seminar, *IMF Conditionality, Food Prices, and Child Undernutrition, 2000-2014*, Department of Sociology, University of Cambridge, the United Kingdom.
+* 2015, Dec. Seminar, *Using R in Computational Social Science Research: with some Implications for Health Research*, Department of Health Policy and Management, Fielding School of Public Health, University of California, Los Angeles, the United States
+* 2015, May	Lecturer, *Impact of the Financial Crisis on Children, Children, Rights, Poverty, Equality in Development*, May 5th, 6pm – 8 pm, The New School for Social Research, Graduate Program in International Affairs, New York, USA. 
+* 2015, Mar.	Discussant to Prof. Sanjay Reddy, *The Global Consumption and Income Project*, at INET Seminar Series at Columbia University, **chaired by Joseph Stiglitz**, March 27, 5-7pm, at Columbia Uris Hall - Calder Lounge Room
+* 2014, Dec.	Seminar on (with Barbara Fulda), *Using R-programming for Social Scientific Inquiry*, at Max Planck Studies for Societies, Cologne, Germany.
+* 2014, June	*Seminar on The Economic Sociology of Scarcity*, Jens Beckert´s sociology of markets research seminar. 18 June, the Max Planck Institute for Studies of Societies
+* 2013, Sep.	Discussant to Patrik Aspers, *Identity, Relation, and Existence: the Market Case*, at Economic Sociology and New Theoretical Directions, Noors Slott, 1-15 September, 2013. 
+* 2013, Oct.	Seminar on *Reflections about writing your PhD*, at Max Planck´s IMPRS-SPCE Graduate Retreat, Oct 25, in Wuppertal, Germany 
+* 2011, Oct.	Public talk, *Vad kan ekonomisk sociologi bidra till vår kunskap om ekonomin? - Fokus på resursknapphet*, Social Science day (Samhällsvetenskapens dag), 8 oktober, 2011
+* 2010, May	Lecture on *Atlas.ti training session*, Monday 17 May, Department of Sociology, University of Cambridge 
+* 2010, May	Seminar on *What is Scarcity?* At **Tony Lawson´s** Cambridge Realist Workshop. 8 – 10 pm, 8 may, Clare College, Trinity Lane, University of Cambridge, United Kingdom.
+* 2010, May	Seminar on *Educational choices, habitus and reflexivity*, 12 – 1 pm Institute of Education, University of London, 25 May, the United Kingdom.
+* 2010, Apr.	Seminar on *Scarcity, Abundance, and Sufficiency: some implications for Sustainability*, 5 – 6.30 pm, Coslett 124, 28 April, 2010, Anglia Ruskin University, Cambridge
 
 ---
 
 ## GRANTS, HONOURS AND AWARDS
 
 ### Grants & Funding
-
-* 2013	The Impact of the 2008 Financial Crisis on Child Poverty in Developing Countries. Swedish Research Council. 3,3 million SEK.
-* 2011	(with David Gordon , Bristol University, UK: Bo Rothstein, University of Gothenburg, Sweden: Björn Halleröd, University of Gothenburg, Sweden) (Project leader: Björn Halleröd) Child poverty, policies and quality of government. Swedish Research Council, 6,5 million SEK.
-* 2010	Travel grant, The Swedish Foundation for International Cooperation in Research and Higher Education, 100 000 SEK. 
-* 2007-2010	Various grants: Adlerbertska forskningsstiftelse (35 000 SEK); Stiftelsen Lars Hieretas Minne (35 000 SEK); Knut och Alice Wallenbergs stiftelse (16 000 SEK). 
+* 2016 **519 000 SEK**. The Swedish Foundation for International Cooperation in Research and Higher Education, *Postdoctoral Transition Grants for Internationalisation programme*.
+* 2013	**3,3 million SEK**, The Impact of the 2008 Financial Crisis on Child Poverty in Developing Countries. Swedish Research Council. 
+* 2011	**6,5 million SEK**, (with David Gordon , Bristol University, UK: Bo Rothstein, University of Gothenburg, Sweden: Björn Halleröd, University of Gothenburg, Sweden) (Project leader: Björn Halleröd) Child poverty, policies and quality of government. Swedish Research Council.
+* 2010	**100 000 SEK**, Travel grant, The Swedish Foundation for International Cooperation in Research and Higher Education. 
+* 2007-2010	Various grants: Adlerbertska forskningsstiftelse (35 000 SEK); Stiftelsen Lars Hieretas Minne (**35 000 SEK**); Knut och Alice Wallenbergs stiftelse (**16 000 SEK**). 
 
 ### Academic & Pedagogic Recognitions
 
@@ -115,7 +116,7 @@ Last updated: November 2015
 
 ### Peer-review service
 
-* 2007 -	American Journal of Economics and Sociology, Cambridge Journal of Economics, Journal of Economic Psychology, Journal of Critical Realism, Journal of International Migration and Integration, International Journal of Pluralism and Economics Education, Journal of Institutional Economics, Review of Political Economy, Organization studies, Socio-Economic Review, PLOSONE, Max Planck Institute working paper series, Economia Politica, Social Indiactors Research. 
+* 2007 -	American Journal of Economics and Sociology, Cambridge Journal of Economics, Journal of Economic Psychology, Journal of Critical Realism, Journal of International Migration and Integration, International Journal of Pluralism and Economics Education, Journal of Institutional Economics, Review of Political Economy, Organization studies, Socio-Economic Review, PLOSONE, Max Planck Institute working paper series, Economia Politica, Social Indiactors Research, International Journal of Green Economics.  
 
 ### Administrative position
 * 2016, Jan. - 	Nominated for the post Trustee Executive Council for the Association for Social Economics. www.socialeconomics.org 
@@ -134,8 +135,7 @@ Last updated: November 2015
 * 2009	Organizer for the workshop Qualitative Comparative Analysis (QCA) and the Case-Study Method held by Wendy Olsen, Wednesday 4th November, Department of Sociology, University of Gothenburg, Sweden
 
 ### Academic Membership
-* 2015-	The Assosiaction for Social Economics.
-* 2015-	The Max Planck Society Alumni Fellows
+* 2015-	The Max Planck Society Alumni Fellows, The Assosiaction for Social Economics.
 * Past 	International Sociological Assosiation; Swedish Sociological Assosiation; Cambridge Social Ontology Group; Assosication for Heterodox Economics. 
 
 
@@ -147,8 +147,11 @@ Last updated: November 2015
   * Swedish (fluent)
   * English (fluent)
   * German (basic)
+  * Norwegian (fluent in speech, basic in writing)
+  * Danish (basic)
 * Nationality:	*Swedish*
-
+* 2013-2014	Further training (selected): Social Network Analysis, Max Planck Institute for the Studies of Societies, Germany; Multilevel analysis at the Centre for Multilevel Modelling, University of Bristol, the UK; and R-programming at Karolinska Institute, Stockholm, Sweden. 
+* Software: R-programming, SPSS, STATA, Mplus, LaTeX, Markdown, EndNote, Zotero
 ---
 
 
