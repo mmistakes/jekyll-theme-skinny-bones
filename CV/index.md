@@ -47,6 +47,7 @@ Last updated: November 2015
 
 ### Articles in Peer-Reviewed Journals
 
+* **Daoud, Adel**, Björn Halleröd, and Deberati Guha Sapir , “What is the association between absolute child poverty, poor governance, and natural disasters? A global comparison of some of the realities of climate change” *PLoS ONE*, Vol 11, issue 4 [http://dx.doi.org/10.1371/journal.pone.0153296](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153296)
 * Forthcoming, Nandy, S, A. Daoud, D Gordon, “Examining the changing profile of undernutrition in the context of food price rises and greater inequality”, Social Science & Medicine. 
 * 2015	Daoud, Adel, “Quality of Governance, Corruption, and Absolute Child Poverty in India” Journal of South Asian Development, August 10:119-147. [doi: 10.1177/0973174115588844](http://sad.sagepub.com/content/10/2/148.abstract)
 * 2013	Bjorn Halleröd; Bo Rothstein; Adel Daoud; Shailen Nandy , (2013) “Bad Governance and Poor Children: A Comparative analysis of government efficiency and severe child deprivation in 68 low- and middle-income countries”, World Development, vol 48 (August), pp.19-31. [doi:10.1016/j.worlddev.2013.03.007](http://www.sciencedirect.com/science/article/pii/S0305750X13000831)
