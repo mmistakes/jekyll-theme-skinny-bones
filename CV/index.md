@@ -20,7 +20,7 @@ Last updated: April 2016
 ## EDUCATION
 * 2016 B.A in Political Science, University of Gothenburg
 * 2011-2012	Pedagogical Training for Teaching in Higher Education, (various certificates), University of Gothenburg
-* 2011	**PhD. in Sociology**, Department of Sociology, University of Gothenburg, Gothenburg, Sweden.
+* 2011	***PhD. in Sociology***, Department of Sociology, University of Gothenburg, Gothenburg, Sweden.
 * 2006	M.A. in Sociology. Minor in: Political Science, Economics, and Mathematics. University of Gothenburg, & University of Jönköping, Sweden.  
 
 
