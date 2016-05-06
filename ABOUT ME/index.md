@@ -6,7 +6,7 @@ modified:
 excerpt:
 tags: []
 image:
-  feature: # adel.jpg
+  feature: adel.jpg
   teaser:
   thumb:
 share: false
@@ -16,7 +16,7 @@ share: false
 
 I am currently appointed as a postdoctoral researcher at the Department of Sociology and Work Science, at University of Gothenburg, Sweden, and visiting the Department of Sociology, University of Cambridge, the UK. At Cambridge, I am working with 
 
-My research is currently being funded by the [Swedish Research Council](http://www.vr.se/) within its International Postdoc Programme. My project is about the *Impact of the 2008 Financial Crisis on Child Poverty in Developing Countries*.
+My research is currently being funded by the [Swedish Research Council](http://www.vr.se/) within its International Postdoc Programme. It is about the *Impact of the 2008 Financial Crisis on Child Poverty in Developing Countries*.
 
 My Open Researcher and Contributor ID ([ORCID](http://orcid.org/0000-0001-7478-8345)) is: 0000-0001-7478-8345.
 
