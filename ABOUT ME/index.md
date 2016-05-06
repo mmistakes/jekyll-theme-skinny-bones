@@ -6,16 +6,13 @@ modified:
 excerpt:
 tags: []
 image:
-  feature:  adel.jpg 
+  feature: # adel.jpg 
   teaser:
   thumb:
 share: false
 ---
 
 <img src="https://adeldaoud.github.io/images/adel.jpg" width="400">
-[[https://github.com/adeldaoud//blob/master/img/octocat.png|alt=octocat]]
-
-[[https://github.com/adeldaoud/adeldaoud.github.io/blob/master/images/adel.jpg]]
 
 
 I am currently appointed as a postdoctoral researcher at the Department of Sociology and Work Science, at University of Gothenburg, Sweden, and visiting the Department of Sociology, University of Cambridge, the UK. At Cambridge, I am working with 
