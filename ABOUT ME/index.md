@@ -14,10 +14,6 @@ share: false
 
 <img src="https://adeldaoud.github.io/images/adel.jpg" width="400">
 
-<img src="https://adeldaoud.github.io/images/adel.jpg" width="400">
-
-<img src="https://github.com/adeldaoud/adeldaoud.github.io/blob/master/images/adel.jpg" width="400">
-
 I am currently appointed as a postdoctoral researcher at the Department of Sociology and Work Science, at University of Gothenburg, Sweden, and visiting the Department of Sociology, University of Cambridge, the UK. At Cambridge, I am working with 
 
 My research is currently being funded by the [Swedish Research Council](http://www.vr.se/) within its International Postdoc Programme. It is about the *Impact of the 2008 Financial Crisis on Child Poverty in Developing Countries*.
