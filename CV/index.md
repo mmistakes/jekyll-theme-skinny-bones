@@ -66,7 +66,7 @@ Last updated: April 2016
 
 
 ### Book chapters, Reports, and Other publications.
-* 2016 **Daoud, Adel** and Kohl, Sebastian, How Much Do Sociologists Write About Economic Topics? Using Big-Data to Test Some Conventional Views in Economic Sociology, 1890 to 2014. MPIfG Discussion Paper [peer-reviewed]
+* 2016 **Daoud, Adel** and Kohl, Sebastian, How Much Do Sociologists Write About Economic Topics? Using Big-Data to Test Some Conventional Views in Economic Sociology, 1890 to 2014. [MPIfG Discussion Paper 16/7](http://www.mpifg.de/pu/mpifg_dp/dp16-7.pdf) [peer-reviewed]
 * 2015 **Daoud, Adel** and Kohl, Sebastian, Is there a New Economic Sociology Effect? A Topic Model on the Economic Orientation of Sociology, 1890 to 2014. Working Paper 20/2015, Department of Economics, The New School For Social Research. [Link](http://www.economicpolicyresearch.org/econ/2015/NSSR_WP_202015.pdf)
 * 2015	**Daoud, Adel**, Halleröd, Björn, and Guha-Sapir, Debarati. Quality of Government and the Relationship between Natural Disasters and Child Poverty: A Comparative Analysis. MPIfG Discussion Paper 15/5. [Link](http://www.mpifg.de/pu/mpifg_dp/dp15-5.pdf)
 * 2015 	**Daoud, Adel**. (with Fazil Moradi, Roukaya Ibrahim, Shailen Nandy), “Iraq”, The SAGE Encyclopedia of World Poverty, Second Edition, edited by Joanne Steinberg. [Link](https://us.sagepub.com/en-us/nam/the-sage-encyclopedia-of-world-poverty/book242656)
