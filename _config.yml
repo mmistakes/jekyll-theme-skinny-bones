@@ -1,11 +1,13 @@
 # Site wide configuration
 
-title: Skinny Bones
+title: "Skinny Bones"
 description: "A lightweight site starter for Jekyll"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
-url: https://mmistakes.github.io/skinny-bones-jekyll
+url: "https://mmistakes.github.io/skinny-bones-jekyll"
+feed:
+  path: atom.xml
 
 # Jekyll configuration
 
@@ -19,35 +21,45 @@ highlighter: rouge
 gems:
   - jekyll-sitemap
   - jekyll-gist
-
-
-# Octopress configuration
-
-# Default extensions
-post_ext: md
-page_ext: md
-
-# Found in _templates/
-post_layout: article
-page_layout: article
-
-# Format titles with titlecase?
-titlecase: true
+  - jekyll-feed
 
 
 # Site owner
 owner:
-  name: Michael Rose
-  web: http://mademistakes.com
-  email: michael@mademistakes.com
-  twitter: mmistakes
+  name: "Michael Rose"
+  web: "https://mademistakes.com"
+  twitter: "mmistakes"
   bio: "Just another boring, tattooed, time traveling designer."
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+  avatar: "bio-photo.jpg" # 160x160 px image for author byline
   google:
-    plus: +MichaelRoseDesign
-    ad-client: ca-pub-7328585512091257
+    plus: "+MichaelRoseDesign"
+    ad-client: "ca-pub-7328585512091257"
     ad-slot: 3049671934
   disqus-shortname:
 
 
-exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
+include:
+  - .htaccess
+exclude:
+  - "*.less"
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - config
+  - gulpfile.js
+  - lib
+  - log
+  - node_modules
+  - package.json
+  - spec
+  - tmp
