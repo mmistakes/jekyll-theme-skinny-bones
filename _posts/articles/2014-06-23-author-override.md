@@ -20,7 +20,7 @@ Traditionally you would assign a global author for the entire site and those att
 
 Start by creating an `authors.yml` file in the `_data` folder and add your authors using the following format.
 
-{% highlight yaml %}
+```yaml
 # Authors
 
 billy_rick:
@@ -37,10 +37,10 @@ cornelius_fiddlebone:
   bio: "I ordered what?"
   avatar: bio-photo.jpg
   twitter: rhymeswithsackit
-{% endhighlight %}
+```
 
 To assign Billy Rick as an author for our post. We'd add the following YAML front matter to a post:
 
-{% highlight yaml %}
+```yaml
 author: billy_rick
-{% endhighlight %}
+```

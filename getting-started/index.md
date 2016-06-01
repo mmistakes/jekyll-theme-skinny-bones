@@ -2,7 +2,7 @@
 layout: article
 title: "Getting Started with Skinny Bones"
 date: 2014-06-25T13:57:25-04:00
-modified: 2016-01-19
+modified: 2016-06-01T16:21:57-04:00
 excerpt:
 tags: []
 image:
@@ -24,14 +24,14 @@ If you are creating a new Jekyll site using Skinny Bones following these steps:
 
 1. [Download Skinny Bones](https://github.com/mmistakes/skinny-bones-jekyll/archive/master.zip) and unzip.
 2. Rename `skinny-bones-jekyll-master` to something meaningful ie: `new-site`
-3. Run `bundle install` to install all dependencies (Jekyll, [Jekyll-Sitemap](https://github.com/jekyll/jekyll-sitemap), [Octopress](https://github.com/octopress/octopress), etc)
+3. Run `bundle install` to install all Jekyll and all dependencies.
 4. Update `_config.yml`, add navigation, and add posts/pages. Full details below.
 
 If you want to use Skinny Bones with an existing Jekyll site follow these steps:
 
 1. [Download Skinny Bones](https://github.com/mmistakes/skinny-bones-jekyll/archive/master.zip) and unzip.
 2. Rename `skinny-bones-jekyll-master` to something meaningful ie: `new-site`
-3. Run `bundle install` to install all dependencies (Jekyll, [Jekyll-Sitemap](https://github.com/jekyll/jekyll-sitemap), [Octopress](https://github.com/octopress/octopress), etc)
+3. Run `bundle install` to install all Jekyll and all dependencies.
 4. Add all of your existing posts, pages, and any other content you want to move over.
 5. Update YAML front matter blocks to match names used by Skinny Bones. Full details below.
 6. Update `config.yml`, add navigation links. Full details below. 
@@ -46,11 +46,11 @@ The preferred method for running Jekyll is with `bundle exec`, but if you're wil
 >
 >However, this is unreliable and is the source of considerable pain. Even if it looks like it works, it may not work in the future or on another machine.
 
-{% highlight text %}
+```bash
 bundle exec jekyll build
 
 bundle exec jekyll serve
-{% endhighlight %}
+```
 
 ---
 
@@ -58,7 +58,7 @@ bundle exec jekyll serve
 
 How Skinny Bones is organized and what the various files are. All posts, layouts, includes, stylesheets, assets, and whatever else is grouped nicely under the root folder. The compiled Jekyll site outputs to `_site/`.
 
-{% highlight bash %}
+```bash
 skinny-bones-jekyll-master
 ├── _site                               # compiled site ready to deploy
 ├── _images                             # unoptimized images
@@ -97,11 +97,10 @@ skinny-bones-jekyll-master
 |   ├── _main.js                        # site scripts and plugin settings go here
 |   └── main.min.js                     # concatenated and minified site scripts
 ├── apple-touch-icon-precomposed.png    # 152x152 px for iOS
-├── atom.xml                            # posts feed
 ├── favicon.ico                         # 32x32 px for browsers
 └── index.md                            # homepage content
 └── _config.yml                         # Jekyll settings
-{% endhighlight %}
+```
 
 ---
 
@@ -146,18 +145,16 @@ Example `teaser: 400x250.gif`
 
 #### Site URL
 
-Used to generate absolute URLs in `sitemap.xml`, `atom.xml`, and for generating canonical URLs in `<head>`. When developing locally either comment this out or use something like `http://localhost:4000` so all assets load properly. *Don't include a trailing `/`*. [Protocol-relative URLs](http://www.paulirish.com/2010/the-protocol-relative-url/) are a nice option but there are a few caveats[^protocol].
+Used to generate absolute URLs in `sitemap.xml`, `atom.xml`, and for generating canonical URLs in `<head>`. When developing locally either comment this out or use something like `http://localhost:4000` so all assets load properly. *Don't include a trailing `/`*.
 
 Examples:
 
-{% highlight yaml %}
-url: http://mmistakes.github.io/skinny-bones-jekyll
+```yaml
+url: https://mmistakes.github.io/skinny-bones-jekyll
 url: http://localhost:4000
-url: //cooldude.github.io
+url: https://yourdomain.com
 url: 
-{% endhighlight %}
-
-[^protocol]: If you decide to use a protocol-relative URL know that it will most likely break sitemap.xml that the Jekyll-Sitemap gem creates. If a valid sitemap matters to you I'd suggest [creating your own sitemap.xml](http://davidensinger.com/2013/03/generating-a-sitemap-in-jekyll-without-a-plugin/) and apply some Liquid logic to prepend links to posts/pages with `https:`.
+```
 
 #### Site Locale
 
@@ -184,7 +181,7 @@ Feel free to submit a pull request for additional languages and any other parts 
 
 To set what links appear in the top navigation edit `_data/navigation.yml`. Use the following format to set the URL, title, teaser image/description (used in off-canvas menu) of each link:
 
-{% highlight yaml %}
+```yaml
 - title: Portfolio
   url: /portfolio/
   excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
@@ -192,17 +189,17 @@ To set what links appear in the top navigation edit `_data/navigation.yml`. Use 
 
 - title: Made Mistakes
   url: http://mademistakes.com  
-{% endhighlight %}
+```
 
 To set what links appear in the footer edit `_data/footer.yml`. Use the following format for each link:
 
-{% highlight yaml %}
+```yaml
 - title: Subscribe
   url: /subscribe/
 
 - title: External Page
   url: http://mademistakes.com  
-{% endhighlight %}
+```
 
 ---
 
@@ -234,10 +231,10 @@ If you assign a modified date to a post or page it will override the published d
 
 I like to use this [Sublime Text plugin](https://github.com/FichteFoll/sublimetext-insertdate) to insert the current date after I've updated a post, but you can do it manually to. It should follow the same date format used by Jekyll when naming posts: `YYYY-MM-DD`.
 
-{% highlight YAML %}
+```yaml
 modified: 2014-08-27
 modified: 2014-08-27T11:57:41-04:00 # more verbose, also acceptable
-{% endhighlight %}
+```
 
 #### Images
 
@@ -251,19 +248,19 @@ A good rule of thumb is to keep feature images nice and wide so you don't push t
 
 The post and page layouts make the assumption that the feature images live in the `images/` folder. To add a feature image to a post or page just include the filename in the front matter like so.
 
-{% highlight yaml %}
+```yaml
 image:
   feature: feature-image-filename.jpg
-{% endhighlight %}
+```
 
 To add attribution to a feature image use the following YAML front matter on posts or pages. Image credits appear directly below the feature image with a link back to the original source (if supplied).
 
-{% highlight yaml %}
+```yaml
 image:
   feature: feature-image-filename.jpg
   credit: Michael Rose #name of the person or site you want to credit
-  creditlink: http://mademistakes.com #url to their site or licensing
-{% endhighlight %}
+  creditlink: https://mademistakes.com #url to their site or licensing
+```
 
 ##### Teasers Images
 
@@ -278,13 +275,13 @@ Similar to feature images you don't want to go crazy and use large high resoluti
 
 To assign a teaser image on a post use the following YAML:
 
-{% highlight yaml %}
+```yaml
 image:
   teaser: 400x250.gif
   feature: feature-image-filename.jpg
   credit: Michael Rose #name of the person or site you want to credit
-  creditlink: http://mademistakes.com #url to their site or licensing
-{% endhighlight %}
+  creditlink: https://mademistakes.com #url to their site or licensing
+```
 
 #### Table of Contents
 
@@ -306,9 +303,9 @@ Select **responsive** for ad type, allowing it to display at various sizes. If y
 
 Create a [Disqus](http://disqus.com) account and change `disqus-shortname` in `_config.yml` to the Disqus *shortname* you just setup. To enable commenting on a post, add the following to its YAML Front Matter:
 
-{% highlight yaml %}
+```yaml
 comments: true
-{% endhighlight %}
+```
 
 #### Social Sharing Links
 
@@ -331,58 +328,29 @@ Place a `.md` file at the root level and add the appropriate permalink to the YA
 
 Or you can create `/about/index.md` and omit the YAML permalink. Up to you how you'd like to organize your pages.
 
+You can also group pages in a `_pages` folder similiar to `_posts` if you [follow this short guide](https://mmistakes.github.io/minimal-mistakes/docs/pages/).
+
 ### Archives
 
 Create an archive page for each category or section of your site that you want to list a collection of posts. On these pages you'll want to use the `archive` layout and use a variation of the following for the page's content changing `foo` to the appropriate category you want to list posts from.
 
-{% highlight html %}
+```html
 <div class="tiles">
 {{ "{% for post in site.categories.foo " }}%}
   {{ "{% include post-grid.html " }}%}
 {{ "{% endfor " }}%}
 </div><!-- /.tiles -->
-{% endhighlight %}
+```
 
 If you'd prefer a less visual list of posts use `{{ "{% include post-list.html " }}%}` instead of the `post-grid.html` _include.
 
 ---
 
-## Adding New Content with Octopress
+## Adding New Content
 
-While completely optional, I've included Octopress and some starter templates to automate the creation of new posts and pages. To take advantage of it start by installing the [Octopress](https://github.com/octopress/octopress) gem if it isn't already. It is safe to remove Octopress from your Gemfile if you have no need for it.
+Posts are stored in the `_posts` directory and named according to the `YEAR-MONTH-DAY-title.MARKUP` format as per [the usual](https://jekyllrb.com/docs/posts/).
 
-{% highlight bash %}
-$ gem install octopress
-{% endhighlight %}
-
-### New Post
-
-Default command
-
-{% highlight bash %}
-$ octopress new post "Post Title"
-{% endhighlight %}
-
-Default works great if you want all your posts in one directory, but if you're like me and want to group them into sub-folders like `/articles`, `/portfolio`, etc. Then this is the command for you. By specifying the DIR it will create a new post in that folder and populate `categories:` with the same value.
-
-{% highlight bash %}
-{% endhighlight %}
-
-The default `_layout` used for new posts is `articles`. If you want to use the media layout or something else specify it like so
-
-{% highlight bash %}
-$ octopress new post "Portfolio Post Title" --dir portfolio --template media
-{% endhighlight %}
-
-### New Page
-
-To create a new page use the following command.
-
-{% highlight bash %}
-$ octopress new page about/
-{% endhighlight %}
-
-This will create a page at `/about/index.md`
+To streamline the creation of posts and pages, [Jekyll::Compose](https://github.com/jekyll/jekyll-compose) and [Octopress](https://github.com/octopress/octopress) are great plugins you can install to automate this process.
 
 ---
 

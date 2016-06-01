@@ -2,7 +2,7 @@
 layout: article
 title: "Sample Post Style Guide"
 categories: articles
-modified: 2014-08-27T11:57:41-04:00
+modified: 2016-06-01T16:28:11-04:00
 tags: [sample]
 comments: true
 ads: true
@@ -64,15 +64,15 @@ HTML and <abbr title="cascading stylesheets">CSS<abbr> are our tools. Mauris a a
 
 ## Code Snippets
 
-Syntax highlighting via Pygments
+Syntax highlighting via Rouge
 
-{% highlight css linenos=table %}
+```css
 #container {
 	float: left;  
 	margin: 0 -240px 0 0;  
 	width: 100%;
 }
-{% endhighlight %}
+```
 
 Non Pygments code example
 
@@ -84,9 +84,9 @@ Non Pygments code example
 
 Make any link standout more when applying the `.btn` class.
 
-{% highlight html %}
+```html
 <a href="#" class="btn">Default Button</a>
-{% endhighlight %}
+```
 
 <a href="#" class="btn">.btn</a>
 <a href="#" class="btn-inverse">.btn-inverse</a>
