@@ -5,7 +5,7 @@ description: "Christopher Milne's technical communication resume"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
-url:
+url: https://miln0068.github.io
 feed:
   path: atom.xml
 
@@ -25,9 +25,9 @@ gems:
 
 
 # Site owner
-owner: Christopher Milne
-  name:Christopher Milne
-  email: miln0068@algonquinlive.com
+owner:
+  name: Christopher Milne
+  email:
   twitter:
   google:
     ad-client:
