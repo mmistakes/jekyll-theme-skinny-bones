@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: "My Site"
-description: "This is a description of my awesome site."
+title: "Christopher Milne"
+description: "Christopher Milne's technical communication resume"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
-url:
+url: https://miln0068.github.io
 feed:
   path: atom.xml
 
@@ -26,7 +26,7 @@ gems:
 
 # Site owner
 owner:
-  name:
+  name: Christopher Milne
   email:
   twitter:
   google:

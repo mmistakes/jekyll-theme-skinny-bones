@@ -1,7 +1,9 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "Technical Communication"
+image:
+  feature: feature.jpg
 ---
 
 <div class="tiles">
