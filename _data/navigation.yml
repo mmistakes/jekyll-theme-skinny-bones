@@ -1,0 +1,19 @@
+# Site navigation links
+- title: Skills
+  url: /skills/
+  excerpt: "My technical communication skills."
+  image:
+
+- title: Experience
+  url: /experience/
+  excerpt: "My experience."
+
+- title: Education
+  url: /education/
+
+- title: Volunteer
+  url: /volunteer/
+
+- title: Professional
+  url: /professional/
+  
