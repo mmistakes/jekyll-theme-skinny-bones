@@ -1,6 +1,28 @@
+{% if page.locale %}
+  {% assign locale = page.locale %}
+{% else %}
+  {% assign locale = site.locale %}
+{% endif %}
+
+{% capture navigation_name %}navigation_{{ locale }}{% endcapture %}
+{% if site.data[navigation_name] %}
+  {% assign navigation = site.data[navigation_name] %}
+{% else %}
+  {% assign navigation = site.data.navigation %}
+{% endif %}
+
 <ul class="menu-item">
 	<li class="home"><a href="/">{{ site.title }}</a></li>
-	{% for link in site.data.navigation %}
+	{% for link in navigation %}
+    {% if link.url contains 'http' %}
+        {% assign domain = '' %}
+        {% else %}
+        {% assign domain = site.url %}
+    {% endif %}
+    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+  {% endfor %}
+
+  {% for link in page.navigation %}
     {% if link.url contains 'http' %}
         {% assign domain = '' %}
         {% else %}
