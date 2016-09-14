@@ -139,7 +139,7 @@ Example `logo: 120x120.gif`
 
 #### Site Teaser Image
 
-Default teaser image used for posts and pages that do not have one assigned. This image shows up in the archive grid module. If can have whatever dimensions you want, I've found that an image with rectangular proportions work nicely. Like the site logo, place in `/images/`.
+Default teaser image used for posts and pages that do not have one assigned. This image shows up in the archive grid module. It can have whatever dimensions you want, I've found that an image with rectangular proportions work nicely. Like the site logo, place in `/images/`.
 
 Example `teaser: 400x250.gif`
 
