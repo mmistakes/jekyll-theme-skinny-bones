@@ -211,7 +211,7 @@ Create new MarkDown (.md) files in `_posts`. If you aren't using categories to o
 
 `_posts/foo/2014-06-01-new-post.md`
 
-Which when process by jekyll would have a URL of `domain.com/foo/new-post/`.
+Which when processed by jekyll would have a URL of `domain.com/foo/new-post/`.
 
 ---
 
