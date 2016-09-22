@@ -40,7 +40,7 @@ If you want to use Skinny Bones with an existing Jekyll site follow these steps:
 
 ## Running Jekyll
 
-The preferred method for running Jekyll is with `bundle exec`, but if you're willing to deal gem conflicts feel free to go cowboy with a `jekyll build` or `jekyll serve`.
+The preferred method for running Jekyll is with `bundle exec`, but if you're willing to deal with gem conflicts feel free to go cowboy with a `jekyll build` or `jekyll serve`.
 
 > In some cases, running executables without bundle exec may work, if the executable happens to be installed in your system and does not pull in any gems that conflict with your bundle.
 >
