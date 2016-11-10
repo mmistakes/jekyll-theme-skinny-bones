@@ -14,13 +14,13 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Bio</h2>
-  <p class="post-excerpt"> I was born in Armenia, Quindio. A nice place in Colombian andes surrounded by stunning landscapes!. My family has been always the foundations in my academic and personal interestes.</p>
+  <p class="post-excerpt"> I was born in Armenia, Quindío. A nice place in Colombian andes surrounded by stunning landscapes!. My family has been always the foundations in my academic and personal interestes.</p>
 
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Affiliations</h2>
-  <p class="post-excerpt">I'm a first year Ph.D. student at the University of Arizona, working at Wiens lab. I also collaborate with three research groups in Colombia: "Biodiversidad animal" from the Universidad del Quindío (Armemnia), besides ”GIE" and "Ceiba" from the Universidad del Valle (Cali).</p>
+  <p class="post-excerpt">I'm a first year Ph.D. student at the University of Arizona, working at Wiens lab. I also collaborate with three research groups in Colombia: "Biodiversidad animal" from the Universidad del Quindío (Armenia), besides ”GIE" and "Ceiba" from the Universidad del Valle (Cali).</p>
 </div><!-- /.tile -->
 
 <div class="tile">
