@@ -14,11 +14,8 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Bio</h2>
-<<<<<<< Updated upstream
   <p class="post-excerpt"> I was born in Armenia, Quindio. A nice place in Colombian andes surrounded by stunning landscapes!. My family has been always the foundations in my academic and personal interestes.</p>
-=======
-  <p class="post-excerpt"> I was born in Armenia, Quindio. A nice place in the Colombian andes surrounded by stunning landscapes! My family has been always the foundations in my academic and personal interests.</p>
->>>>>>> Stashed changes
+
 </div><!-- /.tile -->
 
 <div class="tile">
