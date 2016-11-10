@@ -14,7 +14,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Bio</h2>
-  <p class="post-excerpt"> I was born in Armenia, Quindio. A nice place in Colombian andes surrounded by stunning landscapes!. My family has been always the foundations in my academic and personal interestes. I'm a friendly person who's always interested in listening and discussing on interest aspects</p>
+  <p class="post-excerpt"> I was born in Armenia, Quindio. A nice place in Colombian andes surrounded by stunning landscapes!. My family has been always the foundations in my academic and personal interestes.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
