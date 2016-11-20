@@ -9,7 +9,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Research interests</h2>
-  <p class="post-excerpt">I'minterested in understanding the large-scale patterns and processes of life from an evolutionary perspective. However, I really like to combine multiple disciplines! </p>
+  <p class="post-excerpt">I'm interested in understanding the large-scale patterns and processes of life from an evolutionary perspective. However, I really like to combine multiple disciplines! </p>
 </div><!-- /.tile -->
 
 <div class="tile">
@@ -26,6 +26,7 @@ image:
 <div class="tile">
   <h2 class="post-title">Hobbies</h2>
   <p class="post-excerpt">Love taking  <a href="https://youpic.com/photographer/Cromanpa/">photos</a>.</p>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?u=OyIN&d=ipkSndE8_XFxOZZl00Ta_2fSaEztt1OMQcXl1Lh2LTQ"></script>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
