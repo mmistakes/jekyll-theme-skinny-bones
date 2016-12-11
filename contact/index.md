@@ -11,9 +11,9 @@ share: false
 ads: false
 ---
 
-I'm always available through email: cromanpa94@gmail.com or cromanpa94@email.arizona.edu. If required, my skype ID is live:crp-50_1. 
+I'm always available through email: cromanpa94@email.arizona.edu. 
 
-The following form works too! Feel free to email me.
+The following form also works! Feel free to contact me by email.
 
 
 <div id="wufoo-z1nmflk00kkq58w">
