@@ -1,6 +1,21 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: CV
+  url: /CV/
+  excerpt: "My Merits"
+  image: cv.jpg
+
+- title: TEACHING
+  url: /TEACHING/
+  excerpt: "My Teaching"
+  image: blackboard.jpg
+
+- title: RESEARCH
+  url: /RESEARCH/
+  excerpt: "My Research"
+  image: books.jpg
+  
+- title: ABOUT ME
+  url: /ABOUT ME/
+  excerpt: "My Position"
+  image: GUlogo.png
