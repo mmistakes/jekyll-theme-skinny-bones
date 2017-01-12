@@ -6,7 +6,7 @@ locales:
   # -------------------
   en: &DEFAULT_EN
     overview: "Overview"
-    toc: "Table of Contents"
+    toc: " "
     written_by: "Written by"
     updated: "Updated"
     share: "Share on"
