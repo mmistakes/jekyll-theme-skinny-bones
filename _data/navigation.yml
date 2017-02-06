@@ -1,17 +1,17 @@
 # Site navigation links
 
-- title: Getting Started
-  url: /getting-started/
-  excerpt: "Everything you need to know to get started with Skinny Bones and Jekyll."
+- title: Endurance
+  url: /Endurance/
+  excerpt: "Your daily updates from the fastest and fittest in the endurance sports."
   image: 400x250.gif
 
-- title: Sample Articles
-  url: /articles/
-  excerpt: "Examples of long form posts."
+- title: Power
+  url: /Power/
+  excerpt: "Powerfull in it's finests sense. Everything you need to know to become truly powerfull."
   image: 400x250.gif
 
-- title: Media
-  url: /media/
+- title: Health of body and mind
+  url: /Health/
   excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
   image: 400x250.gif
 
