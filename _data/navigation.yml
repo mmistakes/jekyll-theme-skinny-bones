@@ -1,6 +1,21 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: Endurance
+  url: /Endurance/
+  excerpt: "Your daily updates from the fastest and fittest in the endurance sports."
+  image: 400x250.gif
+
+- title: Power
+  url: /Power/
+  excerpt: "Powerfull in it's finests sense. Everything you need to know to become truly powerfull."
+  image: 400x250.gif
+
+- title: Health of body and mind
+  url: /Health/
+  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
+  image: 400x250.gif
+
+- title: About
+  url: /about/
+  excerpt: "All about Skinny Bones for Jekyll."
+  image: 400x250.gif

@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: "My Site"
-description: "This is a description of my awesome site."
-logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
-locale: en
-url:
+title: "Truly Awaken"
+description: "A daily update on today's leading health and fitness perspectives"
+logo: 120x120.gif
+teaser: 400x250.gif
+locale: en_US
+url: "https://wakker.github.io"
 feed:
   path: atom.xml
 
@@ -26,14 +26,15 @@ gems:
 
 # Site owner
 owner:
-  name:
-  email:
-  twitter:
+  name: "Wakker"
+  web: "https://trulyawaken.com"
+  twitter: ""
+  bio: ""
+  avatar: "" # 160x160 px image for author byline
   google:
-    ad-client:
-    ad-slot:
-  bio:
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+    plus: ""
+    ad-client: "ca-pub-7328585512091257"
+    ad-slot: 3049671934
   disqus-shortname:
 
 

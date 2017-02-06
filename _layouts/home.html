@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{% if page.title %}{{ page.title }} • {% endif %}{{ site.title }}</title>
+    {% if page.excerpt %}<meta name="description" content="{{ page.excerpt | strip_html }}">{% endif %}
+    {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
+    {% if page.author %}
+      {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
+    {% endif %}
+    {% include open-graph.html %}
+    {% if author.google.plus %}<link rel="author" href="https://plus.google.com/{{ author.google.plus }}"/>{% endif %}
+
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+
+    <link href="{{ site.url }}/atom.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} Atom Feed">
+
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="cleartype" content="on">
+
+    <link rel="stylesheet" href="{{ site.url }}/css/main.css">
+    <!-- HTML5 Shiv and Media Query Support for IE -->
+    <!--[if lt IE 9]>
+      <script src="{{ site.url }}/js/vendor/html5shiv.min.js"></script>
+      <script src="{{ site.url }}/js/vendor/respond.min.js"></script>
+    <![endif]-->
+
+  </head>
+
+  <body>
+    {% include header.html %}
+    {% include navigation-sliding.html %}
+
+    {% if page.image.feature %}
+    <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
+      <div class="wrap page-lead-content">
+        <h1>Skinny Bones</h1>
+        <h2>Jump start your Jekyll site with something thin and light.</h2>
+        <a href="{{ site.url }}/getting-started/" class="btn-inverse">Start Using Skinny Bones</a> &nbsp; or &nbsp; <a href="https://github.com/mmistakes/skinny-bones-jekyll" class="btn-inverse">View on GitHub</a>
+      </div><!-- /.page-lead-content -->
+    </div><!-- /.page-lead -->
+    {% endif %}
+
+    <div id="page-wrapper">
+      {% include browser-upgrade.html %}
+
+      <div id="main" role="main">
+        <div class="wrap">
+          <div class="page-title">
+            <h1>{{ page.title }}</h1>
+            {% if page.excerpt %}<h2>{{ page.excerpt }}</h2>{% endif %}
+          </div>
+          <div class="archive-wrap">
+            <div class="page-content">
+              {{ content }}
+            </div><!-- /.page-content -->
+          </div class="archive-wrap"><!-- /.archive-wrap -->
+        </div><!-- /.wrap -->
+      </div><!-- /#main -->
+
+      {% include footer.html %}
+    </div>
+
+    <script src="{{ site.url }}/js/vendor/jquery-1.9.1.min.js"></script>
+    <script src="{{ site.url }}/js/main.js"></script>
+
+  </body>
+
+</html>
