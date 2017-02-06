@@ -29,5 +29,12 @@ locales:
 
   # French translation (TODO)
   # -------------------
+  fr: &DEFAULT_FR
+    <<: *DEFAULT_EN     # load English values as default
+    overview: "Aperçu"
+    toc: "Table des matières"
+    written_by: "Écrit par"
+    updated: "Mis à jour"
+    share: "Partager sur"
   fr_FR:
-    <<: *DEFAULT_EN      # load English values as default
+    <<: *DEFAULT_FR      # use French translation for fr_FR
