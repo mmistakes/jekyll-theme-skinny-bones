@@ -3,19 +3,14 @@
 - title: CV
   url: /CV/
   excerpt: "Brief summary of my academic background."
-  image: 400x250.gif
 
 - title: Publications
   url: /articles/
   excerpt: "Including datasets, SI, Scripts."
-  image: 400x250.gif
 
 - title: Tutorials
   url: /Tutorials/
   excerpt: "DIY Ecology and Phylogenetics."
-  image: 400x250.gif
 
 - title: Contact
   url: /contact/
-  excerpt: "Feel free to email me."
-  image: 400x250.gif
