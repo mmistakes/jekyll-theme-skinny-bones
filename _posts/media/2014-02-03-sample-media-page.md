@@ -20,5 +20,4 @@ Several pipelines are currently available for mining GenBank for a given taxon s
 1. We need to know (1) which species (or genera,etc) will be sampled as outgroup, (2) the genes that will be used, and (3) the ingroup taxa.
 
 
-> We're living the future so
-> the present is our past.
+`<addr>` element here instead.
