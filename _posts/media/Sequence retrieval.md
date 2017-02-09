@@ -1,6 +1,6 @@
 ---
 layout: media
-title: "Building phylogenies from scratch"
+title: "Building phylogenies from scratch_2"
 categories: media
 excerpt: "How to download GenBank sequences for a given lineage."
 ads: false
