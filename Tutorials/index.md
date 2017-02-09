@@ -3,7 +3,7 @@ layout: archive
 title: "Tutorials"
 date: 2014-05-30T11:40:45-04:00
 modified:
-excerpt: "Brief tutorials in Phylogenetics and Ecology....UNDER CONSTRUCTION"
+excerpt: "Brief tutorials on Phylogenetics and Ecology"
 tags: []
 image:
   feature:
