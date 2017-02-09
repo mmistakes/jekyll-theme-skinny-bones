@@ -1,6 +1,6 @@
 ---
 layout: media
-title: "Building phylogenies from scratch"
+title: "Building phylogenies from the scratch"
 categories: media
 excerpt: "How to download GenBank sequences for a given lineage."
 ads: false
@@ -18,3 +18,7 @@ Several pipelines are currently available for mining GenBank for a given taxon s
 ### Hands on!
 
 1. We need to know (1) which species (or genera,etc) will be sampled as outgroup, (2) the genes that will be used, and (3) the ingroup taxa.
+
+
+> We're living the future so
+> the present is our past.
