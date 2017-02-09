@@ -9,10 +9,10 @@ tags: []
 ads: F
 share: true
 image:
-  feature: Habitos_2.jpg
-  teaser: Habitos.jpg
-  credit: RMB
-  creditlink: http://www.revistas.unam.mx/index.php/bio
+  feature: Thyrso_1.jpg
+  teaser: Thyrso_1.jpg
+  credit: EJT
+  creditlink: 
 
 ---
 
