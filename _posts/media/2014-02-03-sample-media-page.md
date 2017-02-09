@@ -20,10 +20,10 @@ Several pipelines are currently available for mining GenBank for a given taxon s
 1. We need to know (1) which species (or genera,etc) will be sampled as outgroup, (2) the genes that will be used, and (3) the ingroup taxa.
 
 
-<!-- HTML generated using hilite.me --><div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #888888">x &lt;- runif(1e2)</span>
+<pre style="background:#000;color:#f8f8f8"><span style="color:#3e87e3">x</span> <span style="color:#e28964">&lt;-</span> runif(<span style="color:#3387cc">1e2</span>)
 
-<span style="color: #888888">microbenchmark(</span>
-<span style="color: #888888">  mean(x),</span>
-<span style="color: #888888">  mean.default(x)</span>
-<span style="color: #888888">)</span>
-</pre></div>
+microbenchmark(
+  mean(<span style="color:#3e87e3">x</span>),
+  mean.default(<span style="color:#3e87e3">x</span>)
+)
+</pre>
