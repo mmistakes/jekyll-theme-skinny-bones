@@ -16,8 +16,3 @@ image:
 ---
 
 For 75 years, the genus Elaphopsocus was considered a monotypic lineage of neotropical psocids. As a result of recent work in South America, this genus presently includes seven species from Brazil and Colombia. We here describe three new species from the East Colombian high Andes.
-<figure class="third">
-	<a href="http://placehold.it/1200x600.gif"><img src="http://placehold.it/900x450.gif"></a>
-	<a href="http://placehold.it/1200x600.gif"><img src="http://placehold.it/900x450.gif"></a>
-	<a href="http://placehold.it/1200x600.gif"><img src="http://placehold.it/900x450.gif"></a>
-</figure>
