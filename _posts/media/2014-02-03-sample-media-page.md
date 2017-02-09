@@ -2,7 +2,7 @@
 layout: media
 title: "Building phylogenies from scratch"
 categories: media
-excerpt: "Downloading GenBank sequences for a given lineage."
+excerpt: "How to download GenBank sequences for a given lineage."
 ads: false
 share: false
 image:
