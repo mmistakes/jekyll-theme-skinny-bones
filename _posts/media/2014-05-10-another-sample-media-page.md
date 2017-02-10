@@ -14,18 +14,31 @@ image:
 
 Several pipelines are currently available for mining GenBank for a given taxon set (see SUPERSMART and PHLAWD). However, the main goal of this tutorial is to retrieve all the available sequences for a series of species within R.    
 
+### Materials
+
+- R
+- Libraries: taxize, plyr, RCurl, RCurl, utils and seqRFLP
+- Ingroup and outgroup lineages (names)
+- Genes
+
+### Results
+
+- Fasta file containing all the species sampled in genbank (per locus)
+- Sampling matrix (Accession numbers)
+
 ### Hands on!
 
 We first need define (1) the species names (or genera, etc) that will be sampled for the outgroup, (2) ingroup , and the genes that will be analyzed.
 
 For this example, we're going to work with the New World vulture family (Cathartidae). Four species within families Accipitridae, Pandionidae and Falconidae will be selected as as outgroups.
 
-Libraries taxize, plyr, dplyr, utils and seqRFLP are required for completing this tutorial.
 
 <pre style="background:#fff;color:#3b3b3b">library(<span style="color:#0053ff;font-weight:700">traits</span>)
 library(<span style="color:#0053ff;font-weight:700">taxize</span>)
 library(<span style="color:#0053ff;font-weight:700">plyr</span>)
-library(<span style="color:#0053ff;font-weight:700">dplyr</span>)
+library(<span style="color:#0053ff;font-weight:700">XML</span>)
+library(<span style="color:#0053ff;font-weight:700">RCurl</span>)
+library(<span style="color:#0053ff;font-weight:700">pbapply</span>)
 library(<span style="color:#0053ff;font-weight:700">utils</span>)
 library(<span style="color:#0053ff;font-weight:700">seqRFLP</span>)
 </pre>
@@ -86,7 +99,9 @@ As expected, not all species have published sequences for all gene (or any). Let
 
 ...And remove the rows without sequence information
 
-newdat<-dat[!dat$sequence=="NA",]
+<pre style="background:#fff;color:#3b3b3b"><span style="color:#0053ff;font-weight:700">newdat</span><span style="color:#069;font-weight:700">&lt;-</span><span style="color:#0053ff;font-weight:700">dat</span>[<span style="color:#069;font-weight:700">!</span><span style="color:#0053ff;font-weight:700">dat</span><span style="color:#069;font-weight:700">$</span><span style="color:#0053ff;font-weight:700">sequence</span><span style="color:#069;font-weight:700">=</span><span style="color:#069;font-weight:700">=</span><span style="color:#666">"NA"</span>,]
+
+</pre>
 
 We can then export each set of sequences to a fasta file.
 
@@ -103,4 +118,49 @@ We can then export each set of sequences to a fasta file.
                      }
 </pre>
 
-We're done. The files will be in the working directory.
+We're almost done. The sequences will be in the working directory but we still need to retrieve the accession number for each sequence. The following function does some scrapping based on the gi numbers.
+
+<pre style="background:#fff;color:#3b3b3b"><span style="color:#0053ff;font-weight:700">sea</span><span style="color:#069;font-weight:700">&lt;-</span> <span style="color:#0053ff;font-weight:700">newdat</span><span style="color:#069;font-weight:700">$</span><span style="color:#0053ff;font-weight:700">gi_no</span>
+<span style="color:#0053ff;font-weight:700">ja</span><span style="color:#069;font-weight:700">&lt;-</span><span style="color:#a535ae">NULL</span>
+<span style="color:#0053ff;font-weight:700">ji</span><span style="color:#069;font-weight:700">&lt;-</span><span style="color:#a535ae">NULL</span>
+<span style="color:#0053ff;font-weight:700">ju</span><span style="color:#069;font-weight:700">&lt;-</span><span style="color:#a535ae">NULL</span>
+library(<span style="color:#0053ff;font-weight:700">XML</span>)
+library(<span style="color:#0053ff;font-weight:700">RCurl</span>)
+<span style="color:#af82d4">####</span>
+<span style="color:#21439c">m.boot</span> <span style="color:#069;font-weight:700">&lt;-</span> <span style="color:#069;font-weight:700">function</span>(<span style="color:#0053ff;font-weight:700">sea</span>) {
+  tryCatch({
+    <span style="color:#0053ff;font-weight:700">dir</span><span style="color:#069;font-weight:700">&lt;-</span>paste0(<span style="color:#666">"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nucleotide&amp;id="</span>, <span style="color:#0053ff;font-weight:700">sea</span>, <span style="color:#666">"&amp;rettype=gb&amp;retmode=xml"</span>)
+    <span style="color:#0053ff;font-weight:700">xml</span> <span style="color:#069;font-weight:700">&lt;-</span> getURL(<span style="color:#0053ff;font-weight:700">dir</span>)
+    <span style="color:#0053ff;font-weight:700">doc</span> <span style="color:#069;font-weight:700">&lt;-</span> xmlTreeParse(<span style="color:#0053ff;font-weight:700">xml</span>, <span style="color:#0053ff;font-weight:700">useInternalNodes</span> <span style="color:#069;font-weight:700">=</span> <span style="color:#a535ae">T</span>)
+    <span style="color:#0053ff;font-weight:700">xmltop</span> <span style="color:#069;font-weight:700">=</span> xmlRoot(<span style="color:#0053ff;font-weight:700">doc</span>)
+    <span style="color:#0053ff;font-weight:700">ja</span>[<span style="color:#0053ff;font-weight:700">i</span>]<span style="color:#069;font-weight:700">&lt;-</span>xpathApply(<span style="color:#0053ff;font-weight:700">xmltop</span>, <span style="color:#666">"//GBInterval_accession"</span>, <span style="color:#0053ff;font-weight:700">xmlValue</span>)[[<span style="color:#a8017e">1</span>]]
+  }
+  , <span style="color:#0053ff;font-weight:700">error</span>=<span style="color:#069;font-weight:700">function</span>(<span style="color:#0053ff;font-weight:700">e</span>){})
+}
+</pre>
+
+
+Let's apply the function and create a column on our dataset named acc_no
+
+<pre style="background:#fff;color:#3b3b3b"><span style="color:#0053ff;font-weight:700">accn</span><span style="color:#069;font-weight:700">&lt;-</span>unlist(pblapply(<span style="color:#0053ff;font-weight:700">sea</span>,<span style="color:#0053ff;font-weight:700">m.boot</span>))
+<span style="color:#0053ff;font-weight:700">newdat</span><span style="color:#069;font-weight:700">$</span><span style="color:#0053ff;font-weight:700">acc_no</span><span style="color:#069;font-weight:700">&lt;-</span><span style="color:#0053ff
+
+
+Is just matter of building a sampling matrix
+
+<pre style="background:#fff;color:#3b3b3b"><span style="color:#0053ff;font-weight:700">genexx</span><span style="color:#069;font-weight:700">&lt;-</span><span style="color:#a535ae">NULL</span>
+<span style="color:#069;font-weight:700">for</span> (<span style="color:#0053ff;font-weight:700">i</span> <span style="color:#069;font-weight:700">in</span> <span style="color:#a8017e">1</span><span style="color:#069;font-weight:700">:</span> length(unique(<span style="color:#0053ff;font-weight:700">newdat</span><span style="color:#069;font-weight:700">$</span><span style="color:#0053ff;font-weight:700">gene</span>))){
+  <span style="color:#0053ff;font-weight:700">genexx</span>[[<span style="color:#0053ff;font-weight:700">i</span>]]<span style="color:#069;font-weight:700">&lt;-</span> <span style="color:#0053ff;font-weight:700">newdat</span>[<span style="color:#0053ff;font-weight:700">newdat</span><span style="color:#069;font-weight:700">$</span><span style="color:#0053ff;font-weight:700">gene</span><span style="color:#069;font-weight:700">=</span><span style="color:#069;font-weight:700">=</span>unique(<span style="color:#0053ff;font-weight:700">newdat</span><span style="color:#069;font-weight:700">$</span><span style="color:#0053ff;font-weight:700">gene</span>)[<span style="color:#0053ff;font-weight:700">i</span>],][,c(<span style="color:#a8017e">2</span>,<span style="color:#a8017e">8</span>)]
+}
+
+
+<span style="color:#0053ff;font-weight:700">genesampling</span><span style="color:#069;font-weight:700">&lt;-</span> Reduce(<span style="color:#069;font-weight:700">function</span>(<span style="color:#0053ff;font-weight:700">x</span>, <span style="color:#0053ff;font-weight:700">y</span>) merge(<span style="color:#0053ff;font-weight:700">x</span>, <span style="color:#0053ff;font-weight:700">y</span>,<span style="color:#0053ff;font-weight:700">by</span>=<span style="color:#666">"taxon"</span>, <span style="color:#0053ff;font-weight:700">all</span>=<span style="color:#a535ae">TRUE</span>), <span style="color:#0053ff;font-weight:700">genexx</span>)
+colnames(<span style="color:#0053ff;font-weight:700">genesampling</span>)[<span style="color:#069;font-weight:700">-</span><span style="color:#a8017e">1</span>]<span style="color:#069;font-weight:700">&lt;-</span>as.character(unique(<span style="color:#0053ff;font-weight:700">newdat</span><span style="color:#069;font-weight:700">$</span><span style="color:#0053ff;font-weight:700">gene</span>))
+
+</pre>
+
+We just need to write the matrix into our working directory
+
+<pre style="background:#fff;color:#3b3b3b">write.csv(<span style="color:#0053ff;font-weight:700">genesampling</span>, <span style="color:#666">"Sampling matrix.csv"</span>)
+
+</pre>
