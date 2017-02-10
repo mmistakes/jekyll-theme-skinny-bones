@@ -1,22 +1,11 @@
 # Site wide configuration
 
-<<<<<<< HEAD
 title: Home
 description: "My personal Website"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
 url: http://cromanpa94.github.io/cromanpa
-=======
-title: "My Site"
-description: "This is a description of my awesome site."
-logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
-locale: en
-url:
-feed:
-  path: atom.xml
->>>>>>> mmistakes/master
 
 # Jekyll configuration
 
@@ -30,7 +19,20 @@ highlighter: rouge
 gems:
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+
+
+# Octopress configuration
+
+# Default extensions
+post_ext: md
+page_ext: md
+
+# Found in _templates/
+post_layout: article
+page_layout: article
+
+# Format titles with titlecase?
+titlecase: true
 
 
 # Site owner
@@ -44,28 +46,4 @@ owner:
   disqus-shortname:
 
 
-include:
-  - .htaccess
-exclude:
-  - "*.less"
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - CHANGELOG
-  - Capfile
-  - Gemfile
-  - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - config
-  - gulpfile.js
-  - lib
-  - log
-  - node_modules
-  - package.json
-  - spec
-  - tmp
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
