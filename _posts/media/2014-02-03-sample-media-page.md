@@ -17,20 +17,21 @@ Several pipelines are currently available for mining GenBank for a given taxon s
 
 ### Hands on!
 
-We first need define (1) the species names (or genera,etc) that will be sampled for the outgroup, (2) ingroup , and the genes that will be analyzed.
+We first need define (1) the species names (or genera, etc) that will be sampled for the outgroup, (2) ingroup , and the genes that will be analyzed.
 
-For this example, we're going to use
+For this example, we're going to work with the New World vulture family (Cathartidae). Four species within families Accipitridae, Pandionidae and Falconidae will be selected as as outgroups.
 
-<pre style="background:#f9f9f9;color:#080808"><span style="color:#234a97">x</span> <span style="color:#794938">&lt;-</span> runif(<span style="color:#811f24;font-weight:700">1e2</span>)
+Libraries taxize, plyr, utils and seqRFLP are required for this tutorial.
 
-microbenchmark(
-  mean(<span style="color:#234a97">x</span>),
-  mean.default(<span style="color:#234a97">x</span>)
-)
+<pre style="background:#fff;color:#3b3b3b">library(<span style="color:#0053ff;font-weight:700">traits</span>)
+library(<span style="color:#0053ff;font-weight:700">taxize</span>)
+library(<span style="color:#0053ff;font-weight:700">plyr</span>)
+library(<span style="color:#0053ff;font-weight:700">utils</span>)
+library(<span style="color:#0053ff;font-weight:700">seqRFLP</span>)
 </pre>
 
+After loading the libraries, we have to know all the accepted species within the ingroup. We're going to downstream function (taxize) for retrieving from col (catalogue of life) all the species assigned to Cathartidae.
 
-<<<<<<< HEAD
 <pre style="background:#fff;color:#3b3b3b"><span style="color:#0053ff;font-weight:700">Ingroup</span> <span style="color:#069;font-weight:700">&lt;-</span> downstream(<span style="color:#666">"taxize"</span>, <span style="color:#0053ff;font-weight:700">db</span> <span style="color:#069;font-weight:700">=</span> <span style="color:#666">'col'</span>, <span style="color:#0053ff;font-weight:700">downto</span> <span style="color:#069;font-weight:700">=</span> <span style="color:#666">'species'</span>)
 
 </pre>
@@ -56,6 +57,3 @@ For Cathartidae, only three genes are indicated as phylogenetic informative clus
 <span style="color:#0053ff;font-weight:700">gene_Samp</span><span style="color:#069;font-weight:700">&lt;-</span>cbind.data.frame(<span style="color:#0053ff;font-weight:700">genes</span>, <span style="color:#0053ff;font-weight:700">range_min</span>,<span style="color:#0053ff;font-weight:700">range_max</span>)
 
 </pre>
-=======
-2.
->>>>>>> parent of 7531464... Orga
