@@ -12,8 +12,6 @@ image:
   creditlink: http://mademistakes.com
 ---
 
-### Introduction!
-
 Several pipelines are currently available for mining GenBank for a given taxon set (see SUPERSMART and PHLAWD). However, the main goal of this tutorial is to retrieve all the available sequences for a series of species within R.    
 
 ### Hands on!
@@ -33,7 +31,7 @@ library(<span style="color:#0053ff;font-weight:700">seqRFLP</span>)
 
 After loading the libraries, we have to know all the accepted species within the ingroup. We're going to downstream function (taxize) for retrieving from col (catalogue of life) all the species assigned to Cathartidae.
 
-<pre style="background:#fff;color:#3b3b3b"><span style="color:#0053ff;font-weight:700">Ingroup</span> <span style="color:#069;font-weight:700">&lt;-</span> downstream(<span style="color:#666">"taxize"</span>, <span style="color:#0053ff;font-weight:700">db</span> <span style="color:#069;font-weight:700">=</span> <span style="color:#666">'col'</span>, <span style="color:#0053ff;font-weight:700">downto</span> <span style="color:#069;font-weight:700">=</span> <span style="color:#666">'species'</span>)
+<pre style="background:#fff;color:#3b3b3b"><span style="color:#0053ff;font-weight:700">Ingroup</span> <span style="color:#069;font-weight:700">&lt;-</span> downstream(<span style="color:#666">"Cathartidae"</span>, <span style="color:#0053ff;font-weight:700">db</span> <span style="color:#069;font-weight:700">=</span> <span style="color:#666">'col'</span>, <span style="color:#0053ff;font-weight:700">downto</span> <span style="color:#069;font-weight:700">=</span> <span style="color:#666">'species'</span>)
 
 </pre>
 
