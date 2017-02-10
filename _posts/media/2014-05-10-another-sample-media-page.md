@@ -20,11 +20,12 @@ We first need define (1) the species names (or genera, etc) that will be sampled
 
 For this example, we're going to work with the New World vulture family (Cathartidae). Four species within families Accipitridae, Pandionidae and Falconidae will be selected as as outgroups.
 
-Libraries taxize, plyr, utils and seqRFLP are required for this tutorial.
+Libraries taxize, plyr, dplyr, utils and seqRFLP are required for completing this tutorial.
 
 <pre style="background:#fff;color:#3b3b3b">library(<span style="color:#0053ff;font-weight:700">traits</span>)
 library(<span style="color:#0053ff;font-weight:700">taxize</span>)
 library(<span style="color:#0053ff;font-weight:700">plyr</span>)
+library(<span style="color:#0053ff;font-weight:700">dplyr</span>)
 library(<span style="color:#0053ff;font-weight:700">utils</span>)
 library(<span style="color:#0053ff;font-weight:700">seqRFLP</span>)
 </pre>
@@ -48,7 +49,7 @@ Then, we just need to include the concatenate the ingroup and outgroup vectors.
 
 At this point, we will have the names for all the valid species within the ingroup and the species that will be sampled for the outgroup. Then, we have to figure out which genes are useful for building the phylogeny. For this, I'm going use Mike Sanderson's PhyloTa, but you can use any other source (e.g. papers).
 
-For Cathartidae, only three genes are indicated as phylogenetic informative clusters by phyloTa. Let's build a dataframe that summarizes PhyloTa information.
+Only three genes are indicated as phylogenetic informative clusters by phyloTa for Cathartidae. Let's build a dataframe that summarizes PhyloTa information.
 
 <pre style="background:#fff;color:#3b3b3b"><span style="color:#0053ff;font-weight:700">genes</span><span style="color:#069;font-weight:700">&lt;-</span>c(<span style="color:#666">"MB"</span>, <span style="color:#666">"cytochrome b"</span>, <span style="color:#666">"COI"</span>)
 <span style="color:#0053ff;font-weight:700">range_min</span><span style="color:#069;font-weight:700">&lt;-</span>c(<span style="color:#a8017e">709</span>, <span style="color:#a8017e">1009</span>, <span style="color:#a8017e">520</span>)
@@ -56,3 +57,50 @@ For Cathartidae, only three genes are indicated as phylogenetic informative clus
 <span style="color:#0053ff;font-weight:700">gene_Samp</span><span style="color:#069;font-weight:700">&lt;-</span>cbind.data.frame(<span style="color:#0053ff;font-weight:700">genes</span>, <span style="color:#0053ff;font-weight:700">range_min</span>,<span style="color:#0053ff;font-weight:700">range_max</span>)
 
 </pre>
+
+Thanks to Scott Chamberlain, traits package is now working pretty good. ncbi_byname function retrieves the longest sequence for a locus given a species name (when available in genbank). I'm using a loop despite the multiple alternatives. The progress bar shows the percentage of genes that has been mined for all the species:
+
+<pre style="background:#fff;color:#3b3b3b"><span style="color:#0053ff;font-weight:700">pb</span> <span style="color:#069;font-weight:700">&lt;-</span> txtProgressBar(<span style="color:#0053ff;font-weight:700">min</span> <span style="color:#069;font-weight:700">=</span> <span style="color:#a8017e">0</span>, <span style="color:#0053ff;font-weight:700">max</span> <span style="color:#069;font-weight:700">=</span> length(<span style="color:#0053ff;font-weight:700">genes</span>), <span style="color:#0053ff;font-weight:700">style</span> <span style="color:#069;font-weight:700">=</span> <span style="color:#a8017e">3</span>)
+
+<span style="color:#0053ff;font-weight:700">sequen</span><span style="color:#069;font-weight:700">&lt;-</span><span style="color:#a535ae">NULL</span>
+<span style="color:#069;font-weight:700">for</span> (<span style="color:#0053ff;font-weight:700">i</span> <span style="color:#069;font-weight:700">in</span> <span style="color:#a8017e">1</span><span style="color:#069;font-weight:700">:</span> length(<span style="color:#0053ff;font-weight:700">genes</span>)){
+  <span style="color:#0053ff;font-weight:700">sequen</span>[[<span style="color:#0053ff;font-weight:700">i</span>]] <span style="color:#069;font-weight:700">&lt;-</span>ldply(ncbi_byname(<span style="color:#0053ff;font-weight:700">taxa</span>=<span style="color:#0053ff;font-weight:700">sampling</span>, <span style="color:#0053ff;font-weight:700">gene</span> <span style="color:#069;font-weight:700">=</span> as.character(<span style="color:#0053ff;font-weight:700">gene_Samp</span><span style="color:#069;font-weight:700">$</span><span style="color:#0053ff;font-weight:700">genes</span>),
+                                  <span style="color:#0053ff;font-weight:700">seqrange</span> <span style="color:#069;font-weight:700">=</span> paste0(<span style="color:#0053ff;font-weight:700">gene_Samp</span><span style="color:#069;font-weight:700">$</span><span style="color:#0053ff;font-weight:700">range_min</span>[<span style="color:#0053ff;font-weight:700">i</span>],<span style="color:#666">":"</span>, <span style="color:#0053ff;font-weight:700">gene_Samp</span><span style="color:#069;font-weight:700">$</span><span style="color:#0053ff;font-weight:700">range_max</span>[<span style="color:#0053ff;font-weight:700">i</span>]), <span style="color:#0053ff;font-weight:700">getrelated</span> <span style="color:#069;font-weight:700">=</span> <span style="color:#a535ae">F</span>, <span style="color:#0053ff;font-weight:700">verbose</span> <span style="color:#069;font-weight:700">=</span> <span style="color:#a535ae">F</span>)
+                      , <span style="color:#0053ff;font-weight:700">data.frame</span>)
+  setTxtProgressBar(<span style="color:#0053ff;font-weight:700">pb</span>, <span style="color:#0053ff;font-weight:700">i</span>)
+}
+</pre>
+
+As expected, not all species have published sequences for all gene (or any). Let's transform our list of sequences (sequen object) into a data frame:
+
+<pre style="background:#fff;color:#3b3b3b"><span style="color:#0053ff;font-weight:700">umds</span><span style="color:#069;font-weight:700">&lt;-</span><span style="color:#a535ae">NULL</span>
+<span style="color:#0053ff;font-weight:700">dat</span><span style="color:#069;font-weight:700">&lt;-</span><span style="color:#a535ae">NULL</span>
+<span style="color:#0053ff;font-weight:700">pb</span> <span style="color:#069;font-weight:700">&lt;-</span> txtProgressBar(<span style="color:#0053ff;font-weight:700">min</span> <span style="color:#069;font-weight:700">=</span> <span style="color:#a8017e">0</span>, <span style="color:#0053ff;font-weight:700">max</span> <span style="color:#069;font-weight:700">=</span> length(<span style="color:#0053ff;font-weight:700">sequen</span>), <span style="color:#0053ff;font-weight:700">style</span> <span style="color:#069;font-weight:700">=</span> <span style="color:#a8017e">3</span>)
+<span style="color:#069;font-weight:700">for</span> (<span style="color:#0053ff;font-weight:700">i</span> <span style="color:#069;font-weight:700">in</span> <span style="color:#a8017e">1</span><span style="color:#069;font-weight:700">:</span>length(<span style="color:#0053ff;font-weight:700">sequen</span>)){
+  <span style="color:#0053ff;font-weight:700">umds</span> <span style="color:#069;font-weight:700">&lt;-</span> <span style="color:#0053ff;font-weight:700">sequen</span>[[<span style="color:#0053ff;font-weight:700">i</span>]]
+  <span style="color:#0053ff;font-weight:700">namege</span><span style="color:#069;font-weight:700">&lt;-</span>cbind(<span style="color:#0053ff;font-weight:700">gene</span>=rep(<span style="color:#0053ff;font-weight:700">genes</span>[<span style="color:#0053ff;font-weight:700">i</span>], dim(<span style="color:#0053ff;font-weight:700">umds</span>)[<span style="color:#a8017e">1</span>]),<span style="color:#0053ff;font-weight:700">umds</span>)
+  <span style="color:#0053ff;font-weight:700">dat</span><span style="color:#069;font-weight:700">&lt;-</span>rbind(<span style="color:#0053ff;font-weight:700">dat</span>, <span style="color:#0053ff;font-weight:700">namege</span>)
+  setTxtProgressBar(<span style="color:#0053ff;font-weight:700">pb</span>, <span style="color:#0053ff;font-weight:700">i</span>)
+}
+</pre>
+
+...And remove the rows without sequence information
+
+newdat<-dat[!dat$sequence=="NA",]
+
+We can then export each set of sequences to a fasta file.
+
+
+<pre style="background:#fff;color:#3b3b3b"><span style="color:#0053ff;font-weight:700">genex</span><span style="color:#069;font-weight:700">&lt;-</span><span style="color:#a535ae">NULL</span>
+<span style="color:#0053ff;font-weight:700">sequences</span><span style="color:#069;font-weight:700">&lt;-</span><span style="color:#ff5600">list</span>()
+<span style="color:#0053ff;font-weight:700">pb</span> <span style="color:#069;font-weight:700">&lt;-</span> txtProgressBar(<span style="color:#0053ff;font-weight:700">min</span> <span style="color:#069;font-weight:700">=</span> <span style="color:#a8017e">0</span>, <span style="color:#0053ff;font-weight:700">max</span> <span style="color:#069;font-weight:700">=</span> length(unique(<span style="color:#0053ff;font-weight:700">newdat</span><span style="color:#069;font-weight:700">$</span><span style="color:#0053ff;font-weight:700">gene</span>), <span style="color:#0053ff;font-weight:700">style</span> <span style="color:#069;font-weight:700">=</span> <span style="color:#a8017e">3</span>)
+
+<span style="color:#069;font-weight:700">for</span> (<span style="color:#0053ff;font-weight:700">i</span> <span style="color:#069;font-weight:700">in</span> <span style="color:#a8017e">1</span><span style="color:#069;font-weight:700">:</span> length(unique(<span style="color:#0053ff;font-weight:700">newdat</span><span style="color:#069;font-weight:700">$</span><span style="color:#0053ff;font-weight:700">gene</span>))){
+      <span style="color:#0053ff;font-weight:700">genex</span><span style="color:#069;font-weight:700">&lt;-</span> <span style="color:#0053ff;font-weight:700">newdat</span>[<span style="color:#0053ff;font-weight:700">newdat</span><span style="color:#069;font-weight:700">$</span><span style="color:#0053ff;font-weight:700">gene</span><span style="color:#069;font-weight:700">=</span><span style="color:#069;font-weight:700">=</span>unique(<span style="color:#0053ff;font-weight:700">newdat</span><span style="color:#069;font-weight:700">$</span><span style="color:#0053ff;font-weight:700">gene</span>)[<span style="color:#0053ff;font-weight:700">i</span>],][,c(<span style="color:#a8017e">2</span>,<span style="color:#a8017e">7</span>)]
+      <span style="color:#0053ff;font-weight:700">sequences</span>[[<span style="color:#0053ff;font-weight:700">i</span>]] <span style="color:#069;font-weight:700">&lt;-</span> dataframe2fas(<span style="color:#0053ff;font-weight:700">genex</span>)
+      write.fasta(dataframe2fas(<span style="color:#0053ff;font-weight:700">genex</span>), <span style="color:#0053ff;font-weight:700">file</span>=paste0(unique(<span style="color:#0053ff;font-weight:700">newdat</span><span style="color:#069;font-weight:700">$</span><span style="color:#0053ff;font-weight:700">gene</span>)[<span style="color:#0053ff;font-weight:700">i</span>], <span style="color:#666">"Cathartidae"</span>, <span style="color:#666">".fasta"</span>))
+      setTxtProgressBar(<span style="color:#0053ff;font-weight:700">pb</span>, <span style="color:#0053ff;font-weight:700">i</span>)
+                     }
+</pre>
+
+We're done. The files will be in the working directory.
