@@ -1,6 +1,7 @@
 # Site wide configuration
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 title: Home
 description: "My personal Website"
 logo: 120x120.gif
@@ -8,6 +9,8 @@ teaser: 400x250.gif
 locale: en_US
 url: http://cromanpa94.github.io/cromanpa
 =======
+=======
+>>>>>>> mmistakes/master
 title: "My Site"
 description: "This is a description of my awesome site."
 logo: # 120x120 px default image used for Twitter summary card
@@ -16,6 +19,9 @@ locale: en
 url:
 feed:
   path: atom.xml
+<<<<<<< HEAD
+>>>>>>> mmistakes/master
+=======
 >>>>>>> mmistakes/master
 
 # Jekyll configuration
