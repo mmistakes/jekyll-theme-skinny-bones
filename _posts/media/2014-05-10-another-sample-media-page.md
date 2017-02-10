@@ -12,7 +12,7 @@ image:
   creditlink: http://mademistakes.com
 ---
 
-Several pipelines are currently available for mining GenBank for a given taxon set (see SUPERSMART and PHLAWD). However, the main goal of this tutorial is to retrieve all the available sequences for a series of species within R.    
+Several pipelines are currently available for mining GenBank database for a given lineage (see SUPERSMART and PHLAWD). The main goal of this tutorial is largely similar, but using an straightforward way for retrieving the sequences. I'm not doing any sort of blasting here but I'll do it in a future version.
 
 ### Materials
 
@@ -23,7 +23,7 @@ Several pipelines are currently available for mining GenBank for a given taxon s
 
 ### Results
 
-- Fasta file containing all the species sampled in genbank (per locus)
+- A Fasta file containing all the species with published sequences (per locus)
 - Sampling matrix (Accession numbers)
 
 ### Hands on!
