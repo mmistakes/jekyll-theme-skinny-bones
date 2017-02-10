@@ -142,8 +142,8 @@ The unaligned fasta files will be in the working directory but we still need to 
 Let's apply the function and create a column on our dataset named acc_no
 
 <pre style="background:#fff;color:#3b3b3b"><span style="color:#0053ff;font-weight:700">accn</span><span style="color:#069;font-weight:700">&lt;-</span>unlist(pblapply(<span style="color:#0053ff;font-weight:700">sea</span>,<span style="color:#0053ff;font-weight:700">m.boot</span>))
-<span style="color:#0053ff;font-weight:700">newdat</span><span style="color:#069;font-weight:700">$</span><span style="color:#0053ff;font-weight:700">acc_no</span><span style="color:#069;font-weight:700">&lt;-</span><span style="color:#0053ff
-
+<span style="color:#0053ff;font-weight:700">newdat</span><span style="color:#069;font-weight:700">$</span><span style="color:#0053ff;font-weight:700">acc_no</span><span style="color:#069;font-weight:700">&lt;-</span><span style="color:#0053ff;font-weight:700">accn</span>
+</pre>
 
 Is just matter of building a sampling matrix
 
