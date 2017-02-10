@@ -5,10 +5,7 @@ categories: media
 excerpt: "How to download GenBank sequences for a given lineage."
 ads: false
 share: false
-image:
-  feature: branch-1600x800.jpg
-  teaser: branch-400x250.jpg
-  credit: Cristian Roman
+
 ---
 
 Several pipelines are currently available for mining GenBank database for a given lineage (see SUPERSMART and PHLAWD). The main goal of this tutorial is largely similar, but using an straightforward way for retrieving the sequences. I'm not doing any sort of blasting here but I'll do it in a future version.
