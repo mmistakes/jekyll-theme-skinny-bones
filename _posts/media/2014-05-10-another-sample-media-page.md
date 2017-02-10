@@ -31,7 +31,7 @@ library(<span style="color:#0053ff;font-weight:700">seqRFLP</span>)
 
 After loading the libraries, we have to know all the accepted species within the ingroup. We're going to downstream function (taxize) for retrieving from col (catalogue of life) all the species assigned to Cathartidae.
 
-<pre style="background:#fff;color:#3b3b3b"><span style="color:#0053ff;font-weight:700">Ingroup</span> <span style="color:#069;font-weight:700">&lt;-</span> downstream(<span style="color:#666">"Cathartidae"</span>, <span style="color:#0053ff;font-weight:700">db</span> <span style="color:#069;font-weight:700">=</span> <span style="color:#666">'col'</span>, <span style="color:#0053ff;font-weight:700">downto</span> <span style="color:#069;font-weight:700">=</span> <span style="color:#666">'species'</span>)
+<pre style="background:#fff;color:#3b3b3b"><span style="color:#0053ff;font-weight:700">ingorup</span> <span style="color:#069;font-weight:700">&lt;-</span> downstream(<span style="color:#666">"Cathartidae"</span>, <span style="color:#0053ff;font-weight:700">db</span> <span style="color:#069;font-weight:700">=</span> <span style="color:#666">'col'</span>, <span style="color:#0053ff;font-weight:700">downto</span> <span style="color:#069;font-weight:700">=</span> <span style="color:#666">'species'</span>)[[<span style="color:#a8017e">1</span>]]<span style="color:#069;font-weight:700">$</span><span style="color:#0053ff;font-weight:700">childtaxa_name</span>
 
 </pre>
 
