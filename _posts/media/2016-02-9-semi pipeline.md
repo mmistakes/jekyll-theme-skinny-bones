@@ -1,8 +1,8 @@
 ---
 layout: media
-title: "Building phylogenies from the scratch"
+title: "Concatenate alignments"
 categories: media
-excerpt: "How to download GenBank sequences for a given lineage."
+excerpt: "Concatenate sequences in R."
 ads: false
 share: false
 image:
