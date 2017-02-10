@@ -118,15 +118,13 @@ We can then export each set of sequences to a fasta file.
                      }
 </pre>
 
-We're almost done. The sequences will be in the working directory but we still need to retrieve the accession number for each sequence. The following function does some scrapping based on the gi numbers.
+The unaligned fasta files will be in the working directory but we still need to retrieve the accession number for each sequence. The following function does some scrapping based on the gi numbers.
 
 <pre style="background:#fff;color:#3b3b3b"><span style="color:#0053ff;font-weight:700">sea</span><span style="color:#069;font-weight:700">&lt;-</span> <span style="color:#0053ff;font-weight:700">newdat</span><span style="color:#069;font-weight:700">$</span><span style="color:#0053ff;font-weight:700">gi_no</span>
 <span style="color:#0053ff;font-weight:700">ja</span><span style="color:#069;font-weight:700">&lt;-</span><span style="color:#a535ae">NULL</span>
 <span style="color:#0053ff;font-weight:700">ji</span><span style="color:#069;font-weight:700">&lt;-</span><span style="color:#a535ae">NULL</span>
 <span style="color:#0053ff;font-weight:700">ju</span><span style="color:#069;font-weight:700">&lt;-</span><span style="color:#a535ae">NULL</span>
-library(<span style="color:#0053ff;font-weight:700">XML</span>)
-library(<span style="color:#0053ff;font-weight:700">RCurl</span>)
-<span style="color:#af82d4">####</span>
+
 <span style="color:#21439c">m.boot</span> <span style="color:#069;font-weight:700">&lt;-</span> <span style="color:#069;font-weight:700">function</span>(<span style="color:#0053ff;font-weight:700">sea</span>) {
   tryCatch({
     <span style="color:#0053ff;font-weight:700">dir</span><span style="color:#069;font-weight:700">&lt;-</span>paste0(<span style="color:#666">"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nucleotide&amp;id="</span>, <span style="color:#0053ff;font-weight:700">sea</span>, <span style="color:#666">"&amp;rettype=gb&amp;retmode=xml"</span>)
@@ -137,6 +135,7 @@ library(<span style="color:#0053ff;font-weight:700">RCurl</span>)
   }
   , <span style="color:#0053ff;font-weight:700">error</span>=<span style="color:#069;font-weight:700">function</span>(<span style="color:#0053ff;font-weight:700">e</span>){})
 }
+
 </pre>
 
 
