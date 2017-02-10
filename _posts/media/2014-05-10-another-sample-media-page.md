@@ -1,9 +1,9 @@
 ---
 layout: media
-title: "Another Media Post with Large Feature Image"
+title: "Building phylogenies from the scratch"
 categories: media
-excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
-ads: true
+excerpt: "How to download GenBank sequences for a given lineage."
+ads: false
 share: false
 image:
   feature: branch-1600x800.jpg
