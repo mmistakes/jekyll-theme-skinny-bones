@@ -1,13 +1,13 @@
 ---
 layout: article
-title: "About"
-date: 2014-06-02T09:44:20-04:00
-modified: 2014-08-27T14:56:44-04:00
-excerpt: "This is the Skinny Bones about page."
+title: About
+date: 2014-06-02 13:44:20 +0000
+modified: 2014-08-27 18:56:44 +0000
+excerpt: This is the Skinny Bones about page.
 image:
-  feature:
-  teaser:
-  thumb:
+  feature: 
+  teaser: 
+  thumb: 
 share: false
 ads: false
 ---

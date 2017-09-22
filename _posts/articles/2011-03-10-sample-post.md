@@ -1,11 +1,13 @@
 ---
 layout: article
-title: "Sample Post Style Guide"
+title: Sample Post Style Guide
 categories: articles
-modified: 2016-06-01T16:28:11-04:00
-tags: [sample]
+modified: 2016-06-01 20:28:11 +0000
+tags:
+- sample
 comments: true
 ads: true
+date: 2011-03-10 00:00:00 +0000
 ---
 
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
