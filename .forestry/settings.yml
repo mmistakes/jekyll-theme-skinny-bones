@@ -1,0 +1,9 @@
+---
+upload_path: "/uploads/:year:/:month:/:day:"
+frontmatter_file_url_template: "/uploads/:year:/:month:/:day:"
+body_file_url_template: "/uploads/:year:/:month:/:day:"
+new_page_extension: md
+auto_deploy: false
+admin_path: 
+webhook_url: 
+collections: 
