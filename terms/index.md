@@ -1,12 +1,13 @@
 ---
 layout: article
-title: "Terms & Conditions"
-modified: 2014-08-27T15:00:35-04:00
-excerpt: "Terms & conditions, privacy policy, license, and other legal stuff you won’t read."
+title: Terms & Conditions
+modified: 2014-08-27 19:00:35 +0000
+excerpt: Terms & conditions, privacy policy, license, and other legal stuff you won’t
+  read.
 image:
-  feature:
-  teaser:
-  thumb:
+  feature: 
+  teaser: 
+  thumb: 
 share: false
 toc: true
 ---

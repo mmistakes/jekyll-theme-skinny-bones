@@ -1,15 +1,16 @@
 ---
 layout: article
-title: "Video Post Test"
-date: 2014-05-31T23:14:02-04:00
-modified:
+title: Video Post Test
+date: 2014-06-01 03:14:02 +0000
+modified: 
 categories: articles
-excerpt: "A post with a YouTube video."
-tags: [video]
+excerpt: A post with a YouTube video.
+tags:
+- video
 ads: true
 image:
-  feature:
-  teaser:
+  feature: 
+  teaser: 
 ---
 
 Here's a sample video to test FitVid.js

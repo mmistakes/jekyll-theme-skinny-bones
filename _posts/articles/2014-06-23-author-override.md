@@ -1,17 +1,17 @@
 ---
 layout: article
-title: "Author Override"
-date: 2014-06-23T16:19:16-04:00
+title: Author Override
+date: 2014-06-23 20:19:16 +0000
 author: billy_rick
-modified:
+modified: 
 categories: articles
-excerpt: "A post to test author overrides using a data file."
+excerpt: A post to test author overrides using a data file.
 tags: []
 ads: true
 image:
-  feature:
-  teaser:
-  thumb:
+  feature: 
+  teaser: 
+  thumb: 
 ---
 
 For those of you who may have content written by multiple authors on your site you can assign different authors to each post if desired.
