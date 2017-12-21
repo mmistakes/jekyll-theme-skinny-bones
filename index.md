@@ -9,18 +9,18 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Research interests</h2>
-  <p class="post-excerpt">I'm interested in understanding large scale patterns and processes of biodiversity </p>
+  <p class="post-excerpt">I'm interested in understanding different large scale patterns and processes of biodiversity </p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Bio</h2>
-  <p class="post-excerpt"> I was born in Armenia, Quindío. A nice place in Colombian andes surrounded by stunning landscapes!. My family has been always the foundations in my academic and personal interestes.</p>
+  <p class="post-excerpt"> I was born in the Colombian Andes (Armenia, Quindío) surrounded by stunning landscapes, amazing biodiversity and good friends!</p>
 
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Affiliations</h2>
-  <p class="post-excerpt">I'm a first year Ph.D. student at the University of Arizona, working at Wiens lab. I also collaborate with three research groups in Colombia: "Biodiversidad animal" from the Universidad del Quindío (Armenia), besides ”GIE" and "Ceiba" from the Universidad del Valle (Cali).</p>
+  <p class="post-excerpt">I'm a Ph.D. student working at Wiens lab. I also collaborate with three research groups in Colombia: "Biodiversidad animal" (Universidad del Quindío; Armenia), ”GIE" and "Ceiba" (Universidad del Valle; Cali).</p>
 </div><!-- /.tile -->
 
 <div class="tile">
