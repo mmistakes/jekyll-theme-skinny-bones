@@ -2,14 +2,7 @@
 
 - title: CV
   url: /CV/
-  excerpt: "Brief summary of my academic background."
-
 - title: Publications
   url: /articles/
-  excerpt: "Datasets, SI, Scripts."
-  image: Thyrso_1.jpg
-
 - title: Contact
   url: /contact/
-  excerpt: "Feel free to email me."
-  image: 400x250.gif
