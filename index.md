@@ -9,7 +9,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Research interests</h2>
-  <p class="post-excerpt">I'm interested in understanding the large-scale patterns and processes of life from an evolutionary perspective. However, I really like to combine multiple disciplines! </p>
+  <p class="post-excerpt">I'm interested in understanding large scale patterns and processes of biodiversity </p>
 </div><!-- /.tile -->
 
 <div class="tile">
