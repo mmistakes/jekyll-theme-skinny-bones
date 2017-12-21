@@ -17,7 +17,9 @@ share: false
 
 12. Cristian Román-P,Sara Fernandez Garzon, Sara Fernández–Garzón, Alejandro Valencia–Zuleta, Andrés F. Jaramillo–Martínez, Ronald A. Viáfara–Vega. Lista anotada de la herpetofauna del departamento del Quindío, Colombia. Biota Colombiana, 18: 251 - 281, 2017. <a target="_blank" href="http://repository.humboldt.org.co/bitstream/handle/20.500.11761/33643/16%20Rom%C3%A1n-Palacios%20et%20al.%202017.pdf?sequence=4&isAllowed=y">PDF</a>
 
-11. Cristian Román-P, Alfonso N. García Aldrete, and Ranulfo Gonzalez Obando. Historical biogeography of Thyrsophorini psocids and description of a new Neotropical species of Thyrsopsocopsis (Psocodea: Psocomorpha: Psocidae). European Journal of Entomology. 194:1-16, 2016.  <a target="_blank" href="http://www.europeanjournaloftaxonomy.eu/index.php/ejt/article/view/316/631">PDF</a> and <a target="_blank" href="http://www.europeanjournaloftaxonomy.eu/index.php/ejt/article/downloadSuppFile/316/34>supplement</a>
+11. Cristian Román-P, Alfonso N. García Aldrete, and Ranulfo Gonzalez Obando. Historical biogeography of Thyrsophorini psocids and description of a new Neotropical species of Thyrsopsocopsis (Psocodea: Psocomorpha: Psocidae). European Journal of Entomology. 194:1-16, 2016.  <a target="_blank" href="http://www.europeanjournaloftaxonomy.eu/index.php/ejt/article/view/316/631">PDF</a>
+
+<a target="_blank" href="http://www.europeanjournaloftaxonomy.eu/index.php/ejt/article/downloadSuppFile/316/34>supplement</a>
 
 
 10. Cristian Román-P,Sara Fernandez Garzon, Jenny Johana Gallo Franco, Alan Giraldo Lopez, Monica Hernandez Lopez, Wilmar Bolivar Garcia. Uso de microhábitat por anuros en un fragmento de bosque seco intervenido del magdalena medio, Guarinocito, Colombia. Boletín Científico Centro De Museos Museo De Historia Natural, 20: 181 - 196, 2017. <a target="_blank" href="http://www.scielo.org.co/pdf/bccm/v20n2/v20n2a14.pdf">PDF</a> 

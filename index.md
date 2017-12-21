@@ -8,7 +8,7 @@ image:
 <div class="tiles">
 
 <div class="tile">
-  <h2 class="post-title">Research interests</h2>
+  <h2 class="post-title">Research</h2>
   <p class="post-excerpt">I'm interested in understanding different large scale patterns and processes of biodiversity </p>
 </div><!-- /.tile -->
 
