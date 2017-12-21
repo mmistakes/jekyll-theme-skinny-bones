@@ -13,9 +13,7 @@ share: false
 ---
 
 
-13. Cristian Román-P, Yherson Franchesco Molina-Henao, Ranulfo Gonzalez-Obando. On the divergence of Psocidae (Psocodea, Psocomorpha): Fossils or biogeography. Boletin del Museo de Entomologia de la Universidad del Valle, 17: 37 - 46, 2017.
-
-<a href="http://entomologia.univalle.edu.co/boletin/5Roman-Palacios.pdf">Link</a>
+13. Cristian Román-P, Yherson Franchesco Molina-Henao, Ranulfo Gonzalez-Obando. On the divergence of Psocidae (Psocodea, Psocomorpha): Fossils or biogeography. Boletin del Museo de Entomologia de la Universidad del Valle, 17: 37 - 46, 2017. <a target="_blank" href="http://entomologia.univalle.edu.co/boletin/5Roman-Palacios.pdf">PDF</a>
 
 12. Cristian Román-P,Sara Fernandez Garzon, Sara Fernández–Garzón, Alejandro Valencia–Zuleta, Andrés F. Jaramillo–Martínez, Ronald A. Viáfara–Vega. Lista anotada de la herpetofauna del departamento del Quindío, Colombia. Biota Colombiana, 18: 251 - 281, 2017.
 
