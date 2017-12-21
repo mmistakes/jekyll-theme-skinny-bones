@@ -10,11 +10,9 @@ image:
 share: false
 ads: false
 ---
+Email: cromanpa94@email.arizona.edu. 
 
-I'm always available through email: cromanpa94@email.arizona.edu. 
-
-The following form also works! Feel free to contact me by email.
-
+Fill out the following form or shoot me an emnail
 
 <div id="wufoo-z1nmflk00kkq58w">
 Fill out my <a href="https://cromanps94.wufoo.com/forms/z1nmflk00kkq58w">online form</a>.
