@@ -12,4 +12,4 @@ image:
 share: false
 ---
 
-<iframe src="https://drive.google.com/file/d/0B9JIlsQYkQBWenhsRVlqWGRtc0E/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/0B9JIlsQYkQBWenhsRVlqWGRtc0E/preview" width="1000" height="800"></iframe>
