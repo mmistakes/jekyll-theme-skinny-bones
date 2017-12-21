@@ -12,7 +12,7 @@ ads: false
 ---
 Email: cromanpa94@email.arizona.edu. 
 
-Fill out the following form or shoot me an emnail
+Fill out the following form or shoot me an email
 
 <div id="wufoo-z1nmflk00kkq58w">
 Fill out my <a href="https://cromanps94.wufoo.com/forms/z1nmflk00kkq58w">online form</a>.
