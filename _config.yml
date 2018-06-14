@@ -2,7 +2,7 @@
 
 title: "My Site"
 description: "This is a description of my awesome site."
-logo: # 120x120 px default image used for Twitter summary card
+logo: https://media.discordapp.net/attachments/430140342352871436/435686926733803520/Screen_Shot_2018-04-17_at_01.20.01.png# 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
 url:
