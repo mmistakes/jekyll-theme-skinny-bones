@@ -15,7 +15,7 @@ share: false
 
 13. Cristian Román-P, Yherson Franchesco Molina-Henao, Ranulfo Gonzalez-Obando. On the divergence of Psocidae (Psocodea, Psocomorpha): Fossils or biogeography. Boletin del Museo de Entomologia de la Universidad del Valle, 17: 37 - 46, 2017. <a target="_blank" href="http://entomologia.univalle.edu.co/boletin/5Roman-Palacios.pdf">PDF</a>
 
-12. Cristian Román-P,Sara Fernandez Garzon, Sara Fernández–Garzón, Alejandro Valencia–Zuleta, Andrés F. Jaramillo–Martínez, Ronald A. Viáfara–Vega. Lista anotada de la herpetofauna del departamento del Quindío, Colombia. Biota Colombiana, 18: 251 - 281, 2017. <a target="_blank" href="http://repository.humboldt.org.co/bitstream/handle/20.500.11761/33643/16%20Rom%C3%A1n-Palacios%20et%20al.%202017.pdf?sequence=4&isAllowed=y">PDF</a>
+12. Cristian Román-P,Sara Fernandez Garzon, Alejandro Valencia–Zuleta, Andrés F. Jaramillo–Martínez, Ronald A. Viáfara–Vega. Lista anotada de la herpetofauna del departamento del Quindío, Colombia. Biota Colombiana, 18: 251 - 281, 2017. <a target="_blank" href="http://repository.humboldt.org.co/bitstream/handle/20.500.11761/33643/16%20Rom%C3%A1n-Palacios%20et%20al.%202017.pdf?sequence=4&isAllowed=y">PDF</a>
 
 11. Cristian Román-P, Alfonso N. García Aldrete, and Ranulfo Gonzalez Obando. Historical biogeography of Thyrsophorini psocids and description of a new Neotropical species of Thyrsopsocopsis (Psocodea: Psocomorpha: Psocidae). European Journal of Entomology. 194:1-16, 2016.  <a target="_blank" href="http://www.europeanjournaloftaxonomy.eu/index.php/ejt/article/view/316/631">PDF</a> and <a target="_blank" href="http://www.europeanjournaloftaxonomy.eu/index.php/ejt/article/downloadSuppFile/316/34">Supplement</a>
 
@@ -41,3 +41,11 @@ share: false
 1. Cristian Román-P, Cesar Román Valencia, and Donald C. Taphorn. Trophic and reproductive ecology of a neotropical characid fish Hemibrycon brevispini (Teleostei: Characiformes). Caldasia, 36(2):289–304, 2014.  <a target="_blank" href="https://revistas.unal.edu.co/index.php/cal/article/view/47487/49511">PDF</a>
 
 ---
+
+
+
+
+
+
+
+
