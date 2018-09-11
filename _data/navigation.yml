@@ -1,6 +1,8 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: CV
+  url: /CV/
+- title: Publications
+  url: /articles/
+- title: Contact
+  url: /contact/
