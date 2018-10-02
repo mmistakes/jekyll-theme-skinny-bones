@@ -7,8 +7,8 @@ teaser: 400x250.gif
 locale: en_US
 #url: "https://emac.github.io"
 url:
-feed:
-  path: atom.xml
+#feed:
+#  path: atom.xml
 
 # Jekyll configuration
 
@@ -19,10 +19,10 @@ permalink: /:categories/:title/
 kramdown:
   toc_levels: 1..2
 highlighter: rouge
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+ # - jekyll-feed
 
 
 # Site owner
