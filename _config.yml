@@ -5,7 +5,8 @@ description: "The Energy Modeling, Analysis and Control group @ UC Berkeley"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
-url: "https://emac.github.io"
+#url: "https://emac.github.io"
+url:
 feed:
   path: atom.xml
 
