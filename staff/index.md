@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: "Sample Media Gallery"
+title: "Sample Staff Gallery"
 date: 2014-05-30T11:40:45-04:00
 modified:
-excerpt: "An archive of media posts, perfect for portfolios and galleries."
+excerpt: "An archive of Staff Listings posts."
 tags: []
 image:
   feature:
@@ -11,7 +11,7 @@ image:
 ---
 
 <div class="tiles">
-{% for post in site.categories.media %}
+{% for post in site.categories.staff %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
