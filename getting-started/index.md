@@ -259,7 +259,7 @@ To add attribution to a feature image use the following YAML front matter on pos
 image:
   feature: feature-image-filename.jpg
   credit: Michael Rose #name of the person or site you want to credit
-  creditlink: https://mademistakes.com #url to their site or licensing
+#  creditlink: https://mademistakes.com #url to their site or licensing
 ```
 
 ##### Teasers Images
@@ -280,7 +280,7 @@ image:
   teaser: 400x250.gif
   feature: feature-image-filename.jpg
   credit: Michael Rose #name of the person or site you want to credit
-  creditlink: https://mademistakes.com #url to their site or licensing
+#  creditlink: https://mademistakes.com #url to their site or licensing
 ```
 
 #### Table of Contents
