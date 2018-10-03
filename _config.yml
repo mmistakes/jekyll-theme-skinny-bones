@@ -5,10 +5,9 @@ description: "The Energy Modeling, Analysis and Control group @ UC Berkeley"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
-#url: "https://emac.github.io"
-url:
-#feed:
-#  path: atom.xml
+url: "https://energy-mac.github.io"
+feed:
+  path: atom.xml
 
 # Jekyll configuration
 
@@ -22,13 +21,13 @@ highlighter: rouge
 plugins:
   - jekyll-sitemap
   - jekyll-gist
- # - jekyll-feed
+  - jekyll-feed
 
 
 # Site owner
 owner:
   name: "Duncan Callaway"
-  web: "https://emac.github.io"
+  web: "https://energy-mac.github.io"
   twitter: "duncancallaway"
   bio: "Head of The Energy Modeling, Analysis and Control (EMAC) group @ UC Berkeley"
   avatar: "bio-photo.jpg" # 160x160 px image for author byline
