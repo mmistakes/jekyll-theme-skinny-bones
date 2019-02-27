@@ -54,9 +54,9 @@ share: false
 
 >2015
 
-(6.) **ristian Román-P**** and Alfonso N. García Aldrete. A new Neotropical genus of Blastini (Psocodea:’Psocoptera’: Psocidae: Amphigerontiinae). Zootaxa, 4000(3):392-396, 2015. <a target="_blank" href="http://mapress.com/zootaxa/2015/f/zt04000p396.pdf">PDF</a>
+(6.) **Cristian Román-P**** and Alfonso N. García Aldrete. A new Neotropical genus of Blastini (Psocodea:’Psocoptera’: Psocidae: Amphigerontiinae). Zootaxa, 4000(3):392-396, 2015. <a target="_blank" href="http://mapress.com/zootaxa/2015/f/zt04000p396.pdf">PDF</a>
 
-(5.) **Daniela Moraga Lopez*** and Cristian Román-P*. Information criteria on multimodel selection of parametric regression: Biological applications. Revista Comunicaciones en Estadística, 8(1): 45-57, 2015. <a target="_blank" href="http://revistas.usta.edu.co/index.php/estadistica/article/view/1487/2197">PDF</a>
+(5.) Daniela Moraga Lopez and **Cristian Román-P***. Information criteria on multimodel selection of parametric regression: Biological applications. Revista Comunicaciones en Estadística, 8(1): 45-57, 2015. <a target="_blank" href="http://revistas.usta.edu.co/index.php/estadistica/article/view/1487/2197">PDF</a>
 
 (4.) **Cristian Román-P**, Ranulfo Gonzalez Obando, and Alfonso N. Garcia Aldrete. The genus Elaphopsocus Roesler (Psocodea:’Psocoptera’: Psocidae) with six new species from Brazil and Colombia. Zootaxa, 3957(2):151–168, 2015. <a target="_blank" href="https://biotaxa.org/Zootaxa/article/view/zootaxa.3957.2.1/13398">PDF</a>
 
