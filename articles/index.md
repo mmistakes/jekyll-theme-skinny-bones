@@ -20,29 +20,25 @@ Peer-reviewed articles
 
 **Research conducted during my undergrad
 
-2018-
+(2018)
 
 18. Meyer, A. L., Román‐Palacios, C., & Wiens, J. J. (2018). BAMM gives misleading rate estimates in simulated and empirical datasets. Evolution, 72, 2257-2266.
 
 17. Aldrete, A. N. G., Carrejo, N. S., Mendivil, J., Calderón, N., Saenz, O., Panche, J., Román- Palacios**,C., and Obando, R. G. (2018). Checklist of ‘Psocoptera’(Psocodea) of Colombia and identification key to the families. Dugesiana, 25(2), 77-103.
 
  
-
 16. Cristian Román-P and John J. Wiens. The Tortoise and the Finch: testing for island effects on diversification using two iconic Galápagos radiations. Journal of Biogeography. 2018. 10.1111/jbi.13366
 
  
-
 15. Cristian Román-P, Rosario Castañeda and Jose Julian Tavera. When did Anolis lizards diverge? A comparison of multiple dating strategies. Molecular Phylogenetics and Evolution. 2018. 10.1016/j.ympev.2018.06.012
 
  
-
 14. Cristian Román-P**, Jakob Damgaard, Cheng, Lanna, Felipe Ferraz Figueiredo Moreirae, Tom A. Weir and Herbert Zettle. Molecular phylogeny of sea skaters and their freshwater relatives (Hemiptera: Heteroptera: Gerridae: Halobatinae). Journal of Insect Systematics and Evolution. 2018. 
 
  
-
 13. Cristian Román-P* and Alejandro Valencia-Zuleta*. On the Data Deficient amphibians from Colombia. Revista de Biologia Tropical. 2017. 10.15517/rbt.v66i3.30818
 
-2017
+(2017)
 12. Cristian Román-P**, Yherson Franchesco Molina-Henao, Ranulfo Gonzalez-Obando. On the divergence of Psocidae (Psocodea, Psocomorpha): Fossils or biogeography. Boletin del Museo de Entomologia de la Universidad del Valle, 17: 37 - 46, 2017. <a target="_blank" href="http://entomologia.univalle.edu.co/boletin/5Roman-Palacios.pdf">PDF</a>
 
  
