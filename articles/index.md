@@ -64,7 +64,7 @@ Peer-reviewed articles
 
 2. **Cristian Román-P**, Cesar Román Valencia, and Donald C. Taphorn. Trophic and reproductive ecology of a neotropical characid fish Hemibrycon brevispini (Teleostei: Characiformes). Caldasia, 36(2):289–304, 2014. <a target="_blank" href="https://revistas.unal.edu.co/index.php/cal/article/view/47487/49511">PDF</a>
 
-1. **ristian Román-P**, Alfonso N. García Aldrete, and Ranulfo Gonzalez Obando. Elaphopsocoides, a new genus of Psocidae (Psocodea:' Psocoptera') from Valle del Cauca, Colombia. Zootaxa, 3873(1):93–100, 2014.  <a target="_blank" href="https://biotaxa.org/Zootaxa/article/view/zootaxa.3873.1.8/0">Link</a>
+1. **Cristian Román-P**, Alfonso N. García Aldrete, and Ranulfo Gonzalez Obando. Elaphopsocoides, a new genus of Psocidae (Psocodea:' Psocoptera') from Valle del Cauca, Colombia. Zootaxa, 3873(1):93–100, 2014.  <a target="_blank" href="https://biotaxa.org/Zootaxa/article/view/zootaxa.3873.1.8/0">Link</a>
 
 ---
 
