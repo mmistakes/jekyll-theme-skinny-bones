@@ -10,11 +10,10 @@ image:
   teaser:
   thumb:
 share: false
+
 ---
 
-
-
-##Peer-reviewed articles
+Peer-reviewed articles
 
 *Equal contribution
 
