@@ -22,23 +22,25 @@ share: false
 
 >2018
 
-(18.) Andreas, L. Meyer, **Cristian Román‐Palacios**, and John. J. Wiens (2018). BAMM gives misleading rate estimates in simulated and empirical datasets. Evolution, 72, 2257-2266.
+(18.) Andreas, L. Meyer, **Cristian Román‐Palacios**, and John. J. Wiens (2018). BAMM gives misleading rate estimates in simulated and empirical datasets. Evolution, 72, 2257-2266. <a target="_blank" href="https://onlinelibrary.wiley.com/doi/full/10.1111/evo.13574">PDF</a>
 
-(17.) Aldrete, A. N. G., Carrejo, N. S., Mendivil, J., Calderón, N., Saenz, O., Panche, J., **Román- Palacios**,C.**, and Obando, R. G. (2018). Checklist of ‘Psocoptera’(Psocodea) of Colombia and identification key to the families. Dugesiana, 25(2), 77-103.
+(17.) Aldrete, A. N. G., Carrejo, N. S., Mendivil, J., Calderón, N., Saenz, O., Panche, J., **Román- Palacios,C.**, and Obando, R. G. (2018). Checklist of ‘Psocoptera’(Psocodea) of Colombia and identification key to the families. Dugesiana, 25(2), 77-103. <a target="_blank" href="http://dugesiana.cucba.udg.mx/index.php/DUG/article/view/7031">PDF</a>
 
-(16.) **Cristian Román-P** and John J. Wiens. The Tortoise and the Finch: testing for island effects on diversification using two iconic Galápagos radiations. Journal of Biogeography. 2018. 10.1111/jbi.13366
+(16.) **Cristian Román-P** and John J. Wiens. The Tortoise and the Finch: testing for island effects on diversification using two iconic Galápagos radiations. Journal of Biogeography. 2018. <a target="_blank" href="https://onlinelibrary.wiley.com/doi/full/10.1111/jbi.13366">PDF</a>
 
-(15.) **Cristian Román-P**, Rosario Castañeda and Jose Julian Tavera. When did Anolis lizards diverge? A comparison of multiple dating strategies. Molecular Phylogenetics and Evolution. 2018. 10.1016/j.ympev.2018.06.012
+(15.) **Cristian Román-P**, Rosario Castañeda and Jose Julian Tavera. When did Anolis lizards diverge? A comparison of multiple dating strategies. Molecular Phylogenetics and Evolution. 2018. <a target="_blank" href="https://www.sciencedirect.com/science/article/pii/S1055790317308758?via%3Dihub">PDF</a>
 
-(14.) **Cristian Román-P****, Jakob Damgaard, Cheng, Lanna, Felipe Ferraz Figueiredo Moreirae, Tom A. Weir and Herbert Zettle. Molecular phylogeny of sea skaters and their freshwater relatives (Hemiptera: Heteroptera: Gerridae: Halobatinae). Journal of Insect Systematics and Evolution. 2018. 
+(14.) **Cristian Román-P****, Jakob Damgaard, Cheng, Lanna, Felipe Ferraz Figueiredo Moreirae, Tom A. Weir and Herbert Zettle. Molecular phylogeny of sea skaters and their freshwater relatives (Hemiptera: Heteroptera: Gerridae: Halobatinae). Journal of Insect Systematics and Evolution. 2018. <a target="_blank" href="https://brill.com/abstract/journals/ise/aop/article-10.1163-1876312X-00002197.xml?crawler=true&mimetype=application%2Fpdf">PDF</a>
 
-(13.) **Cristian Román-P*** and Alejandro Valencia-Zuleta*. On the Data Deficient amphibians from Colombia. Revista de Biologia Tropical. 2017. 10.15517/rbt.v66i3.30818
+
+
+(13.) **Cristian Román-P*** and Alejandro Valencia-Zuleta*. On the Data Deficient amphibians from Colombia. Revista de Biologia Tropical. 2017. 
 
 >2017
 
 (12.) **Cristian Román-P****, Yherson Franchesco Molina-Henao, Ranulfo Gonzalez-Obando. On the divergence of Psocidae (Psocodea, Psocomorpha): Fossils or biogeography. Boletin del Museo de Entomologia de la Universidad del Valle, 17: 37 - 46, 2017. <a target="_blank" href="http://entomologia.univalle.edu.co/boletin/5Roman-Palacios.pdf">PDF</a>
 
-(11.) **Cristian Román-P****,Sara Fernandez Garzon, Alejandro Valencia–Zuleta, Andrés F. Jaramillo–Martínez, Ronald A. Viáfara–Vega. Lista anotada de la herpetofauna del departamento del Quindío, Colombia. Biota Colombiana, 18: 251 - 281, 2017. PDF
+(11.) **Cristian Román-P****,Sara Fernandez Garzon, Alejandro Valencia–Zuleta, Andrés F. Jaramillo–Martínez, Ronald A. Viáfara–Vega. Lista anotada de la herpetofauna del departamento del Quindío, Colombia. Biota Colombiana, 18: 251 - 281, 2017. <a target="_blank" href="http://repository.humboldt.org.co/handle/20.500.11761/33643">PDF</a>
 
 (10.) **Cristian Román-P****, Alfonso N. García Aldrete, and Ranulfo Gonzalez Obando. Historical biogeography of Thyrsophorini psocids and description of a new Neotropical species of Thyrsopsocopsis (Psocodea: Psocomorpha: Psocidae). European Journal of Entomology. 194:1-16, 2016. <a target="_blank" href="http://www.europeanjournaloftaxonomy.eu/index.php/ejt/article/view/316/631">PDF</a> and <a target="_blank" href="http://www.europeanjournaloftaxonomy.eu/index.php/ejt/article/downloadSuppFile/316/34">Supplement</a>
 
