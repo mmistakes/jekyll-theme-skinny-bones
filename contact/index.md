@@ -11,10 +11,16 @@ share: false
 ads: false
 ---
 
-Cristian Roman-Palacios, Ph.D. student
+**Cristian Roman-Palacios**, *Ph.D. student*
+
 Department of Ecology and Evolutionary Biology 
+
 University of Arizona
+
 Biological Sciences West, Rm 310
+
 1041 E. Lowell St. 
+
 Tucson, AZ  85721
-cromanpa94@email.arizona.edu
+
+**cromanpa94@email.arizona.edu**
