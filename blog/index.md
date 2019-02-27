@@ -11,6 +11,8 @@ share: false
 ads: false
 ---
 
+Abajo estan mis entradas con informacion potencialmente util!
+
 [1. Aplicar a un posgrado en USA](https://github.com/cromanpa94/cromanpa/blob/gh-pages/blog/A.AppGradSc.md)
 
 
