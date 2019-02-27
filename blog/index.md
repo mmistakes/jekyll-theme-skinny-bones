@@ -11,7 +11,7 @@ share: false
 ads: false
 ---
 
-*En las lineas siguientes procuro hacer un resumen detallado sobre aspectos clave que pueden ser de interes para pretenden aplicar a un posgrado (i.e. maestria, doctorado) en US. Esta entrada es consecuencia directa de mi experiencia. No pretendo por lo tanto generalizar o implicar que esta es la unica forma de acceder a un programa de posgrado en US. Tambien, creo que resulta util indicar que el proceso de admisión, los requisitos, y demás varian entre programas. El proceso en general es bastante subjetivo, pero puedo resaltar algunos aspectos que son en su mayoria comunes para todos los departamentos que ofrecen posgrados. Me centro principalmente en Biologia y reconozco que ignoro cuan diferente es el proceso de admisión en otros programas.*
+*En las lineas que siguen, pretendo hacer un resumen detallado sobre aspectos clave que pueden ser de interes para pretenden aplicar a un posgrado (i.e. maestria, doctorado) en US. Esta entrada es consecuencia directa de mi experiencia. No pretendo por lo tanto generalizar o implicar que esta es la unica forma de acceder a un programa de posgrado en US. Tambien, creo que resulta util indicar que el proceso de admisión, los requisitos, y demás varian entre programas. El proceso en general es bastante subjetivo, pero puedo resaltar algunos aspectos que son en su mayoria comunes para todos los departamentos que ofrecen posgrados. Me centro principalmente en Biologia y reconozco que ignoro cuan diferente es el proceso de admisión en otros programas.*
 
  
 
