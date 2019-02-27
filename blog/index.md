@@ -11,8 +11,7 @@ share: false
 ads: false
 ---
 
-Biología - Posgrados en US
-En las lineas siguientes procuro hacer un resumen detallado sobre aspectos clave que pueden ser de interes para pretenden aplicar a un posgrado (i.e. maestria, doctorado) en US. Esta entrada es consecuencia directa de mi experiencia. No pretendo por lo tanto generalizar o implicar que esta es la unica forma de acceder a un programa de posgrado en US. Tambien, creo que resulta util indicar que el proceso de admisión, los requisitos, y demás varian entre programas. El proceso en general es bastante subjetivo, pero puedo resaltar algunos aspectos que son en su mayoria comunes para todos los departamentos que ofrecen posgrados. Me centro principalmente en Biologia y reconozco que ignoro cuan diferente es el proceso de admisión en otros programas.
+*En las lineas siguientes procuro hacer un resumen detallado sobre aspectos clave que pueden ser de interes para pretenden aplicar a un posgrado (i.e. maestria, doctorado) en US. Esta entrada es consecuencia directa de mi experiencia. No pretendo por lo tanto generalizar o implicar que esta es la unica forma de acceder a un programa de posgrado en US. Tambien, creo que resulta util indicar que el proceso de admisión, los requisitos, y demás varian entre programas. El proceso en general es bastante subjetivo, pero puedo resaltar algunos aspectos que son en su mayoria comunes para todos los departamentos que ofrecen posgrados. Me centro principalmente en Biologia y reconozco que ignoro cuan diferente es el proceso de admisión en otros programas.*
 
  
 
@@ -44,6 +43,7 @@ Comunmente, aplicar a un posgrado en US implica tener en cuenta los siguientes a
 
 7. Pagar la aplicación a cada programa
 
+
 **PosiblePlus1:  Hoja de vida
 
 **PosiblePlus2:  Interes de profesor(es) en el departamento
@@ -68,7 +68,7 @@ Tambien, los comités de admisión (formados por los mismos profesores del depar
 
  
 
-0. Fechas limite
+**0. Fechas limite
 
 Por lo general, las admisiones se abren anualmente durante Fall (mediados de agosto). Esto implica que los limites para aplicar a programas tienden a estar concentrados en los meses de Diciembre (año anterior) y Enero (mismo año). La fecha más común es Diciembre 1. Para entonces, los programas solicitan la mayor parte de la documentación, además del pago de la inscripción. 
 
@@ -90,7 +90,7 @@ Sintesis: Idealmente, el paquete de aplicación (sin cartas de recomendación, c
 
  
 
-1. Tener un titulo de pregrado/licenciatura 
+**1. Tener un titulo de pregrado/licenciatura 
 
 Este requisito varia entre programas y es en general no resulta especialmente problematico para la mayor parte de personas interesadas en aplicar a programas de posgrado. Sin embargo, para los programas basta (usualmente) con que el estudiante demuestre haber completado los requisitos para obtener el titulo. 
 
@@ -102,7 +102,7 @@ Este requisito varia entre programas y es en general no resulta especialmente pr
 
  
 
-2. Definir un profesor/laboratorio en donde quisiera continuar sus investigaciones
+**2. Definir un profesor/laboratorio en donde quisiera continuar sus investigaciones
 
 Este es el punto más crucial y el que muchos dejan a un lado. Es uno de los aspectos que se deben priorizar. Primero, **lo más complicado de un posgrado no es la ciencia, pero las personas**. Tener un profesor con buena capacidad de orientación, suficiente(?) experiencia investigativa, y personalidad tolerable es idealmente deseable. Segundo, el interes de un profesor (o un grupo de estos; ver PosiblePlus2 abajo) puede ser definitivo durante el proceso de admisión. Los profesores tienen en general voz y voto que puede influenciar las decisiones del comité. Más aún, el profesor con quien uno aplica puede ser parte del comité de admisiones.
 
@@ -166,7 +166,7 @@ Por ultimo pero no menos importante, procure enviar el correo durante el dia (i.
 
  
 
-3. Demostrar proficiencia linguistica (TOEFL)
+**3. Demostrar proficiencia linguistica (TOEFL)
 
 Este no es un examen imposible. Este es un examen en el que buenos puntajes se pueden obtener solamente (además de saber ingles basico) con conocer la estructura y practicar intensamente. Creo que el TOEFL más que conocimiento en ingles, pretende medir capacidad de respuesta y fluidez. Cae entonces en una circularidad por tener una estructura muy fija. Por ejemplo, a pesar de todas las variaciones que puedan haber sobre la pregunta 1 del componente oral, siempre va a seguir la misma estructura logica. Respuestas claras son cruciales, pero esto se mejora practicando.
 
@@ -194,7 +194,7 @@ Los resultados no tardan demasiado en estar disponibles. Es mejor tomar el exame
 
  
 
-4. Tomar el GRE test
+**4. Tomar el GRE test
 
 El GRE tampoco es un examen imposible, pero si más complicado (mucho?). Toda la prueba es en ingles (claro...) e incluye preguntas de comprensión lectora y matematicas. Además del puntaje, la medición del GRE se basa en un percentil (i.e. una comparación con respecto a un grupo). Entre mejor el percentil, mejor su desempeño relativo al grupo. 
 
@@ -212,7 +212,7 @@ Hay muchos programas que han salido de este requisito. Realmente en muchos casos
 
  
 
-5. Cartas de recomendación
+**5. Cartas de recomendación
 
 Este componente es un tanto independiente al aplicante. Sin embargo, es crucial seleccionar personas con quienes se haya tenido una relación laboral estrecha y esten además dispuestos a invertir un poco de tiempo en escribir una documento que resuma los puntos escenciales de su interacción.  Lo ideal es entonces tener en mente al menos tres personas quienes pudieran redactar una recomendación relativamente extensa sobre (1) quien es usted, y (2) sus habilidades (e.g. sociales, academicas). Esto quiere decir que una recomendación no es solamente una frase de apoyo. 
 
@@ -230,7 +230,7 @@ Por ultimo, es preferible considerar profesores. Una buena idea es tener al meno
 
  
 
-6. Ensayos
+**6. Ensayos
 
 Hay dos tipos de ensayos. Uno principalmente academico (AKA statement of purpose), y otro más personal (AKA personal statement). En mi experiencia, el primero no fue un requisito común para las aplicaciones. Muchas instituciones esperan que la orientación academica dentro del programa sea suficiente para guiar al estudiante a presentar una linea de investigación clara durante su pregrado. En otras palabras, ¿como pedir un resumen de la investigación que se planea hacer durante el doctorado a una persona que aún no inicia en el programa?. Aunque pedir o eximir el statement como requisito tiene consecuencias, esto es particular de cada institución.
 
@@ -258,7 +258,7 @@ Sin importar el ensayo, hay que cuidar mucho la redacción en el documento.
 
  
 
-7. Pagar la aplicación a cada programa
+**7. Pagar la aplicación a cada programa
 
 Aplicar a programas en US tiene un costo que ronda los $70-100. Algunos programas hacen excepciones sobre este costo, así que siempre es mejor preguntar. 
 
@@ -300,6 +300,6 @@ Gracias por leer! Espero haya sido de alguna forma ultil! Intentaré agregar má
 
  
 
-Mucha suerte! :)
+*****Mucha suerte! :)
 
  
