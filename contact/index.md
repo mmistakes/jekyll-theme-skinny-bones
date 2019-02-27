@@ -10,27 +10,11 @@ image:
 share: false
 ads: false
 ---
-Email: cromanpa94@email.arizona.edu. 
 
-Fill out the following form or shoot me an email
-
-<div id="wufoo-z1nmflk00kkq58w">
-Fill out my <a href="https://cromanps94.wufoo.com/forms/z1nmflk00kkq58w">online form</a>.
-</div>
-<div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;">Use <a href="http://www.wufoo.com/gallery/templates/">Wufoo templates</a> to make your own HTML forms.</div>
-<script type="text/javascript">var z1nmflk00kkq58w;(function(d, t) {
-var s = d.createElement(t), options = {
-'userName':'cromanps94',
-'formHash':'z1nmflk00kkq58w',
-'autoResize':true,
-'height':'517',
-'async':true,
-'host':'wufoo.com',
-'header':'show',
-'ssl':true};
-s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'www.wufoo.com/scripts/embed/form.js';
-s.onload = s.onreadystatechange = function() {
-var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
-try { z1nmflk00kkq58w = new WufooForm();z1nmflk00kkq58w.initialize(options);z1nmflk00kkq58w.display(); } catch (e) {}};
-var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
-})(document, 'script');</script>
+Cristian Roman-Palacios, Ph.D. student
+Department of Ecology and Evolutionary Biology 
+University of Arizona
+Biological Sciences West, Rm 310
+1041 E. Lowell St. 
+Tucson, AZ  85721
+cromanpa94@email.arizona.edu
