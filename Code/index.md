@@ -16,4 +16,4 @@ Muphy – Multiple Utilities in Phylogenetics
 
 This R package include some functions that I frequently use in my research. I'll probably be helpful for some! 
 
-(Try it yourself) [https://github.com/cromanpa94/muPHY]
+(Try it yourself)[https://github.com/cromanpa94/muPHY]
