@@ -12,8 +12,6 @@ share: false
 ---
 
 
-**Muphy** – *Multiple Utilities in Phylogenetics
+**Muphy** – *Multiple Utilities in Phylogenetics*
 
-This R package include some functions that I frequently use in my research.
-
-[Try it yourself!](https://github.com/cromanpa94/muPHY)
+This R package include some functions that I frequently use in my research. [Try it yourself!](https://github.com/cromanpa94/muPHY)
