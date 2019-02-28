@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: Home
-description: "My personal Website"
+description: "Cristian Román-Palacios's personal website"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
@@ -14,7 +14,7 @@ sass:
   style: compressed
 permalink: /:categories/:title/
 kramdown:
-  toc_levels: 1..2
+#  toc_levels: 1..2
 highlighter: rouge
 gems:
   - jekyll-sitemap
@@ -39,7 +39,7 @@ titlecase: true
 owner:
   name: Cristian Román-Palacios
   email: cromanpa94@email.arizona.edu
-  bio: "Ph.D. student at Wiens Lab (UofArizona). Mainly interested on Macroevolution and trait evolution"
+  bio: "Ph.D. student. Wiens's Lab (UofArizona). Mainly interested on Macroevolution and trait evolution"
   avatar: bio-photo.jpg # 160x160 px image for author byline
   google:
     plus: +CristianRomanPalaciosn
