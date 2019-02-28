@@ -7,11 +7,11 @@ image:
   feature:
   teaser:
   thumb:
-share: false
+share: true
 ads: false
 ---
 
-Abajo estan mis entradas con informacion potencialmente util!
+Guides on gradschool-related aspects / Entradas con informacion sobre postgrados!
 
 [1. Aplicar a un posgrado en USA](A.AppGradSc.md)
 
