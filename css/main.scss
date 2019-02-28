@@ -38,7 +38,7 @@ sitemap: false
 @import "buttons";
 @import "badges";
 @import "bullets";
-/*@import "sliding-menu";*/
+@import "sliding-menu";
 @import "menu-navicons"; /* animated 3 line menu icon */
 @import "notices";
 @import "animations";
@@ -46,7 +46,7 @@ sitemap: false
 @import "footnotes";
 @import "breadcrumbs";
 @import "syntax";
-
+@import "toc"; /* table of contents */
 /*
    Page specific
    ========================================================================== */
