@@ -49,4 +49,5 @@ owner:
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
 
 google_verify: LG_KnLguQHN2dFnje86YgIzOrPVdEH_jmdRIfJLIXrw
+google_analytics: UA-141115051-1
 
