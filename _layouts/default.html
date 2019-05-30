@@ -41,6 +41,10 @@
 
     <script src="{{ site.url }}/js/vendor/jquery-1.9.1.min.js"></script>
     <script src="{{ site.url }}/js/main.js"></script>
+    
+    {% if site.google_verify %}
+    <meta name="google-site-verification" content="{{ site.google_verify }}">
+{% endif %}
 
   </body>
 
