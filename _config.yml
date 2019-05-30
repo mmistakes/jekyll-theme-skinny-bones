@@ -51,3 +51,6 @@ exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefi
 google_verify: LG_KnLguQHN2dFnje86YgIzOrPVdEH_jmdRIfJLIXrw
 google_analytics: UA-141115051-1
 
+plugins:
+  - jekyll-seo-tag
+
