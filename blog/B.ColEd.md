@@ -33,7 +33,7 @@ References
 <sup>3</sup>[cna.gov](https://www.cna.gov.co/1741/articles-186370_ley_3092.pdf)
 
 
-**This write up was submitted (and rejected) for publication in Nature correspondence (December 2018)
+**This write up was submitted (and rejected) for publication in Nature correspondence (December 2018)**
 
 
 
