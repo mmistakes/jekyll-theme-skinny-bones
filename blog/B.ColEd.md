@@ -12,7 +12,7 @@ ads: false
 ---
 
 
-**Public higher education funding in Colombia: inefficient, inequitable, and outdated**
+# **Public higher education funding in Colombia: inefficient, inequitable, and outdated**
 
 Cristian Román-Palacios<sup>1</sup>, Francisco Henao-Diaz<sup>2</sup>, Alison Hamlin Harrington<sup>1</sup>
 
