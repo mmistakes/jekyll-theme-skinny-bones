@@ -12,7 +12,7 @@ ads: false
 ---
 
 
-Public higher education funding in Colombia: inefficient, inequitable, and outdated
+**Public higher education funding in Colombia: inefficient, inequitable, and outdated**
 
 Cristian Román-Palacios<sup>1</sup>, Francisco Henao-Diaz<sup>2</sup>, Alison Hamlin Harrington<sup>1</sup>
 
@@ -26,9 +26,9 @@ With little agreement from stakeholders in the public education system, Colombia
 In sum, the funding policy enacted in 1992 for Colombian public universities is rigid, anachronistic, and perpetuates inequality by restricting lower- and middle-class access to quality education. New state policies designed to resolve the current funding crisis should result from a consensus between the administration and public university stakeholders. This would promote the implementation of long-term solutions to the long-standing problem of public education funding while fostering both social and economic equality.
 
 References
-1https://openknowledge.worldbank.org/bitstream/handle/10986/26489/9781464810145.pdf
-2https://www.utp.edu.co/cms-utp/data/bin/UTP/web/uploads/media/comunicaciones/documentos/Informe-presidencia-SUE.pdf 
-3https://www.cna.gov.co/1741/articles-186370_ley_3092.pdf 
+<sup>1</sup>[worldbank](https://openknowledge.worldbank.org/bitstream/handle/10986/26489/9781464810145.pdf)
+<sup>2</sup>[utp.edu](https://www.utp.edu.co/cms-utp/data/bin/UTP/web/uploads/media/comunicaciones/documentos/Informe-presidencia-SUE.pdf)
+<sup>3</sup>[cna.gov](https://www.cna.gov.co/1741/articles-186370_ley_3092.pdf)
 
 
 **This write up was submitted (and rejected) for publication in Nature correspondence (December 2018)
