@@ -16,8 +16,9 @@ Public higher education funding in Colombia: inefficient, inequitable, and outda
 
 Cristian Román-Palacios<sup>1</sup>, Francisco Henao-Diaz<sup>2</sup>, Alison Hamlin Harrington<sup>1</sup>
 
-1Department of Ecology and Evolutionary Biology, University of Arizona, Tucson, AZ 85721-0088, USA. Email: cromanpa94@email.arizona.edu; aharrington@email.arizona.edu
-2Department of Zoology and Biodiversity Research Centre, University of British Columbia, Vancouver, B.C. V6T 1Z4, Canada. Email: fhenaod@zoology.ubc.ca 
+<sup>1</sup>Department of Ecology and Evolutionary Biology, University of Arizona, Tucson, AZ 85721-0088, USA. Email: cromanpa94@email.arizona.edu; aharrington@email.arizona.edu
+
+<sup>2</sup>Department of Zoology and Biodiversity Research Centre, University of British Columbia, Vancouver, B.C. V6T 1Z4, Canada. Email: fhenaod@zoology.ubc.ca 
 
 Colombia has recently been recognized as one of seven nations with high potential to become significant players in global higher education1. This follows recent changes in the political and social arena that have enabled prioritization of investment in education over the civil conflict that characterized Colombia's recent history. Yet, according to recent official reports, Colombian public higher education is currently underfunded by ~$18.2B COP2 (~$6B USD). Today, backed by multiple sectors of society, Colombian students and professors from public universities are on strike, demanding resources to safeguard equitable access to quality education.
 In 1992, the Colombian government determined that annual adjustments to the 1993 education budget onwards would be based on inflation3. Because inflation has grown considerably more slowly than demand for education, this policy has left most if not all public universities barely covering operational costs, with almost no resources left to invest in infrastructure, faculty hiring, research, and student wellness. While public universities have grown around 9.7% since 1992, funding has only increased by 5.7% in that time2. 
