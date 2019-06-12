@@ -11,8 +11,11 @@ share: true
 ads: false
 ---
 
+
 Public higher education funding in Colombia: inefficient, inequitable, and outdated
-Cristian Román-Palacios1, Francisco Henao-Diaz2, Alison Hamlin Harrington1
+
+Cristian Román-Palacios<sup>1</sup>, Francisco Henao-Diaz<sup>2</sup>, Alison Hamlin Harrington<sup>1</sup>
+
 1Department of Ecology and Evolutionary Biology, University of Arizona, Tucson, AZ 85721-0088, USA. Email: cromanpa94@email.arizona.edu; aharrington@email.arizona.edu
 2Department of Zoology and Biodiversity Research Centre, University of British Columbia, Vancouver, B.C. V6T 1Z4, Canada. Email: fhenaod@zoology.ubc.ca 
 
@@ -25,6 +28,9 @@ References
 1https://openknowledge.worldbank.org/bitstream/handle/10986/26489/9781464810145.pdf
 2https://www.utp.edu.co/cms-utp/data/bin/UTP/web/uploads/media/comunicaciones/documentos/Informe-presidencia-SUE.pdf 
 3https://www.cna.gov.co/1741/articles-186370_ley_3092.pdf 
+
+
+**This write up was submitted (and rejected) for publication in Nature correspondence (December 2018)
 
 
 
