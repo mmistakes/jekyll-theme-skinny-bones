@@ -14,6 +14,8 @@ ads: false
 Guides on gradschool-related aspects / Entradas con informacion sobre postgrados!
 
 [1. Aplicar a un posgrado en USA](A.AppGradSc.md)
+[2. Public higher education funding in Colombia: inefficient, inequitable, and outdated](B.ColEd.md)
+
 
 
 
