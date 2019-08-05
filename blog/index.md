@@ -17,6 +17,8 @@ Guides on gradschool-related aspects / Entradas con informacion sobre postgrados
 
 [2. Public higher education funding in Colombia: inefficient, inequitable, and outdated](B.ColEd.md)
 
+[3. Convocatorias docentes en Colombia](c.Convocatorias.md)
+
 
 
 
