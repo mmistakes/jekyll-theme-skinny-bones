@@ -43,7 +43,7 @@ Enlaces a instituciones con programas de Biologia en Colombia con posibles vacan
 
 [Universidad del Atlántico](https://www.uniatlantico.edu.co/uatlantico/docencia)
 
-[Universidad de Caldas]	(http://concursodocente.ucaldas.edu.co/)
+[Universidad de Caldas](http://concursodocente.ucaldas.edu.co/)
 
 [Universidad del Tolima](http://administrativos.ut.edu.co/convocatorias-academicos/convocatorias-catedraticos/convocatoria-1-semestre-a-2019/calendario.html#)
 
@@ -51,7 +51,7 @@ Enlaces a instituciones con programas de Biologia en Colombia con posibles vacan
 
 [Universidad Pedagógica y Tecnológica de Colombia](http://www.uptc.edu.co/universidad/convocatorias/)	
 
-[Universidad Central]	(https://www.ucentral.edu.co/docentes/convocatorias-facultad-ingenieria-ciencias-basicas)
+[Universidad Central](https://www.ucentral.edu.co/docentes/convocatorias-facultad-ingenieria-ciencias-basicas)
 
 [Universidad EAFIT](https://www.elempleo.com/sitios-empresariales/colombia/universidad-eafit/quieres_trabajar_nosotros.asp)	
 
@@ -77,6 +77,7 @@ Pontificia Universidad Javeriana
 Universidad de Bogotá Jorge Tadeo Lozano
 
 Universidad Católica de Manizales	
+
 
 
 
