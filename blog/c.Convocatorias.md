@@ -18,7 +18,9 @@ Enlaces a instituciones con programas de Biologia en Colombia con posibles vacan
 #Universidades
 
 [Universidad Nacional de Colombia](http://docentes.unal.edu.co/en/concurso-profesoral.html)
+
 [Universidad del Rosario Colombia](https://www.urosario.edu.co/convocatoria-profesores/inicio/)	
+
 [Universidad del Cauca](http://www.unicauca.edu.co/versionP/documentos?categoria=96&emitido=All&title=docente&body=)
 [Universidad del Magdalena](http://ciudadano.unimagdalena.edu.co/index.php?option=com_remository&Itemid=131&func=select&id=105)
 [Universidad Tecnológica de Pereira](https://www.utp.edu.co/contratacion/concursos/1/concurso-de-meritos)
