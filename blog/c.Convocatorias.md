@@ -58,6 +58,10 @@ Enlaces a instituciones con programas de Biologia en Colombia con posibles vacan
 
 
 
+
+
+
+
 **Intituciones adicionales con poca información:**
 
 Universidad de los Andes	
