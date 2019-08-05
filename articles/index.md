@@ -13,7 +13,7 @@ share: false
 
 ---
 
-Peer-reviewed articles
+# Peer-reviewed articles
 
 *Equal contribution
 
@@ -73,7 +73,7 @@ Peer-reviewed articles
 
 ---
 
-#Preprints
+# Preprints
 
 ---
 
