@@ -42,7 +42,7 @@ Peer-reviewed articles
 
 (12.) **Cristian Román-P****, Yherson Franchesco Molina-Henao, Ranulfo Gonzalez-Obando. On the divergence of Psocidae (Psocodea, Psocomorpha): Fossils or biogeography. Boletin del Museo de Entomologia de la Universidad del Valle, 17: 37 - 46, 2017. [PDF](2017_Roman-Palacios et al. 2017_Psocidae_Divergence.pdf)
 
-(11.) **Cristian Román-P****,Sara Fernandez Garzon, Alejandro Valencia–Zuleta, Andrés F. Jaramillo–Martínez, Ronald A. Viáfara–Vega. Lista anotada de la herpetofauna del departamento del Quindío, Colombia. Biota Colombiana, 18: 251 - 281, 2017. [PDF](2017_Román2017_Roman-Palacios et al. 2017_Quindio_Herps.pdf)
+(11.) **Cristian Román-P****,Sara Fernandez Garzon, Alejandro Valencia–Zuleta, Andrés F. Jaramillo–Martínez, Ronald A. Viáfara–Vega. Lista anotada de la herpetofauna del departamento del Quindío, Colombia. Biota Colombiana, 18: 251 - 281, 2017. [PDF](2017_Roman-Palacios et al. 2017_Quindio_Herps.pdf)
 
 
 >2016
