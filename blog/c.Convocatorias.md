@@ -15,7 +15,7 @@ Enlaces a instituciones con programas de Biologia en Colombia con posibles vacan
 
 *****
 
-#Universidades
+# Universidades
 
 [Universidad Nacional de Colombia](http://docentes.unal.edu.co/en/concurso-profesoral.html)
 
@@ -83,7 +83,7 @@ Universidad Católica de Manizales
 
 
 
-#Centros de investigación
+# Centros de investigación
 
 Instituto de Investigación de Recursos Biológicos Alexander von Humboldt[http://www.humboldt.org.co/es/instituto/que-hacemos/trabaja-con-nosotros]
 
