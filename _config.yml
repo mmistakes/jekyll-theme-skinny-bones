@@ -54,4 +54,3 @@ google_analytics: UA-141115051-1
 plugins:
   - jekyll-seo-tag
 
-plugins: - jekyll-sitemap
