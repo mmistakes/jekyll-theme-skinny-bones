@@ -21,7 +21,7 @@ Peer-reviewed articles
 
 >2018
 
-(18.) Andreas, L. Meyer, **Cristian Román‐Palacios**, and John. J. Wiens (2018). BAMM gives misleading rate estimates in simulated and empirical datasets. Evolution, 72, 2257-2266. <a target="_blank" href="https://onlinelibrary.wiley.com/doi/full/10.1111/evo.13574">PDF</a>
+(18.) Andreas, L. Meyer, **Cristian Román‐Palacios**, and John. J. Wiens (2018). BAMM gives misleading rate estimates in simulated and empirical datasets. Evolution, 72, 2257-2266. [PDF](2018_Meyer_et_al_Evol_2018_BAMM.pdf)
 
 (17.) Aldrete, A. N. G., Carrejo, N. S., Mendivil, J., Calderón, N., Saenz, O., Panche, J., **Román- Palacios,C.**, and Obando, R. G. (2018). Checklist of ‘Psocoptera’(Psocodea) of Colombia and identification key to the families. Dugesiana, 25(2), 77-103. <a target="_blank" href="http://dugesiana.cucba.udg.mx/index.php/DUG/article/view/7031">PDF</a>
 
