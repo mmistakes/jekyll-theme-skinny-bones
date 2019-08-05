@@ -56,7 +56,9 @@ Enlaces a instituciones con programas de Biologia en Colombia con posibles vacan
 [Universidad EAFIT](https://www.elempleo.com/sitios-empresariales/colombia/universidad-eafit/quieres_trabajar_nosotros.asp)	
 
 
-Adicionales con poca información:
+
+
+**Intituciones adicionales con poca información:**
 
 Universidad de los Andes	
 
