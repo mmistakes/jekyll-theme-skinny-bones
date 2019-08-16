@@ -28,3 +28,8 @@ This R package include some functions that are useful to build and train models 
 
 **Homebrew** 
 Personal repository of alternative versions of paricular software. [Here!](https://github.com/cromanpa94/Homebrew-AlternativeVersions)
+
+**I have also been involved in serveral data carpentry workshops**
+
+[Tucson (2018-10-27)](https://uhilgert.github.io/2018-10-27-Tucson/)
+[Tucson (2019-02-23)](https://ua-carpentries-workshops.github.io/2019-02-23-Tucson/)
