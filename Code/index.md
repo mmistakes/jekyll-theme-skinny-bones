@@ -12,11 +12,18 @@ share: false
 ---
 
 
+# R packages
+
 **rPhylota** – *Download ortholog clusters from Phylota*
 
-This R package include some functions that used to work fine with the previous implementation of Phylota. Needs to be updated [Try it yourself!](https://github.com/cromanpa94/muPHY)
+This R package include some functions that used to work fine with the previous implementation of Phylota. Needs to be updated [Try it yourself!](https://github.com/cromanpa94/rPHYLOTA)
 
 
 **BTOpenNLP** – *Building and Training openNLP models in R*
 
 This R package include some functions that are useful to build and train models under openNLP. [Try it yourself!](https://github.com/cromanpa94/BTOpenNLP)
+
+
+# Other
+
+**Homebrew: personal repository of alternative versions of paricular software. [Here!](https://github.com/cromanpa94/Homebrew-AlternativeVersions)
