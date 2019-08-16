@@ -14,7 +14,7 @@ share: false
 
 # R packages
 
-**rPhylota** – *Download ortholog clusters from Phylota*
+**rPHYLOTA** – *Download ortholog clusters from Phylota*
 
 This R package include some functions that used to work fine with the previous implementation of Phylota. Needs to be updated [Try it yourself!](https://github.com/cromanpa94/rPHYLOTA)
 
