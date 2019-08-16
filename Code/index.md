@@ -11,10 +11,9 @@ image:
 share: false
 ---
 
-# Coding
+# Code
 
-
-# R packages
+## R packages
 
 **rPHYLOTA** – *Download ortholog clusters from Phylota*
 
@@ -26,13 +25,13 @@ This R package include some functions that used to work fine with the previous i
 This R package include some functions that are useful to build and train models under openNLP. [Try it yourself!](https://github.com/cromanpa94/BTOpenNLP)
 
 
-# Other
+## Other
 
 **Homebrew** 
 Personal repository of alternative versions of paricular software. [Here!](https://github.com/cromanpa94/Homebrew-AlternativeVersions)
 
 
-# Data carpentry workshops
+## Data carpentry workshops
 
 [Tucson (2018-10-27)](https://uhilgert.github.io/2018-10-27-Tucson/)
 
