@@ -30,9 +30,15 @@ This R package include some functions that are useful to build and train models 
 **Homebrew** 
 Personal repository of alternative versions of paricular software. [Here!](https://github.com/cromanpa94/Homebrew-AlternativeVersions)
 
+# Outreach
 
-## Data carpentry workshops
+### Data carpentry workshops
 
 [Tucson (2018-10-27)](https://uhilgert.github.io/2018-10-27-Tucson/)
 
 [Tucson (2019-02-23)](https://ua-carpentries-workshops.github.io/2019-02-23-Tucson/)
+
+
+### Data science ambassador (2018–2019)
+
+[DSA-UArizona](https://datascience.arizona.edu/person/cristian-rom%C3%A1n-palacios)
