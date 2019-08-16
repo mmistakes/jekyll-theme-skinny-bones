@@ -26,4 +26,5 @@ This R package include some functions that are useful to build and train models 
 
 # Other
 
-**Homebrew: personal repository of alternative versions of paricular software. [Here!](https://github.com/cromanpa94/Homebrew-AlternativeVersions)
+**Homebrew** 
+Personal repository of alternative versions of paricular software. [Here!](https://github.com/cromanpa94/Homebrew-AlternativeVersions)
