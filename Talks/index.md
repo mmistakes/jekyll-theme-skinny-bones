@@ -15,9 +15,5 @@ ads: false
 
 *Narrando historias a través del Árbol de la vida: Sistemática, macroevolución y cambio climatico*
 
-Link below: https://www.youtube.com/watch?v=lwHcw65gxI0
-
-[![ICN](https://img.youtube.com/vi/lwHcw65gxI0/0.jpg)](https://www.youtube.com/watch?v=lwHcw65gxI0 "ICN")
-
-
+[**Link to the talk**](https://www.youtube.com/watch?v=lwHcw65gxI0)
 ![Flyer_ICN](ICN_Talk_2019.jpg)
