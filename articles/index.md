@@ -77,12 +77,27 @@ share: false
 
 ---
 
-3. **Román-Palacios, C.**, Molina-Henao, Y. F., & Barker, M. S. (2019). Polyploidy increases overall diversity despite higher turnover than diploids in the Brassicaceae. bioRxiv, 717306. [link](https://www.biorxiv.org/content/10.1101/717306v1)
+3. **Cristian Román-Palacios**, Yherson Franchesco Molina-Henao, and Michael S. Barker (2019). Polyploidy increases overall diversity despite higher turnover than diploids in the Brassicaceae. bioRxiv, 717306. [link](https://www.biorxiv.org/content/10.1101/717306v1)
 
-2. Miller, E. C., & **Román-Palacios, C.** (2019). Evolutionary time explains the global distribution of freshwater fish diversity. bioRxiv, 668079. [link](https://www.biorxiv.org/content/10.1101/668079v1.abstract)
+2. Elizabeth C. Miller, and **Cristian Román-Palacios** (2019). Evolutionary time explains the global distribution of freshwater fish diversity. bioRxiv, 668079. [link](https://www.biorxiv.org/content/10.1101/668079v1.abstract)
 
 1. **Cristian Román-P** and Daniela Moraga Lopez. Rebuilding the evolutionary and ecological history of the sea skaters Halobates spp. (Heteroptera: Gerridae). PeerJ Preprint, page 3:e1416, 2015. [link](https://peerj.com/preprints/1164/)
 
-
-
 ---
+
+
+
+
+# Non-peer-reviewed articles
+
+3. **Cristian Román-Palacios**. 2019. Five tips for nailing your US-based graduate-school applications.
+Nature, [10.1038/d41586-019-00845-z](https://www.nature.com/articles/d41586-019-00845-z)
+
+2. **Cristian Román-Palacios**. 2017. P-valores, alpha y beta: ¿Cuanto nos equivocamos en Biologia?. Boletin del Posgrado en Ciencias Biologia. Universidad del Valle, 3:24-26.[PDF](Roman-Palacios 2017_stat.pdf)
+
+1. **Cristian Román-Palacios**. 2016. ¿Conservan las áreas protegidas la biodiversidad en Colombia?. Boletin del Posgrado en Ciencias Biologia. Universidad del Valle, 2:79-82.[PDF](Roman-Palacios_2016_Areas_Protegidas.pdf)
+
+
+
+
+
