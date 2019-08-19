@@ -14,5 +14,8 @@ ads: false
 ## Universidad Nacional de Colombia, Bogotá (May 2019)
 
 *Narrando historias a través del Árbol de la vida: Sistemática, macroevolución y cambio climatico*
-<center>[**Link to the talk**](https://www.youtube.com/watch?v=lwHcw65gxI0)</center>
+<p align="justify">
+  [**Link to the talk**](https://www.youtube.com/watch?v=lwHcw65gxI0)
+</p>
+
 ![Flyer_ICN](ICN_Talk_2019.jpg)
