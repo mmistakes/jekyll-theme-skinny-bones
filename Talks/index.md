@@ -23,7 +23,9 @@ ______
   <br><br>
   <img src="ICN_Talk_2019.jpg">
 </p>
-<br>
+&nbsp;
+&nbsp;
+
 ______
 
 ### Universidad del Quindio, Armenia, Colombia (July 2019)
