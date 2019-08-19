@@ -21,9 +21,17 @@ ads: false
 </p>
 
 
-## Universidad del Quindio, Armenia (July 2019)
+## Universidad del Quindio, Armenia, Colombia (July 2019)
 
 <p align="center">
   <b>Flyer:</b><br>
   <img src="UQ_Talk_2019.JPG">
+</p>
+
+
+## Universidad del Valle, Cali, Colombia (July 2019)
+
+<p align="center">
+  <b>Flyer:</b><br>
+  <img src="UV_Talk_2019.jpg">
 </p>
