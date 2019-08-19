@@ -20,6 +20,7 @@ ads: false
   <img src="ICN_Talk_2019.jpg">
 </p>
 
+***
 
 ## Universidad del Quindio, Armenia, Colombia (July 2019)
 
@@ -28,6 +29,7 @@ ads: false
   <img src="UQ_Talk_2019.JPG">
 </p>
 
+***
 
 ## Universidad del Valle, Cali, Colombia (July 2019)
 
