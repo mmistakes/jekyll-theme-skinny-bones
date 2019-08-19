@@ -25,6 +25,5 @@ ads: false
 
 <p align="center">
   <b>Flyer:</b><br>
-  <br><br>
   <img src="UQ_Talk_2019.JPG">
 </p>
