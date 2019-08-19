@@ -12,7 +12,6 @@ ads: false
 ---
 
 
-# INVITED TALKS
 &nbsp;
 &nbsp;
 &nbsp;
