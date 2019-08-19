@@ -22,7 +22,7 @@ ads: false
 
 
 <p align="center">
-  <b>Some Links:</b><br>
+  <b>Link:</b><br>
   <a href="https://www.youtube.com/watch?v=lwHcw65gxI0">Youtube video</a>
   <br><br>
   <img src="ICN_Talk_2019.jpg">
