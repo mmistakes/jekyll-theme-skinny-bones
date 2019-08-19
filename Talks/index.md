@@ -19,3 +19,12 @@ ads: false
   <br><br>
   <img src="ICN_Talk_2019.jpg">
 </p>
+
+
+## Universidad del Quindio, Armenia (July 2019)
+
+<p align="center">
+  <b>Flyer:</b><br>
+  <br><br>
+  <img src="UQ_Talk_2019.JPG">
+</p>
