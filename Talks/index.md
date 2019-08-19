@@ -11,7 +11,11 @@ share: true
 ads: false
 ---
 
-## Universidad Nacional de Colombia, Bogotá (May 2019)
+
+# INVITED TALKS
+***
+
+### Universidad Nacional de Colombia, Bogotá (May 2019)
 
 <p align="center">
   <b>Link:</b><br>
@@ -22,7 +26,7 @@ ads: false
 
 ***
 
-## Universidad del Quindio, Armenia, Colombia (July 2019)
+### Universidad del Quindio, Armenia, Colombia (July 2019)
 
 <p align="center">
 
@@ -31,7 +35,7 @@ ads: false
 
 ***
 
-## Universidad del Valle, Cali, Colombia (July 2019)
+### Universidad del Valle, Cali, Colombia (July 2019)
 
 <p align="center">
 
