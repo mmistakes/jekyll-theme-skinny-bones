@@ -13,6 +13,11 @@ ads: false
 
 
 # INVITED TALKS
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
 ______
 
 ### Universidad Nacional de Colombia, Bogotá (May 2019)
@@ -25,6 +30,8 @@ ______
 </p>
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
 
 ______
 
@@ -34,6 +41,10 @@ ______
 
   <img src="UQ_Talk_2019.JPG">
 </p>
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ______
 
