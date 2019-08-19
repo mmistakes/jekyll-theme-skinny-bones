@@ -23,9 +23,7 @@ ads: false
 
 <p align="center">
   <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
+  <a href="https://www.youtube.com/watch?v=lwHcw65gxI0">Youtube video</a>
   <br><br>
-  <img src="http://s.4cdn.org/image/title/105.gif">
+  <img src="ICN_Talk_2019.jpg">
 </p>
