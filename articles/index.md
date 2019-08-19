@@ -93,7 +93,7 @@ share: false
 3. **Cristian Román-Palacios**. 2019. Five tips for nailing your US-based graduate-school applications.
 Nature, [10.1038/d41586-019-00845-z](https://www.nature.com/articles/d41586-019-00845-z)
 
-2. **Cristian Román-Palacios**. 2017. P-valores, alpha y beta: ¿Cuanto nos equivocamos en Biologia?. Boletin del Posgrado en Ciencias Biologia. Universidad del Valle, 3:24-26.[PDF](Roman-Palacios 2017_stat.pdf)
+2. **Cristian Román-Palacios**. 2017. P-valores, alpha y beta: ¿Cuanto nos equivocamos en Biologia?. Boletin del Posgrado en Ciencias Biologia. Universidad del Valle, 3:24-26.[PDF](Roman-Palacios_2017_stat.pdf)
 
 1. **Cristian Román-Palacios**. 2016. ¿Conservan las áreas protegidas la biodiversidad en Colombia?. Boletin del Posgrado en Ciencias Biologia. Universidad del Valle, 2:79-82.[PDF](Roman-Palacios_2016_Areas_Protegidas.pdf)
 
