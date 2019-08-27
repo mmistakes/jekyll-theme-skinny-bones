@@ -6,7 +6,8 @@ excerpt: "Custom written post descriptions are the way to go... if you're not la
 ads: true
 share: false
 image:
-  feature: lock-1600x800.jpg
+  feature: &image lock-1600x800.jpg
+  path: *image
   teaser: lock-400x250.jpg
   credit: Michael Rose
   creditlink: http://mademistakes.com
