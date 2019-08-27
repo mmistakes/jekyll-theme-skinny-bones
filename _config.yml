@@ -5,7 +5,7 @@ description: "A lightweight site starter for Jekyll"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
-url: "https://mmistakes.github.io/skinny-bones-jekyll"
+url: "https://mmistakes.github.io/jekyll-theme-skinny-bones"
 feed:
   path: atom.xml
 

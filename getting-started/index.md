@@ -22,15 +22,15 @@ Skinny Bones requires [Jekyll](http://jekyllrb.com/) 3.0. Make sure to run `bund
 
 If you are creating a new Jekyll site using Skinny Bones following these steps:
 
-1. [Download Skinny Bones](https://github.com/mmistakes/skinny-bones-jekyll/archive/master.zip) and unzip.
-2. Rename `skinny-bones-jekyll-master` to something meaningful ie: `new-site`
+1. [Download Skinny Bones](https://github.com/mmistakes/jekyll-theme-skinny-bones/archive/master.zip) and unzip.
+2. Rename `jekyll-theme-skinny-bones-master` to something meaningful ie: `new-site`
 3. Run `bundle install` to install all Jekyll and all dependencies.
 4. Update `_config.yml`, add navigation, and add posts/pages. Full details below.
 
 If you want to use Skinny Bones with an existing Jekyll site follow these steps:
 
-1. [Download Skinny Bones](https://github.com/mmistakes/skinny-bones-jekyll/archive/master.zip) and unzip.
-2. Rename `skinny-bones-jekyll-master` to something meaningful ie: `new-site`
+1. [Download Skinny Bones](https://github.com/mmistakes/jekyll-theme-skinny-bones/archive/master.zip) and unzip.
+2. Rename `jekyll-theme-skinny-bones-master` to something meaningful ie: `new-site`
 3. Run `bundle install` to install all Jekyll and all dependencies.
 4. Add all of your existing posts, pages, and any other content you want to move over.
 5. Update YAML front matter blocks to match names used by Skinny Bones. Full details below.
@@ -59,7 +59,7 @@ bundle exec jekyll serve
 How Skinny Bones is organized and what the various files are. All posts, layouts, includes, stylesheets, assets, and whatever else is grouped nicely under the root folder. The compiled Jekyll site outputs to `_site/`.
 
 ```bash
-skinny-bones-jekyll-master
+jekyll-theme-skinny-bones-master
 ├── _site                               # compiled site ready to deploy
 ├── _images                             # unoptimized images
 ├── _includes                           # reusable blocks for _layouts
@@ -150,7 +150,7 @@ Used to generate absolute URLs in `sitemap.xml`, `atom.xml`, and for generating 
 Examples:
 
 ```yaml
-url: https://mmistakes.github.io/skinny-bones-jekyll
+url: https://mmistakes.github.io/jekyll-theme-skinny-bones
 url: http://localhost:4000
 url: https://yourdomain.com
 url: 
@@ -356,7 +356,7 @@ To streamline the creation of posts and pages, [Jekyll::Compose](https://github.
 
 ## Contributing
 
-Found a bug or aren't quite sure how something works? By all means [submit an issue](https://github.com/mmistakes/skinny-bones-jekyll/issues) on GitHub. For straight forward bug fixes feel free to submit pull requests. 
+Found a bug or aren't quite sure how something works? By all means [submit an issue](https://github.com/mmistakes/jekyll-theme-skinny-bones/issues) on GitHub. For straight forward bug fixes feel free to submit pull requests. 
 
 **Skinny Bones** was built predominately as a framework for [my own site](http://mademistakes.com). My intention was never to make it all things for all people. So please keep that in mind before submitting new features or enhancements. If you've used any of my [Jekyll themes](http://mademistakes.com/work/jekyll-themes/) I think it's pretty clear what I like and what I try to avoid. When in doubt ask before wasting your time on a feature that won't get merged in.
 
