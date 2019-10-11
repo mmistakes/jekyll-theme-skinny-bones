@@ -21,6 +21,19 @@
     <meta http-equiv="cleartype" content="on">
 
     <link rel="stylesheet" href="{{ site.url }}/css/main.css">
+    
+    {% if page.ghfr.display != null %}
+      {% assign ghfr_display = page.ghfr.display %}
+    {% else %}
+      {% assign ghfr_display = site.ghfr.display %}
+    {% endif %}
+    {% unless ghfr_display == false %}
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.1.1/gh-fork-ribbon.min.css" />
+    <!--[if lt IE 9]>
+        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.1.1/gh-fork-ribbon.ie.min.css" />
+    <![endif]-->
+    {% endunless %}
+
     <!-- HTML5 Shiv and Media Query Support for IE -->
     <!--[if lt IE 9]>
       <script src="{{ site.url }}/js/vendor/html5shiv.min.js"></script>
@@ -31,6 +44,7 @@
 
   <body id="js-body">
     {% include browser-upgrade.html %}
+    {% include ghfr.html %}
     {% include header.html %}
     {% include navigation-sliding.html %}
 
