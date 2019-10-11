@@ -1,7 +1,27 @@
+{% if page.locale %}
+  {% assign locale = page.locale %}
+{% else %}
+  {% assign locale = site.locale %}
+{% endif %}
+
+{% capture navigation_name %}navigation_{{ locale }}{% endcapture %}
+{% if site.data[navigation_name] %}
+  {% assign navigation = site.data[navigation_name] %}
+{% else %}
+  {% assign navigation = site.data.navigation %}
+{% endif %}
+
 <nav role="navigation" id="js-menu" class="sliding-menu-content">
-  <h5>{{ site.title }} <span>{{ site.data.messages.locales[site.locale].toc }}</span></h5>
+  <h5>{{ site.title }} <span>{{ site.data.messages.locales[locale].toc }}</span></h5>
   <ul class="menu-item">
-    {% for link in site.data.navigation %}<li>
+    {% for link in navigation %}<li>
+      <a href="{{ site.url }}{{ link.url }}">
+        {% if link.image %}<img src="{{ site.url }}/images/{{ link.image }}" alt="teaser" class="teaser">{% endif %}
+        <div class="title">{{ link.title }}</div>
+        {% if link.excerpt %}<p class="excerpt">{{ link.excerpt }}</p>{% endif %}
+      </a>
+    </li>{% endfor %}
+    {% for link in page.navigation %}<li>
       <a href="{{ site.url }}{{ link.url }}">
         {% if link.image %}<img src="{{ site.url }}/images/{{ link.image }}" alt="teaser" class="teaser">{% endif %}
         <div class="title">{{ link.title }}</div>
