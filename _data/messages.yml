@@ -27,6 +27,18 @@ locales:
   de_DE:
     <<: *DEFAULT_DE     # use German translation for de_DE
 
+  # Chinese translation
+  # -------------------
+  zh: &DEFAULT_ZH
+    <<: *DEFAULT_EN     # load English values as default
+    overview: "总览"
+    toc: "目录"
+    written_by: "作者"
+    updated: "更新于"
+    share: "分享到"
+  zh_CN:
+    <<: *DEFAULT_ZH     # use Chinese translation for zh_CN
+
   # French translation (TODO)
   # -------------------
   fr: &DEFAULT_FR
